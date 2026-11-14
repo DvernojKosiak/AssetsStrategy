@@ -1,0 +1,43 @@
+# vse-v-odnom-5: перенос и снос из панели здания, переплавка в Оружейной, плашка часов наверху
+✖ Отменить	✖ Cancel
+Взять здание в руки и поставить в другом месте: ведите пальцем, потом «✓ Поставить»	Pick the building up and put it somewhere else: drag with your finger, then tap «✓ Place»
+Бесплатно	Free
+Перенести здание в другое место (M)	Move the building to another place (M)
+Отменить стройку: вернётся вся цена (X)	Cancel construction: the full price comes back (X)
+Отменить стройку: вернётся вся цена	Cancel construction: the full price comes back
+Снести здание: вернётся часть цены, спросим ещё раз (X)	Demolish the building: part of the price comes back, you will be asked again (X)
+Снести здание: вернётся часть цены, спросим ещё раз	Demolish the building: part of the price comes back, you will be asked again
+Ведите пальцем · «✓ Поставить»	Drag with your finger · «✓ Place»
+Перенести или снести здание: нажмите на него — кнопки «Перенести» и «Снести» под его окном	To move or demolish a building, tap it: the «Move» and «Demolish» buttons are under its window
+Или удерживайте палец на здании	Or hold your finger on the building
+Наверху справа — часы и мана (✦)	The clock and mana (✦) are at the top right
+День сменяется ночью: ночью и в выходные на производстве остаётся только дежурная смена, остальные отдыхают дома	Day turns into night: at night and on weekends only a skeleton crew stays at work, everyone else rests at home
+День {0}, сейчас {1}	Day {0}, now {1}
+день, выходной	day, weekend
+ночь, выходной	night, weekend
+Сутки: день {0} мин + ночь {1} мин (общее время сервера)	A full day: daytime {0} min + night {1} min (shared server time)
+Сутки: день {0} мин + ночь {1} мин (при x1)	A full day: daytime {0} min + night {1} min (at x1)
+✦ Мана в воздухе {0}% — новая каждый день	✦ Mana in the air {0}% — new every day
+Маги и целители работают на x{0} (при 0% — x{1}, при 100% — x{2})	Mages and healers work at x{0} (at 0% — x{1}, at 100% — x{2})
+Маги и целители работают на x{0}	Mages and healers work at x{0}
+F10 — спрятать плашку	F10 — hide the bar
+Продолжить (F1)	Resume (F1)
+Пауза (F1)	Pause (F1)
+Скорость игры: x1 → x2 → x4 → x10	Game speed: x1 → x2 → x4 → x10
+F2 — x1, F3 — x2, F4 — x4, F5 — x10	F2 — x1, F3 — x2, F4 — x4, F5 — x10
+Переплавить	Melt down
+Точно?	Sure?
+Нажмите ещё раз — предмет исчезнет, в Цитадель вернётся: {0}	Tap again: the item disappears and the Citadel gets back: {0}
+Переплавить, чтобы освободить место	Melt down to free up space
+Вернётся совсем немного: {0}	You get back very little: {0}
+Эффекты на предмете пропадут	Effects on the item are lost
+Нажать два раза	Tap twice
+Оружейная: переплавлено — {0} (+{1})	Armory: melted down — {0} (+{1})
+К этому луку несут эффект — подождите	An effect is being brought to this bow — please wait
+доска	plank
+сталь	steel
+ничего	nothing
+Склад полон — переплавьте лишнее на вкладке «Склад»	Storage full — melt down what you do not need on the «Storage» tab
+лишнее можно переплавить	you can melt down what you do not need
+Лишнее (например, трофеи из набегов) можно переплавить на вкладке «Склад», чтобы освободить место: вернётся 1 сталь или 1 доска	Things you do not need (for example raid trophies) can be melted down on the «Storage» tab to free up space: you get back 1 steel or 1 plank
+Лишнее можно переплавить в Оружейной	You can melt down what you do not need in the Armory

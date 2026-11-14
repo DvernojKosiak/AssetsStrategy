@@ -1,0 +1,43 @@
+# vse-v-odnom-5: perkėlimas ir griovimas iš pastato lango, perlydymas Ginklinėje, laikrodžio juosta viršuje
+✖ Отменить	✖ Atšaukti
+Взять здание в руки и поставить в другом месте: ведите пальцем, потом «✓ Поставить»	Paimkite pastatą ir pastatykite kitur: veskite pirštu, tada «✓ Pastatyti»
+Бесплатно	Nemokamai
+Перенести здание в другое место (M)	Perkelti pastatą į kitą vietą (M)
+Отменить стройку: вернётся вся цена (X)	Atšaukti statybą: grįš visa kaina (X)
+Отменить стройку: вернётся вся цена	Atšaukti statybą: grįš visa kaina
+Снести здание: вернётся часть цены, спросим ещё раз (X)	Nugriauti pastatą: grįš dalis kainos, dar kartą paklausime (X)
+Снести здание: вернётся часть цены, спросим ещё раз	Nugriauti pastatą: grįš dalis kainos, dar kartą paklausime
+Ведите пальцем · «✓ Поставить»	Veskite pirštu · «✓ Pastatyti»
+Перенести или снести здание: нажмите на него — кнопки «Перенести» и «Снести» под его окном	Norėdami perkelti ar nugriauti pastatą, paspauskite jį: mygtukai «Perkelti» ir «Nugriauti» yra po jo langu
+Или удерживайте палец на здании	Arba palaikykite pirštą ant pastato
+Наверху справа — часы и мана (✦)	Viršuje dešinėje – laikrodis ir mana (✦)
+День сменяется ночью: ночью и в выходные на производстве остаётся только дежурная смена, остальные отдыхают дома	Dieną keičia naktis: naktį ir savaitgaliais darbe lieka tik budinti pamaina, kiti ilsisi namuose
+День {0}, сейчас {1}	Diena {0}, dabar {1}
+день, выходной	diena, savaitgalis
+ночь, выходной	naktis, savaitgalis
+Сутки: день {0} мин + ночь {1} мин (общее время сервера)	Para: diena {0} min + naktis {1} min (bendras serverio laikas)
+Сутки: день {0} мин + ночь {1} мин (при x1)	Para: diena {0} min + naktis {1} min (esant x1)
+✦ Мана в воздухе {0}% — новая каждый день	✦ Mana ore {0}% – kasdien nauja
+Маги и целители работают на x{0} (при 0% — x{1}, при 100% — x{2})	Magai ir gydytojai dirba x{0} (esant 0% – x{1}, esant 100% – x{2})
+Маги и целители работают на x{0}	Magai ir gydytojai dirba x{0}
+F10 — спрятать плашку	F10 – paslėpti juostą
+Продолжить (F1)	Tęsti (F1)
+Пауза (F1)	Pauzė (F1)
+Скорость игры: x1 → x2 → x4 → x10	Žaidimo greitis: x1 → x2 → x4 → x10
+F2 — x1, F3 — x2, F4 — x4, F5 — x10	F2 – x1, F3 – x2, F4 – x4, F5 – x10
+Переплавить	Perlydyti
+Точно?	Tikrai?
+Нажмите ещё раз — предмет исчезнет, в Цитадель вернётся: {0}	Paspauskite dar kartą: daiktas dings, į Citadelę grįš: {0}
+Переплавить, чтобы освободить место	Perlydyti, kad atsilaisvintų vietos
+Вернётся совсем немного: {0}	Grįš visai nedaug: {0}
+Эффекты на предмете пропадут	Daikto efektai dings
+Нажать два раза	Paspausti du kartus
+Оружейная: переплавлено — {0} (+{1})	Ginklinė: perlydyta – {0} (+{1})
+К этому луку несут эффект — подождите	Šiam lankui nešamas efektas – palaukite
+доска	lenta
+сталь	plienas
+ничего	nieko
+Склад полон — переплавьте лишнее на вкладке «Склад»	Sandėlis pilnas – nereikalingus daiktus perlydykite skirtuke «Sandėlis»
+лишнее можно переплавить	nereikalingus daiktus galima perlydyti
+Лишнее (например, трофеи из набегов) можно переплавить на вкладке «Склад», чтобы освободить место: вернётся 1 сталь или 1 доска	Nereikalingus daiktus (pvz., antpuolių trofėjus) galima perlydyti skirtuke «Sandėlis», kad atsilaisvintų vietos: grįš 1 plienas arba 1 lenta
+Лишнее можно переплавить в Оружейной	Nereikalingus daiktus galima perlydyti Ginklinėje

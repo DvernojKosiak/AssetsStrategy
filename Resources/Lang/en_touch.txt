@@ -1,0 +1,41 @@
+# Сенсорное управление (Mobile/): дополнение к en.txt
+Авто	Auto
+Вкл	On
+Выкл	Off
+Все бойцы	All soldiers
+Два пальца: развести или свести — приблизить или отдалить, вести — двигать карту	Two fingers: spread or pinch to zoom in or out, drag to move the map
+Добавлять: да	Add: yes
+Добавлять: нет	Add: no
+Ещё: да	Repeat: yes
+Ещё: нет	Repeat: no
+Закрыть	Close
+Здание в руках: ведите пальцем — здание едет следом. «Поставить» или двойное нажатие — поставить. «Ещё» — после постройки взять такое же. «Тянуть» — вести стену или дорогу пальцем	Building in hand: drag your finger and the building follows. "Place" or a double tap places it. "Repeat" takes the same building again after placing. "Drag" draws a wall or road with your finger
+К городу	To town
+Карта войны: нажать — выбрать бойца, удерживать — приказ идти туда. «Рамка» — выбрать нескольких	War map: tap to select a soldier, hold to order them there. "Box" selects several
+Крупный	Large
+Мелкий	Small
+На телефоне включено всегда	Always on on a phone
+Нажать — выбрать здание, жителя, отряд или нажать кнопку	Tap to select a building, citizen or squad, or to press a button
+Назад	Back
+Очень крупный	Extra large
+Провести пальцем по карте — двигать карту	Drag a finger across the map to move it
+Размер интерфейса	Interface size
+Рамка: да	Box: yes
+Рамка: нет	Box: no
+Сенсорное управление	Touch controls
+Списки в окнах листаются пальцем вверх и вниз	Lists in windows scroll with your finger
+Средний	Medium
+Стоп	Stop
+Тянуть: да	Drag: yes
+Тянуть: нет	Drag: no
+Удерживать палец на здании — меню «Перенести» и «Снести»	Hold a finger on a building for the "Move" and "Demolish" menu
+Управление пальцами	Finger controls
+↻ Повернуть	↻ Rotate
+▸ Как управлять	▸ How to play by touch
+▾ Как управлять	▾ How to play by touch
+Как управлять	How to play by touch
+✓ Поставить	✓ Place
+Поставить	Place
+✕ Отмена	✕ Cancel
+✖ Снести	✖ Demolish
+✥ Перенести	✥ Move

@@ -1,0 +1,76 @@
+# Обновление final-1 (перед бета-тестом): голем, ускорение мастерских, добыча картинками, сторона высадки, ввод на телефоне (дополнение к en.txt)
+Это здание не ускорить	This building can't be boosted
+Сначала достройте	Finish building it first
+Сначала восстановите	Repair it first
+На войне ускорять нельзя	Boosting is not allowed during war
+Уже ускорено на {0} мин — больше нельзя	Already boosted for {0} min — no more
+Нужно {0} марок, у вас {1}	Need {0} marks, you have {1}
+{0}: работает вдвое быстрее ещё {1}	{0}: works twice as fast for another {1}
+Работа ×{0} · ещё {1}	Work ×{0} · {1} left
+Изготовление идёт быстрее, пока не кончится время (оно идёт и без вас).	Crafting goes faster until the time runs out (it keeps running while you're away).
+Продлить ×{0} на {1} мин · {2} ◈	Extend ×{0} for {1} min · {2} ◈
+Ускорить работу ×{0} на {1} мин · {2} ◈	Boost work ×{0} for {1} min · {2} ◈
+Изготовление в этом здании пойдёт в {0} раза быстрее {1} минут.	Crafting in this building will go {0} times faster for {1} minutes.
+Не мгновенно: просто быстрее.	Not instant: just faster.
+Всего не больше {0} мин.	No more than {0} min in total.
+Ускорить за {0} марок?	Boost for {0} marks?
+{0} будет работать в {1} раза быстрее ещё {2} минут.	{0} will work {1} times faster for another {2} minutes.
+У вас {0} марок.	You have {0} marks.
+Ускорить	Boost
+Алтаря жизни	of the Altar of Life
+Страж алтаря · приказов не слушает	Altar guardian · does not take orders
+Приказов не слушает	Does not take orders
+Здоровье {0}/{1}	Health {0}/{1}
+Сейчас:	Now:
+Сила:	Strength:
+Показать	Show
+Навести камеру на голема	Move the camera to the golem
+Следить	Follow
+Следить ✓	Follow ✓
+Камера едет за големом	The camera follows the golem
+сторожит алтарь	guards the altar
+бьётся у алтаря	fights by the altar
+возвращается к алтарю	returns to the altar
+Алтарь Ур.{0} · приказов не слушает	Altar Lv.{0} · does not take orders
+Погибая, взрывается и лечит своих рядом: +{0}	When it dies, it bursts and heals allies nearby: +{0}
+Алтарь Ур.2: погибая, голем будет лечить своих	Altar Lv.2: the golem will heal allies when it dies
+Поднять павшего: через {0} с	Raise the fallen: in {0} s
+Поднять павшего: готов	Raise the fallen: ready
+(боец рядом, без оружия)	(a fighter nearby, without weapons)
+Алтарь Ур.3: голем будет поднимать павших	Altar Lv.3: the golem will raise the fallen
+Уровень алтаря: +12% к силе голема.	Altar level: +12% to golem strength.
+Ур.2: погибая, голем взрывается и лечит своих рядом ({0}).	Lv.2: when it dies, the golem bursts and heals allies nearby ({0}).
+Ур.3: взрыв лечит сильнее ({0}), а раз в {1} мин голем поднимает павшего рядом бойца (без оружия, пешие войска).	Lv.3: the burst heals more ({0}), and once every {1} min the golem raises a fallen fighter nearby (without weapons, foot troops only).
+Голема можно выбрать нажатием, как бойца.	You can select the golem by tapping it, like a fighter.
+Рождено големов: {0}.	Golems born: {0}.
+Голем рассыпался зелёной вспышкой и подлечил своих: {0}	The golem crumbled in a green flash and healed allies: {0}
+Голем рассыпался зелёной вспышкой и подлечил бойцов: {0}	The golem crumbled in a green flash and healed fighters: {0}
+Голем хотел поднять павшего, но в казармах нет места	The golem tried to raise the fallen, but there is no room in the barracks
+Голем хотел поднять павшего, но дома в казармах нет места	The golem tried to raise the fallen, but there is no room in the barracks at home
+Голем поднял павшего: {0} снова в строю (без оружия)	The golem raised the fallen: {0} is back in the ranks (without weapons)
+Голем поднял павшего: {0} снова в бою (без оружия)	The golem raised the fallen: {0} is back in battle (without weapons)
+Голем поднял павшего: {0} вернулся домой	The golem raised the fallen: {0} went home
+наш	ours
+защитник	defender
+несёт: {0} ({1}/{2})	carries: {0} ({1}/{2})
+здоровье {0}/{1}, урон {2}	health {0}/{1}, damage {2}
+Добыча	Loot
+Добыча: ничего	Loot: nothing
+Хорошо	OK
+Каменные плиты	Stone plates
+Укреплённые плиты	Reinforced plates
+Армия подошла к деревне игрока {0} {1}.	The army approached player {0}'s village {1}.
+Армия подошла к деревне {0} {1}.	The army approached {0} {1}.
+На бой — {0} минут.	The battle lasts {0} minutes.
+Атаковать или уйти?	Attack or leave?
+Осмотритесь: атаковать или уйти?	Look around: attack or leave?
+с запада	from the west
+с востока	from the east
+с юга	from the south
+с севера	from the north
+Войско {0} вернулось из похода и вступает в бой с тыла деревни!	{0}'s army has returned from a campaign and joins the battle from the rear of the village!
+Игрок {0} в «{1}»: отнимают {2}.	Player {0} in "{1}": taking {2}.
+Отбейте бойцов - отнятое вернётся	Beat off the fighters and the stolen goods will come back
+Новый день: мана {0}% — маги лечат на {1}%	New day: mana {0}% — mages heal at {1}%
+Написать клану…	Message your clan…
+Готово	Done

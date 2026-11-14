@@ -1,0 +1,55 @@
+# final-13-fix-3: война и лиги в окне клана, еда в поход, зельеварня
+Рейтинг клана	Clan rating
+Ваш рейтинг	Your rating
+Клан получает рейтинг за клановые войны: победа — больше, поражение — меньше. Лиги и мировая таблица — во вкладке «Лиги»	The clan earns rating in clan wars: more for a win, less for a loss. Leagues and the world table are on the "Leagues" tab
+Ваш рейтинг растёт за набеги на игроков и за клановые войны	Your rating grows from raids on players and from clan wars
+нажмите — большая карта	tap for the big map
+Источники ресурсов:	Resource sources:
+у нас	ours
+у врага	enemy's
+ничьих {0}	unclaimed {0}
+Лесопилки, каменоломни, рудники и деревни на нейтральных землях. Займите участок — доход пойдёт в деревни клана	Sawmills, quarries, mines and villages on neutral lands. Take a plot and its income goes to the clan's villages
+ваш клан	your clan
+соперник	opponent
+быстрая война	fast war
+Счёт: занятые участки карты и по 2 очка за каждую целую деревню. Считается со 2-го дня	Score: captured map plots plus 2 points for each intact village. Counted from day 2
+День 1 — глава расставляет деревни клана на схеме	Day 1 — the leader places the clan's villages on the layout
+День 2 — открылась карта: подготовка на своей земле	Day 2 — the map opens: prepare on your own land
+День {0} — открыты нейтральные земли с источниками	Day {0} — neutral lands with sources are open
+День {0} — открыта вся карта, можно идти на вражеские деревни	Day {0} — the whole map is open, you can march on enemy villages
+следующий этап через	next stage in
+· до конца войны	· war ends in
+Что делать сейчас	What to do now
+Расставьте деревни клана на схеме ниже: сильные — в передний столбец, к врагу, слабые — назад. Не успеете — сервер расставит сам.	Place the clan's villages on the layout below: strong ones in the front column, facing the enemy, weak ones behind. If you don't, the server will place them.
+Глава расставляет деревни клана. Завтра откроется общая карта — заходите в свою военную деревню.	The leader is placing the clan's villages. Tomorrow the shared map opens — enter your war village.
+Ходить можно только по своей земле. Зайдите в военную деревню: пусть казармы учат бойцов, мастерские делают доски для таранов. Подарите ресурсы соседям с края.	You can only move on your own land. Enter your war village: let the barracks train fighters and the workshops make planks for rams. Give resources to neighbours on the edge.
+Нейтральные земли открыты. Займите участки с источниками — их доход идёт в деревни клана. Держите отряды у своих границ.	Neutral lands are open. Take plots with sources — their income goes to the clan's villages. Keep squads near your borders.
+Открыта вся карта — можно идти на вражеские деревни. Снесёте все вражеские Цитадели — победа сразу. Каждый занятый участок и целая деревня — очки.	The whole map is open — march on enemy villages. Destroy all enemy Citadels for an instant win. Every captured plot and intact village is points.
+Прошлая война: ничья	Last war: draw
+Прошлая война: победа!	Last war: victory!
+Прошлая война: поражение	Last war: defeat
+Ищем клан-соперника…	Looking for a rival clan…
+Сейчас войны нет	No war right now
+Нажмите «Начать войну» — сервер найдёт клан-соперника вашего уровня. Война длится 7 дней, в ней участвует весь клан.	Press "Start war" and the server will find a rival clan of your level. The war lasts 7 days and the whole clan takes part.
+Начать войну может глава клана или заместитель. Война длится 7 дней, в ней участвует весь клан.	Only the clan leader or a deputy can start a war. The war lasts 7 days and the whole clan takes part.
+Как идёт клановая война (7 дней)	How a clan war goes (7 days)
+День 1 — расстановка	Day 1 — placement
+Глава ставит деревни клана на схеме: кто впереди, кто сзади.	The leader places the clan's villages on the layout: who goes in front, who stays behind.
+День 2 — живые деревни	Day 2 — living villages
+Открывается общая карта. На ней копия деревни каждого игрока, и она живёт как дома: жители добывают, казармы учат бойцов, бойцы сами выходят на карту. Строить нельзя, ресурсы свои, лимиты склада как дома.	The shared map opens. It holds a copy of every player's village, and it lives as at home: villagers gather, barracks train fighters, fighters walk out onto the map. No building, own resources, storage limits as at home.
+Дни 3–4 — нейтральные земли	Days 3–4 — neutral lands
+Открываются земли с источниками: деревни, лесопилки, каменоломни, рудники. Занятый участок даёт доход деревням клана.	Lands with sources open: villages, sawmills, quarries, mines. A captured plot gives income to the clan's villages.
+Дни 5–7 — вся карта	Days 5–7 — the whole map
+Можно идти на вражеские деревни. Снесите все вражеские Цитадели — победа сразу.	You can march on enemy villages. Destroy all enemy Citadels for an instant win.
+Счёт	Score
+Занятые участки и по 2 очка за каждую целую деревню. В конце побеждает клан, у которого больше очков.	Captured plots plus 2 points for each intact village. At the end the clan with more points wins.
+Помогайте своим	Help your own
+Дарите ресурсы соседям по клану (особенно деревням с края) и торгуйте на рынке клана.	Give resources to clanmates (especially villages on the edge) and trade on the clan market.
+Что получаете дома	What you get at home
+Домой с войны возвращается только рейтинг клана. Домашняя деревня, её ресурсы и жители от войны не меняются.	Only the clan rating comes home from the war. Your home village, its resources and villagers are not affected.
+События	Events
+Отравление	Poison
+Замедление	Slow
+Какое зелье варить постоянно.	Which potion to brew continuously.
+Враги у деревни!	Enemies at the village!
+Еда — запас похода на {0} минут: пеший боец ест 1 в минуту, крупный — по числу мест в казарме, у всадника ещё 1 за коня. Остаток вернётся домой. Без еды бойцы слабеют.	Food is the campaign supply for {0} minutes: a foot fighter eats 1 per minute, a large one as many as the barracks places it takes, a rider 1 more for the horse. What's left comes home. Without food fighters weaken.

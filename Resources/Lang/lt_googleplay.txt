@@ -1,0 +1,88 @@
+# Google Play: вход через Google Play Games, удаление аккаунта, жалобы и блокировка, уведомления (пакет google-play-1)
+Войти через Google Play Games	Prisijungti per Google Play Games
+Без пароля: прогресс сохранится и на новом телефоне	Be slaptažodžio: pažanga išliks ir naujame telefone
+или логин и пароль	arba prisijungimo vardas ir slaptažodis
+Вход через Google Play	Jungiamasi per Google Play
+Не удалось войти в Google Play Games	Nepavyko prisijungti prie Google Play Games
+Google Play Games не дал код входа	Google Play Games nepateikė prisijungimo kodo
+Google Play Games не дал код входа. Проверьте настройки (см. ЧТО_ИЗМЕНЕНО.md)	Google Play Games nepateikė prisijungimo kodo. Patikrinkite nustatymus
+новый игрок	naujas žaidėjas
+Уже играли? Войдите логином и паролем ниже — аккаунт сам привяжется к Google Play	Jau žaidėte? Prisijunkite žemiau vardu ir slaptažodžiu: paskyra bus susieta su Google Play automatiškai
+Начать новый город	Pradėti naują miestą
+Новый аккаунт, привязанный к Google Play Games	Nauja paskyra, susieta su Google Play Games
+Создавая аккаунт, вы принимаете	Kurdami paskyrą sutinkate su
+Правила игры	Žaidimo taisyklės
+Политику конфиденциальности	Privatumo politika
+Аккаунт привязан к Google Play Games: на новом телефоне вы войдёте в него сами	Paskyra susieta su Google Play Games: naujame telefone prisijungsite automatiškai
+Вход без пароля	Prisijungimas be slaptažodžio
+привязан	susieta
+Не привязан: на новом телефоне нужен пароль	Nesusieta: naujame telefone reikės slaptažodžio
+Привязать	Susieti
+Привязать аккаунт к Google Play Games	Susieti paskyrą su Google Play Games
+в версии для Android	Android versijoje
+Уведомления	Pranešimai
+На вас напали, итог набега	Jus puola, antpuolio rezultatas
+Стройка или улучшение готовы	Statyba ar patobulinimas baigtas
+Щит скоро кончится	Skydas netrukus baigsis
+Заблокированные игроки	Užblokuoti žaidėjai
+Никого. Заблокировать игрока можно в чате клана: нажмите на его сообщение	Nieko. Žaidėją užblokuoti galite klano pokalbyje: paspauskite jo žinutę
+Разблокировать	Atblokuoti
+Снова видеть сообщения этого игрока	Vėl matyti šio žaidėjo žinutes
+и ещё {0}	ir dar {0}
+Удаление аккаунта	Paskyros ištrynimas
+Навсегда удаляются город, ресурсы, марки (и купленные), место в клане, ваши сообщения и рейтинг. Восстановить аккаунт нельзя	Visam laikui ištrinami miestas, ištekliai, ženklai (ir pirkti), vieta klane, jūsų žinutės ir reitingas. Paskyros atkurti negalima
+Чтобы удалить, введите {0}	Norėdami ištrinti, įveskite {0}
+Удалить аккаунт навсегда	Ištrinti paskyrą visam laikui
+Удаляем	Triname
+Введите {0} в поле выше	Įveskite {0} laukelyje aukščiau
+Город, марки, клан и рейтинг пропадут, вернуть их будет нельзя. Игра закроется	Miestas, ženklai, klanas ir reitingas dings visam laikui. Žaidimas užsidarys
+Удалить	Ištrinti
+Аккаунт удалён	Paskyra ištrinta
+Все данные стёрты с сервера. Игра сейчас закроется	Visi duomenys ištrinti iš serverio. Žaidimas dabar užsidarys
+Задать пароль	Nustatyti slaptažodį
+Вы входите через Google Play Games. Задайте пароль, чтобы входить и по логину {0}	Jungiatės per Google Play Games. Nustatykite slaptažodį, kad galėtumėte jungtis ir vardu {0}
+Пожаловаться	Pranešti
+Заблокировать	Užblokuoti
+Сообщение	Žinutė
+Сообщить модератору: оскорбления, спам, мошенничество	Pranešti moderatoriui: įžeidimai, šlamštas, sukčiavimas
+Не видеть сообщения этого игрока	Nematyti šio žaidėjo žinučių
+Сообщить модератору о нарушении правил	Pranešti moderatoriui apie taisyklių pažeidimą
+Заблокировать {0}	Užblokuoti {0}
+Вы больше не увидите сообщения этого игрока в чате клана. Снять блокировку можно в ⚙ Настройки → Аккаунт	Nebematysite šio žaidėjo žinučių klano pokalbyje. Atblokuoti galite ⚙ Nustatymai → Paskyra
+{0} заблокирован(а): его сообщений больше не видно	{0} užblokuotas: jo žinutės paslėptos
+{0} разблокирован(а)	{0} atblokuotas
+Модератор закрыл вам чат за нарушение правил	Moderatorius uždarė jums pokalbį dėl taisyklių pažeidimo
+Модератор закрыл вам чат ещё на {0} — на ваши сообщения жаловались	Moderatorius uždarė jums pokalbį dar {0}: žaidėjai skundėsi jūsų žinutėmis
+Пожаловаться на {0}	Pranešti apie {0}
+Модератор проверит сообщения игрока. Отправитель жалобы игроку не показывается	Moderatorius peržiūrės žaidėjo žinutes. Žaidėjas nematys, kas pranešė
+Оскорбления или травля	Įžeidimai ar priekabiavimas
+Спам или реклама	Šlamštas ar reklama
+Мошенничество, выманивает пароль	Sukčiavimas, vilioja slaptažodį
+Непристойное или жестокое	Nepadoru ar žiauru
+Неприемлемое имя	Netinkamas vardas
+Другое	Kita
+Заблокировать: не видеть его сообщения	Užblokuoti: nematyti jo žinučių
+Отправить	Siųsti
+Отправляем	Siunčiama
+Выберите причину	Pasirinkite priežastį
+Жалоба отправлена. Спасибо! Модератор её рассмотрит	Pranešimas išsiųstas. Ačiū! Moderatorius jį peržiūrės
+Жалоба отправлена	Pranešimas išsiųstas
+Жалоба не отправлена: {0}	Pranešimas neišsiųstas: {0}
+Жалоба не отправлена	Pranešimas neišsiųstas
+Чтобы удалить аккаунт, введите слово {0}	Norėdami ištrinti paskyrą, įveskite žodį {0}
+Игрок не найден	Žaidėjas nerastas
+На себя пожаловаться нельзя	Negalite pranešti apie save
+Слишком много жалоб за сутки — попробуйте завтра	Per daug pranešimų per parą, bandykite rytoj
+Себя заблокировать нельзя	Negalite užblokuoti savęs
+Заблокировать можно не больше {0} игроков	Galima užblokuoti ne daugiau kaip {0} žaidėjų
+Вход через Google Play Games на этом сервере не настроен	Šiame serveryje prisijungimas per Google Play Games nesukonfigūruotas
+Google не ответил	Google neatsakė
+Войдите в Google Play Games ещё раз	Prisijunkite prie Google Play Games dar kartą
+Google не узнал игрока	Google neatpažino žaidėjo
+Google не подтвердил вход. Попробуйте ещё раз	Google nepatvirtino prisijungimo. Bandykite dar kartą
+Google Play Games не ответил. Попробуйте ещё раз	Google Play Games neatsakė. Bandykite dar kartą
+Этот аккаунт Google Play уже привязан к игроку «{0}»	Ši Google Play paskyra jau susieta su žaidėju „{0}“
+Чат для вас закрыт до истечения {0} — на ваши сообщения пожаловались игроки	Pokalbis jums uždarytas {0}: žaidėjai skundėsi jūsų žinutėmis
+Чат для вас закрыт до решения модератора — на ваши сообщения пожаловались игроки	Pokalbis jums uždarytas, kol nuspręs moderatorius: žaidėjai skundėsi jūsų žinutėmis
+{0} покинул(а) клан	{0} paliko klaną
+Политика конфиденциальности	Privatumo politika

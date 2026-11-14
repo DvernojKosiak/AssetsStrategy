@@ -1,0 +1,41 @@
+# Сенсорное управление (Mobile/): дополнение к lt.txt
+Авто	Auto
+Вкл	Įj.
+Выкл	Išj.
+Все бойцы	Visi kariai
+Два пальца: развести или свести — приблизить или отдалить, вести — двигать карту	Du pirštai: išskėskite arba suglauskite – priartinti arba nutolinti, vedžiokite – stumdyti žemėlapį
+Добавлять: да	Pridėti: taip
+Добавлять: нет	Pridėti: ne
+Ещё: да	Dar: taip
+Ещё: нет	Dar: ne
+Закрыть	Uždaryti
+Здание в руках: ведите пальцем — здание едет следом. «Поставить» или двойное нажатие — поставить. «Ещё» — после постройки взять такое же. «Тянуть» — вести стену или дорогу пальцем	Pastatas rankoje: vedžiokite pirštą – pastatas seka paskui. „Statyti“ arba dvigubas bakstelėjimas – pastatyti. „Dar“ – pastačius paimti tokį patį. „Tempti“ – vesti sieną ar kelią pirštu
+К городу	Į miestą
+Карта войны: нажать — выбрать бойца, удерживать — приказ идти туда. «Рамка» — выбрать нескольких	Karo žemėlapis: bakstelėkite – pasirinkti karį, laikykite – įsakymas eiti ten. „Rėmelis“ – pasirinkti kelis
+Крупный	Didelis
+Мелкий	Mažas
+На телефоне включено всегда	Telefone įjungta visada
+Нажать — выбрать здание, жителя, отряд или нажать кнопку	Bakstelėkite – pasirinkti pastatą, gyventoją, būrį ar paspausti mygtuką
+Назад	Atgal
+Очень крупный	Labai didelis
+Провести пальцем по карте — двигать карту	Braukite pirštu žemėlapiu – stumdyti žemėlapį
+Размер интерфейса	Sąsajos dydis
+Рамка: да	Rėmelis: taip
+Рамка: нет	Rėmelis: ne
+Сенсорное управление	Valdymas lietimu
+Списки в окнах листаются пальцем вверх и вниз	Sąrašai languose slenkami pirštu aukštyn ir žemyn
+Средний	Vidutinis
+Стоп	Stop
+Тянуть: да	Tempti: taip
+Тянуть: нет	Tempti: ne
+Удерживать палец на здании — меню «Перенести» и «Снести»	Laikykite pirštą ant pastato – meniu „Perkelti“ ir „Nugriauti“
+Управление пальцами	Valdymas pirštais
+↻ Повернуть	↻ Pasukti
+▸ Как управлять	▸ Kaip valdyti
+▾ Как управлять	▾ Kaip valdyti
+Как управлять	Kaip valdyti
+✓ Поставить	✓ Statyti
+Поставить	Statyti
+✕ Отмена	✕ Atšaukti
+✖ Снести	✖ Nugriauti
+✥ Перенести	✥ Perkelti

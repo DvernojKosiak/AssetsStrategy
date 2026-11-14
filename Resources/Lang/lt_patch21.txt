@@ -1,0 +1,10 @@
+# Обновление 21: ускорение за марки, режим накопления без ночи и выходных - дополнение к lt.txt
+Ускорить · {0} ◈	Pagreitinti · {0} ◈
+Ускорить	Pagreitinti
+Ускорить за {0} марок?	Pagreitinti už {0} ženklų?
+{0} будет готово сразу. Осталось ждать {1}. У вас {2} марок.	{0} bus baigta iš karto. Liko laukti {1}. Turite {2} ženklų.
+Закончить сразу за {0} марок (у вас {1}). Цена зависит от того, сколько осталось ждать, и от уровня: чем ближе к концу, тем дешевле. Можно и не ускорять: идёт само, даже когда вы не в игре.	Baigti iš karto už {0} ženklų (turite {1}). Kaina priklauso nuo likusio laiko ir lygio: kuo arčiau pabaigos, tuo pigiau. Galima ir palaukti: vyksta savaime, net kai nežaidžiate.
+Не хватает марок: нужно {0}, у вас {1}. Идёт само, даже когда вы не в игре.	Trūksta ženklų: reikia {0}, turite {1}. Vyksta savaime, net kai nežaidžiate.
+{0}: готово сразу за {1} марок	{0}: baigta iš karto už {1} ženklų
+Ночью и в выходные все рабочие тоже на местах.	Naktį ir savaitgaliais visi darbininkai irgi dirba.
+Режим накопления: все рабочие на местах и ночью, и в выходные	Kaupimo režimas: visi darbininkai dirba ir naktį, ir savaitgaliais

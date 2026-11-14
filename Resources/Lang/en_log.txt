@@ -1,0 +1,9 @@
+# Журнал сообщений и иконки бойцов: дополнение к en.txt
+Журнал	Log
+Журнал ({0})	Log ({0})
+Очистить	Clear
+Стереть все сообщения из журнала	Erase all messages from the log
+Сообщений: {0}	Messages: {0}
+Сообщений пока нет. Здесь копятся все оповещения: набеги, рынок, дозорные, производство	No messages yet. All notifications collect here: raids, market, lookouts, production
+ещё {0} — журнал в ⚙	{0} more — log in ⚙
+Настройки: язык, звук, аккаунт, журнал сообщений	Settings: language, sound, account, message log

@@ -1,0 +1,28 @@
+# Обновление 23: трофеи - сложные вещи из разрушенных зданий другого игрока (дополнение к lt.txt)
+материал	medžiaga
+плащ	apsiaustas
+ловушка	spąstai
+трофеи: {0}	trofėjai: {0}
+копии: {0}	kopijos: {0}
+отнято: {0}	atimta: {0}
+отнято {0}	atimta {0}
+копии {0}	kopijos {0}
+Трофеи: {0}	Trofėjai: {0}
+отняты вещи: {0}	atimti daiktai: {0}
+Трофеи разложены по складам: {0}	Trofėjai sudėti į sandėlius: {0}
+В сундуке трофеев ждут места: {0}. Освободите место на складах (Цитадель, Хранилище, Оружейная)	Trofėjų skrynioje laukia vietos: {0}. Atlaisvinkite vietos sandėliuose (Citadelė, Saugykla, Ginklinė)
+В сундуке трофеев ждут места: {0}	Trofėjų skrynioje laukia vietos: {0}
+Освободите место на складах (Цитадель, Хранилище, Оружейная)	Atlaisvinkite vietos sandėliuose (Citadelė, Saugykla, Ginklinė)
+Сундук трофеев (ждут места на складах): {0}	Trofėjų skrynia (laukia vietos sandėliuose): {0}
+{0}: трофеи — {1}. Засчитается то, с чем бойцы уйдут с поля	{0}: trofėjai — {1}. Įskaitoma tik tai, ką kariai išneša iš mūšio lauko
+Засчитается то, с чем бойцы уйдут с поля	Įskaitoma tik tai, ką kariai išneša iš mūšio lauko
+{0}. Разложим по складам, когда армия вернётся	{0}. Sudėsime į sandėlius, kai kariuomenė grįš
+Разложим по складам, когда армия вернётся	Sudėsime į sandėlius, kai kariuomenė grįš
+Трофеев на сегодня больше не будет: за сутки взято всё, что можно. Простые ресурсы уносить можно	Šiandien trofėjų daugiau nebus: per parą paimta tiek, kiek galima. Paprastus išteklius nešti galima
+Потолок трофеев за этот набег набран: сложных вещей больше не выпадет, простые ресурсы уносить можно	Šio antpuolio trofėjų riba pasiekta: sudėtingų daiktų daugiau neiškris, paprastus išteklius nešti galima
+Отнятые трофеи не засчитаны (итог набега не дошёл до сервера) и остались у хозяина: {0}	Atimti trofėjai neįskaityti (antpuolio rezultatas nepasiekė serverio) ir liko savininkui: {0}
+Трофейному снаряжению не хватило места в Оружейных: {0}. Оно ждёт в сундуке трофеев и само ляжет в Оружейную, когда там освободится место	Trofėjinei ekipuotei pritrūko vietos ginklinėse: {0}. Ji laukia trofėjų skrynioje ir pati atsidurs ginklinėje, kai ten atsiras vietos
+Игрок {0} в «{1}»: {2}. Отбейте бойцов - отнятое вернётся	Žaidėjas {0} pastate „{1}“: {2}. Atmuškite karius ir atimti daiktai sugrįš
+Отбейте бойцов - отнятое вернётся	Atmuškite karius ir atimti daiktai sugrįš
+отнимают {0}	atima {0}
+копируют {0} (у вас остаётся)	kopijuoja {0} (jūsų lieka)

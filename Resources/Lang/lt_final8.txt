@@ -1,0 +1,124 @@
+# Обновление final-8: очереди, защита новичка, требования Цитадели, вопросы и ответы, подсказки
+Вопросы	DUK
+Скрыть пароль	Slėpti slaptažodį
+Показать пароль	Rodyti slaptažodį
+нужна другая ветка Военного дела	reikia kitos Karo meno šakos
++ Очередь	+ Eilė
+Очередь полна ({0})	Eilė pilna ({0})
+Идёт ковка — поставить в очередь. Материалы возьмём, когда начнётся работа	Vyksta kalimas — įdėti į eilę. Medžiagas paimsime, kai prasidės darbas
+Очередь {0} полна ({1})	{0} eilė pilna ({1})
+{0}: {1} в очереди ({2}/{3}). Ресурсы возьмём, когда начнётся обучение	{0}: {1} eilėje ({2}/{3}). Išteklius paimsime, kai prasidės mokymas
+{0}: {1} убран из очереди — {2}	{0}: {1} pašalintas iš eilės — {2}
+{0}: очередь ждёт — {1}	{0}: eilė laukia — {1}
+Очередь {0}/{1}:	Eilė {0}/{1}:
+Убрать {0} из очереди (ресурсы ещё не взяты)	Pašalinti {0} iš eilės (ištekliai dar nepaimti)
+Ждёт:	Laukia:
+Поставить в очередь: {0}. Ресурсы возьмём, когда начнётся обучение	Įdėti į eilę: {0}. Išteklius paimsime, kai prasidės mokymas
+Сейчас не хватает:	Šiuo metu trūksta:
+Сейчас:	Šiuo metu:
+Рабочие идут на место: дошли {0} из {1}. Работают только дошедшие.	Darbininkai eina į vietą: atėjo {0} iš {1}. Dirba tik atėję.
+{0}: на месте только дежурные ({1} из {2}).	{0}: vietoje tik budintieji ({1} iš {2}).
+Мастерская занята — нажмите, чтобы поставить в очередь. Сырьё возьмём, когда начнётся работа	Dirbtuvės užimtos — paspauskite, kad įdėtumėte į eilę. Žaliavas paimsime, kai prasidės darbas
+Нажмите на карту — отряд ({0} бойц.) пойдёт туда и ударит по врагам на пути. Двойное нажатие — марш без боя.	Paspauskite žemėlapį — būrys ({0} kar.) eis ten ir puls priešus pakeliui. Dvigubas paspaudimas — žygis be kovos.
+➜ Куда? ✓	➜ Kur? ✓
+➜ Послать отряд	➜ Siųsti būrį
+Следующее нажатие по карте — приказ отряду этого бойца	Kitas paspaudimas žemėlapyje — įsakymas šio kario būriui
+Отряд возвращается охранять свою казарму	Būrys grįžta saugoti savo kareivinių
+Город в тупике: нет свободных рабочих и не на что построить Жилой дом. Если ничего не изменится, через {0} мин Цитадель выдаст ресурсы на один дом.	Miestas aklavietėje: nėra laisvų darbininkų ir neužtenka Gyvenamajam namui. Jei niekas nepasikeis, po {0} min. Citadelė duos išteklių vienam namui.
+Цитадель выручила город: ресурсов хватает на Жилой дом. Постройте его — придут новые жители, и работа пойдёт снова.	Citadelė padėjo miestui: išteklių užtenka Gyvenamajam namui. Pastatykite jį — atvyks nauji gyventojai ir darbas vėl vyks.
+{0}: очередь полна ({1})	{0}: eilė pilna ({1})
+{0}: «{1}» в очереди ({2}/{3}). Сырьё возьмём, когда начнётся работа	{0}: „{1}“ eilėje ({2}/{3}). Žaliavas paimsime, kai prasidės darbas
+не получилось начать	nepavyko pradėti
+Убрать «{0}» из очереди (сырьё ещё не взято)	Pašalinti „{0}“ iš eilės (žaliavos dar nepaimtos)
+Где взять дерево, камень, еду и золото?	Kur gauti medienos, akmens, maisto ir aukso?
+Дерево — Лесопилка, камень и немного золота — Шахта, еда — Ферма, ягоды — Станция собирателей. Ставьте их в подходящих зонах (⚙ меню города → «Показать зоны ресурсов»): в лесу, у камня, на плодородной почве добыча больше. Золото ещё приносят набеги и рынок Торгового дома. Наведите мышь (или подержите палец) на ресурс в казне — там написано, где его взять.	Mediena — Lentpjūvė, akmuo ir truputis aukso — Kasykla, maistas — Ūkis, uogos — Rinkėjų stotis. Statykite juos tinkamose zonose (miesto meniu → „Rodyti išteklių zonas“): miške, prie akmens, derlingoje žemėje gaunama daugiau. Aukso dar duoda antpuoliai ir Prekybos namų turgus. Užveskite pelę (arba palaikykite pirštą) ant ištekliaus ižde — ten parašyta, kur jo gauti.
+Почему здание работает медленно или стоит?	Kodėl pastatas dirba lėtai arba stovi?
+Работают только рабочие, которые дошли до здания: в окне здания видно «на месте X/Y». Ночью большая часть рабочих спит дома, голодные и раненые работают хуже. Если рабочих нет — добавьте их кнопкой «+» или постройте ещё Жилой дом. Скорость мастерских зависит от того, сколько мастеров на месте, а не от времени суток.	Dirba tik darbininkai, kurie atėjo iki pastato: pastato lange matyti „vietoje X/Y“. Naktį dauguma darbininkų miega namie, alkani ir sužeisti dirba prasčiau. Jei darbininkų nėra — pridėkite mygtuku „+“ arba pastatykite dar vieną Gyvenamąjį namą. Dirbtuvių greitis priklauso nuo to, kiek meistrų vietoje, o ne nuo paros laiko.
+Нет жителей и не хватает ресурсов на дом — что делать?	Nėra gyventojų ir neužtenka išteklių namui — ką daryti?
+Такое бывает, если всё потратить. Цитадель сама выручит: раз в 10 минут, пока в городе нет свободных рабочих рук и не на что построить дом, она выдаёт ровно столько, сколько стоит один Жилой дом. Поставьте дом — придут новые жители.	Taip nutinka viską išleidus. Citadelė padės: kas 10 minučių, kol mieste nėra laisvų rankų ir neužtenka namui, ji duoda lygiai tiek, kiek kainuoja vienas Gyvenamasis namas. Pastatykite namą — atvyks nauji gyventojai.
+Что значит качество материалов?	Ką reiškia medžiagų kokybė?
+Среднее, хорошее (зелёная метка) и наилучшее (золотая). До Ур.2 и для второго такого же здания подходит любое качество, до Ур.3 и выше — только не хуже «хорошего». Хорошее и наилучшее чаще выходят в Мастерской высокого уровня. Тратится сначала самое простое подходящее.	Vidutinė, gera (žalia žymė) ir geriausia (auksinė). Iki Lyg.2 ir antram tokiam pačiam pastatui tinka bet kokia kokybė, iki Lyg.3 ir aukščiau — tik ne prastesnė nei „gera“. Gera ir geriausia dažniau gaunama aukšto lygio Dirbtuvėse. Pirmiausia naudojama paprasčiausia tinkama.
+Можно ли поставить обучение или работу в очередь?	Ar galima mokymą ar darbą įdėti į eilę?
+Да. В Казарме можно поставить в очередь до 5 бойцов, в Мастерской, Оружейной и Кузне — до 3 заказов. Ресурсы берутся не сразу, а когда начинается работа; если чего-то не хватает, очередь ждёт и пишет, чего именно. Нажатие на заказ в очереди убирает его.	Taip. Kareivinėse į eilę galima įdėti iki 5 karių, Dirbtuvėse, Ginklinėje ir Kalvėje — iki 3 užsakymų. Ištekliai paimami ne iš karto, o kai prasideda darbas; jei ko nors trūksta, eilė laukia ir parašo, ko. Paspaudus užsakymą eilėje, jis pašalinamas.
+Меня атакуют, хотя я только начал. Есть защита новичка?	Mane puola, nors ką tik pradėjau. Ar yra naujoko apsauga?
+Есть. Пока у вас нет ни одной Казармы (и Цитадель Ур.1), другие игроки вас не находят в поиске, а соседи-NPC не нападают. NPC приходят не раньше чем через 10 минут после первой Казармы. Под щитом после набега NPC тоже не нападают, пока город не отстроится. Готовьте оборону: башни, стены и бойцов.	Yra. Kol neturite nė vienų Kareivinių (ir Citadelė Lyg.1), kiti žaidėjai jūsų paieškoje neranda, o NPC kaimynai nepuola. NPC ateina ne anksčiau kaip po 10 minučių nuo pirmųjų Kareivinių. Po antpuolio, kol veikia skydas, NPC taip pat laukia, kol miestas atsistatys. Ruoškite gynybą: bokštus, sienas ir karius.
+Как управлять бойцами в бою?	Kaip valdyti karius mūšyje?
+В своём городе: нажмите на бойца, затем «➜ Послать отряд» и нажмите на карту — весь его отряд пойдёт туда и ударит по врагам на пути (по врагу — в атаку). Двойное нажатие — марш без боя, «Домой» — вернуть к казарме. Во время нападения «Послать отряд» включается сам: выбрали бойца — нажимайте, куда идти. Все отряды казармы — в её окне, вкладка «Войска». На карте набега: нажать — выбрать бойца, удерживать (правая кнопка) — приказ.	Savo mieste: paspauskite karį, tada „➜ Siųsti būrį“ ir paspauskite žemėlapį — visas jo būrys eis ten ir puls priešus pakeliui (paspaudus priešą — puolimas). Dvigubas paspaudimas — žygis be kovos, „Namo“ — grąžinti prie kareivinių. Puolimo metu „Siųsti būrį“ įsijungia pats: pasirinkite karį ir spauskite, kur eiti. Visi kareivinių būriai — jų lange, skirtukas „Kariuomenė“. Antpuolio žemėlapyje: paspausti — pasirinkti karį, laikyti (dešinysis mygtukas) — įsakymas.
+Почему армия долго идёт до края карты?	Kodėl kariuomenė ilgai eina iki žemėlapio krašto?
+Бойцы выходят пешком через край карты со стороны, откуда подходят к цели, — вброд через реки и через лес медленнее. Дороги ускоряют. Время пути до деревни видно в окне «В бой!».	Kariai išeina pėsčiomis per žemėlapio kraštą toje pusėje, iš kurios artėja prie tikslo, — brastomis per upes ir per mišką lėčiau. Keliai pagreitina. Kelionės iki kaimo laikas matomas lange „Į mūšį!“.
+Что даёт уровень Цитадели?	Ką duoda Citadelės lygis?
+Больше зону застройки, лимиты казны и новые здания. Для улучшения Цитадели нужны не только ресурсы, но и развитый город: для Ур.2 — Казарма, 2 башни и Курьерская; для Ур.3 — Казарма Ур.2, 4 башни, Хранилище и стена или ворота. Чего не хватает, видно в окне Цитадели.	Didesnę statybų zoną, iždo ribas ir naujus pastatus. Citadelei pagerinti reikia ne tik išteklių, bet ir išsivysčiusio miesto: Lyg.2 — Kareivinės, 2 bokštai ir Kurjerių namai; Lyg.3 — Kareivinės Lyg.2, 4 bokštai, Saugykla ir siena arba vartai. Ko trūksta, matyti Citadelės lange.
+Сколько можно построить казарм?	Kiek kareivinių galima pastatyti?
+Цитадель Ур.1 — до 3 казарм, Ур.2 — до 5, Ур.3 — до 7.	Citadelė Lyg.1 — iki 3 kareivinių, Lyg.2 — iki 5, Lyg.3 — iki 7.
+Что такое марки ◈ и как их купить?	Kas yra markės ◈ ir kaip jų nusipirkti?
+Марки — валюта Торговой гильдии: за них ускоряют работу, покупают на рынке и в магазине гильдии. Марки дают продажи и заказы гильдии, а ещё их можно купить в магазине марок (покупка через Google Play).	Markės — Prekybos gildijos valiuta: už jas greitinamas darbas, perkama turguje ir gildijos parduotuvėje. Markių duoda pardavimai ir gildijos užsakymai, be to, jų galima nusipirkti markių parduotuvėje (pirkimas per Google Play).
+Игра просит обновиться — почему?	Žaidimas prašo atnaujinti — kodėl?
+Когда выходит важное обновление (исправления боя, новые правила), старая версия не может играть с сервером вместе с новой. Нажмите «Обновить» — откроется страница игры в Google Play.	Kai išeina svarbus atnaujinimas (mūšio pataisos, naujos taisyklės), senoji versija negali žaisti serveryje kartu su naująja. Paspauskite „Atnaujinti“ — atsidarys žaidimo puslapis Google Play.
+Бой «рассинхронился» после перезахода — что будет?	Mūšis „išsiderino“ prisijungus iš naujo — kas bus?
+Сервер помнит, кто из ваших бойцов погиб в живом бою. Если вы вышли посреди боя и вернулись, павшие не воскреснут, а выжившие вернутся домой с добычей.	Serveris prisimena, kurie jūsų kariai žuvo gyvame mūšyje. Jei išėjote mūšio viduryje ir grįžote, žuvusieji neprisikels, o išgyvenusieji grįš namo su grobiu.
+Экономия батареи	Baterijos taupymas
+Когда вы не трогаете экран и нет боя — 30 кадров в секунду вместо 60, и экран может погаснуть, как обычно. Во время войны и набега — всегда 60 кадров и экран не гаснет.	Kai neliečiate ekrano ir nėra mūšio — 30 kadrų per sekundę vietoj 60, ir ekranas gali užgesti kaip įprasta. Karo ir antpuolio metu — visada 60 kadrų ir ekranas negęsta.
+Первая казарма готова — защита новичка снята. Другие игроки теперь видят ваш город, соседи-NPC могут напасть не раньше чем через {0} мин. Обучайте бойцов!	Pirmosios kareivinės paruoštos — naujoko apsauga nuimta. Kiti žaidėjai dabar mato jūsų miestą, NPC kaimynai gali pulti ne anksčiau kaip po {0} min. Mokykite karius!
+Соседи-NPC под щитом ждут, пока город отстроится (все здания починены, дома хотя бы 3 бойца), и тогда нападают только вполсилы.	Kol veikia skydas, NPC kaimynai laukia, kol miestas atsistatys (visi pastatai sutaisyti, namie bent 3 kariai), ir tada puola tik puse jėgų.
+Игрок {0} напал на вашу деревню! Его армия ({1}) входит {2} — защищайтесь!	Žaidėjas {0} užpuolė jūsų kaimą! Jo kariuomenė ({1}) įžengia {2} — ginkitės!
+Сейчас не на кого напасть: другие деревни под защитой, в вашем клане, новички или их нет	Šiuo metu nėra ką pulti: kiti kaimai apsaugoti, jūsų klane, naujokai arba jų nėra
+Вышло обновление Strategyca. Обновите игру в Google Play, чтобы продолжить	Išėjo Strategyca atnaujinimas. Atnaujinkite žaidimą Google Play, kad galėtumėte tęsti
+Нужно обновить игру	Reikia atnaujinti žaidimą
+Город и всё накопленное сохранены на сервере и будут ждать вас в новой версии.	Jūsų miestas ir viskas, ką sukaupėte, išsaugota serveryje ir lauks jūsų naujoje versijoje.
+Назначено {0} из {1}, на месте {2}. Свободных жителей в городе: {3}.	Paskirta {0} iš {1}, vietoje {2}. Laisvų gyventojų mieste: {3}.
+Здание работает только теми, кто дошёл до него: кто ещё в пути, ушёл домой или перехвачен врагом — не работает.	Pastatas dirba tik su tais, kurie iki jo atėjo: kas dar kelyje, išėjo namo ar sulaikytas priešo — nedirba.
+Выходной	Poilsio diena
+Ночь	Naktis
+: на месте только дежурные, {0} из {1}. Здание работает на {2}%.	: vietoje tik budintieji, {0} iš {1}. Pastatas dirba {2}%.
+Бой в деревне {0} шёл без вас — узнаём у сервера, чем он кончился…	Mūšis kaime {0} vyko be jūsų — klausiame serverio, kuo jis baigėsi…
+Бой в деревне {0} шёл без вас — сервер не ответил, армия ушла с тем, что несла	Mūšis kaime {0} vyko be jūsų — serveris neatsakė, kariuomenė išėjo su tuo, ką nešė
+Бой в деревне {0} шёл без вас: погибло бойцов — {1}, остальные ушли с добычей	Mūšis kaime {0} vyko be jūsų: žuvo karių — {1}, kiti išėjo su grobiu
+Бой в деревне {0} шёл без вас — все бойцы ушли оттуда с тем, что несли	Mūšis kaime {0} vyko be jūsų — visi kariai išėjo su tuo, ką nešė
+Где взять: Шахта (понемногу, вместе с камнем; больше — в золотой зоне), набеги на деревни, продажа на рынке Торгового дома.	Kur gauti: Kasykla (po truputį, kartu su akmeniu; daugiau — aukso zonoje), antpuoliai į kaimus, pardavimas Prekybos namų turguje.
+Где взять: Лесопилка. Ставьте у леса (зелёная зона, «Показать зоны ресурсов» в меню города) — там дерева больше.	Kur gauti: Lentpjūvė. Statykite prie miško (žalia zona, „Rodyti išteklių zonas“ miesto meniu) — ten medienos daugiau.
+Где взять: Шахта. В серо-голубой каменной зоне камня больше. Ещё — набеги.	Kur gauti: Kasykla. Pilkai mėlynoje akmens zonoje akmens daugiau. Dar — antpuoliai.
+Где взять: Ферма (на плодородной почве и у реки больше), ягоды — Станция собирателей. Еду едят все жители: следите, чтобы её хватало.	Kur gauti: Ūkis (derlingoje žemėje ir prie upės daugiau), uogos — Rinkėjų stotis. Maistą valgo visi gyventojai: žiūrėkite, kad jo užtektų.
+Где взять: продажи на рынке и заказы гильдии в Торговом доме, магазин марок.	Kur gauti: pardavimai turguje ir gildijos užsakymai Prekybos namuose, markių parduotuvė.
+Город под щитом: соседи послали только половину войска	Miestas po skydu: kaimynai atsiuntė tik pusę kariuomenės
+Качество материалов: среднее, хорошее (зелёная метка) и наилучшее (золотая).	Medžiagų kokybė: vidutinė, gera (žalia žymė) ir geriausia (auksinė).
+Улучшить здание до Ур.2 и построить второе такое же можно из материалов любого качества, а до Ур.3 и выше — только не хуже «хорошего».	Pagerinti pastatą iki Lyg.2 ir pastatyti antrą tokį pat galima iš bet kokios kokybės medžiagų, o iki Lyg.3 ir aukščiau — tik ne prastesnių nei „gera“.
+Хорошее и наилучшее чаще выходят в Мастерской высокого уровня: Ур.1 — 15% хорошего; Ур.2 — 40% хорошего и 10% наилучшего; Ур.3 — 50% и 30%.	Gera ir geriausia dažniau gaunama aukšto lygio Dirbtuvėse: Lyg.1 — 15% geros; Lyg.2 — 40% geros ir 10% geriausios; Lyg.3 — 50% ir 30%.
+Тратится всегда сначала самое простое подходящее, поэтому лучшие материалы сами копятся для Ур.3.	Visada pirmiausia naudojama paprasčiausia tinkama medžiaga, todėl geriausios pačios kaupiasi Lyg.3.
+Дерево даёт Лесопилка, камень и немного золота — Шахта, еду — Ферма. Золото ещё приносят набеги и рынок. Подсказка у каждого ресурса говорит, где его взять.	Medieną duoda Lentpjūvė, akmenį ir truputį aukso — Kasykla, maistą — Ūkis. Aukso dar duoda antpuoliai ir turgus. Kiekvieno ištekliaus patarimas sako, kur jo gauti.
+Ресурсы	Ištekliai
+Сначала — ресурсы. Жители сами работают на Лесопилке (дерево), в Шахте (камень и немного золота) и на Ферме (еда), а готовое носят в Цитадель. Нажмите на любое из этих зданий: в окне видно, сколько рабочих на месте, кнопки − и + меняют их число.	Pirmiausia — ištekliai. Gyventojai patys dirba Lentpjūvėje (mediena), Kasykloje (akmuo ir truputis aukso) ir Ūkyje (maistas), o pagamintą neša į Citadelę. Paspauskite bet kurį iš šių pastatų: lange matyti, kiek darbininkų vietoje, mygtukai − ir + keičia jų skaičių.
+Когда хватает дерева и золота — стройте. Нажмите «Постройки», выберите Жилой дом и поставьте его на свободную траву левой кнопкой. Правая кнопка или Esc — отмена.	Kai užtenka medienos ir aukso — statykite. Paspauskite „Pastatai“, pasirinkite Gyvenamąjį namą ir padėkite jį ant laisvos žolės kairiuoju mygtuku. Dešinysis mygtukas arba Esc — atšaukti.
+В домах живут жители: чем больше домов, тем больше рабочих рук. Цена здания видна в списке построек; чего не хватает — подсвечено.	Namuose gyvena gyventojai: kuo daugiau namų, tuo daugiau darbo rankų. Pastato kaina matoma pastatų sąraše; ko trūksta — paryškinta.
+Когда хватает дерева и золота — стройте. Нажмите «Постройки» и выберите Жилой дом. Ведите пальцем — дом едет следом, потом нажмите «Поставить».	Kai užtenka medienos ir aukso — statykite. Paspauskite „Pastatai“ ir pasirinkite Gyvenamąjį namą. Veskite pirštą — namas seka paskui, tada paspauskite „Statyti“.
+Башни	Bokštai
+Казарма Ур.2	Kareivinės Lyg.2
+Стена или ворота	Siena arba vartai
+Для Цитадели Ур. {0} постройте:	Citadelei Lyg. {0} pastatykite:
+Чтобы поднять Цитадель до Ур. {0}, город должен дорасти: постройте эти здания (готовые, не в руинах).	Kad pakeltumėte Citadelę iki Lyg. {0}, miestas turi užaugti: pastatykite šiuos pastatus (baigtus, ne griuvėsiuose).
+Сначала постройте нужное	Pirmiausia pastatykite, ko reikia
+В городе:	Mieste:
+Нападение! Нажмите на бойца, потом на карту — его отряд пойдёт туда (двойное нажатие — марш). Башни и стены бьют сами, раненые лечатся в казарме.	Puolimas! Paspauskite karį, tada žemėlapį — jo būrys eis ten (dvigubas paspaudimas — žygis). Bokštai ir sienos kaunasi patys, sužeistieji gydosi kareivinėse.
+Нападение! Щёлкните по бойцу, потом по карте — его отряд пойдёт туда (двойной щелчок — марш). Башни и стены бьют сами, раненые лечатся в казарме.	Puolimas! Spustelėkite karį, tada žemėlapį — jo būrys eis ten (dvigubas spustelėjimas — žygis). Bokštai ir sienos kaunasi patys, sužeistieji gydosi kareivinėse.
+Кузня занята — нажмите, чтобы поставить в очередь.	Kalvė užimta — paspauskite, kad įdėtumėte į eilę.
+нет рецепта	nėra recepto
+мастерская не работает	dirbtuvės nedirba
+нужна мастерская выше уровнем	reikia aukštesnio lygio dirbtuvių
+склад полон	sandėlis pilnas
+не хватает сырья:	trūksta žaliavų:
+Готово!	Paruošta!
+Мастерская	Dirbtuvės
+Улучшение готово	Patobulinimas baigtas
+Стройка готова	Statyba baigta
+Готово	Paruošta
+Армия у цели	Kariuomenė pasiekė tikslą
+Армия дошла до деревни	Jūsų kariuomenė pasiekė kaimą
+Загляните в бой	Pažiūrėkite į mūšį
+Армия вернулась	Kariuomenė grįžo
+Армия вернулась домой с добычей	Jūsų kariuomenė grįžo namo su grobiu
+Щит скоро кончится	Skydas netrukus baigsis
+Щит города кончится через 30 минут	Miesto skydas baigsis po 30 minučių
+Щит города кончится через 10 минут	Miesto skydas baigsis po 10 minučių
+Ваш город ждёт: жители накопили ресурсы, пора строить дальше	Jūsų miestas laukia: gyventojai sukaupė išteklių, laikas statyti toliau
+Стройки, армия и щит	Statybos, kariuomenė ir skydas
+Каждое следующее такое здание дороже на {0}% — выгоднее улучшать то, что есть	Kiekvienas kitas toks pastatas brangesnis {0}%, todėl apsimoka tobulinti turimus
+Каждое следующее такое здание будет дороже на {0}%	Kiekvienas kitas toks pastatas bus brangesnis {0}%

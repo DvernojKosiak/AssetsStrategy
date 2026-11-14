@@ -1,0 +1,8 @@
+# Таран - одна боевая единица дома и в обороне: дополнение к en.txt
+Таран разбит — {0} дерутся ножами	Ram smashed — {0} fight with knives
+Таран разбит — {0} дерётся ножом	Ram smashed — {0} fights with a knife
+Таран разнёс лагерь войска {0}	The ram smashed the camp of {0}'s army
+{0}: таран починен ({1} досок)	{0}: ram repaired ({1} planks)
+в таране ({0} несёт)	inside the ram ({0} carries it)
+Уволить расчёт тарана ({0})?	Dismiss the ram crew ({0})?
+Оба носильщика уйдут со службы и снова станут жителями. Оружие вернётся в Оружейную, таран разберут.	Both carriers will leave the service and become citizens again. Weapons go back to the Armory, the ram is taken apart.

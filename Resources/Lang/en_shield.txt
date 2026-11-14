@@ -1,0 +1,29 @@
+# Щит города (пакет shchit-1)
+Щит города	City shield
+Пока стоит щит, другие игроки не видят ваш город во вкладке «Бой». Нажмите, чтобы узнать больше или снять щит	While the shield is up, other players can't see your town in the "Battle" tab. Click to learn more or drop the shield
+Город под щитом ещё	Your town is shielded for another
+Пока стоит щит, другие игроки не видят ваш город во вкладке «Бой» и не могут на него напасть. Набеги соседей щит не останавливает	While the shield is up, other players can't see your town in the "Battle" tab and can't attack it. Raids by neighbours are not stopped by the shield
+Щита сейчас нет	No shield right now
+Щит после набега игрока — чем сильнее разорили, тем дольше	Shield after a player's raid: the heavier the damage, the longer it lasts
+Отбились: ничего не унесли и не разрушили	Repelled: nothing taken or destroyed
+Лёгкий урон	Light damage
+Заметный урон	Noticeable damage
+Разрушена треть города или снесена Цитадель	A third of the town destroyed or the Citadel razed
+Разрушена половина города	Half of the town destroyed
+Город почти разрушен	Town almost destroyed
+Снять щит	Drop shield
+Снимаем щит…	Dropping shield…
+Снять щит?	Drop the shield?
+Город снова появится у других игроков во вкладке «Бой». Пригодится, если вы готовы обороняться	Your town will appear in other players' "Battle" tab again. Useful if you are ready to defend
+Ваш город снова смогут найти и атаковать другие игроки. Вернуть щит нельзя: новый появится только после следующего набега на вас	Other players will be able to find and attack your town again. The shield can't be restored: a new one only comes after the next raid on you
+Щит снят: ваш город снова виден другим игрокам	Shield dropped: your town is visible to other players again
+Сервер старой версии: обновите StrategycaServer, чтобы снимать щит	Old server version: update StrategycaServer to be able to drop the shield
+Щит не снят: {0}	Shield not dropped: {0}
+Ваш город под щитом ещё {0}	Your town is shielded for another {0}
+Пока стоит щит, другие игроки не видят ваш город во вкладке «Бой». Снять его можно кнопкой «Щит города» слева вверху	While the shield is up, other players can't see your town in the "Battle" tab. You can drop it with the "City shield" button at the top left
+Сервер подберёт деревню другого игрока похожей силы. Города под щитом не попадаются. Пока идёт ваш набег, на эту деревню не нападёт никто другой	The server will pick another player's village of similar strength. Shielded towns are skipped. While your raid is on, nobody else will attack that village
+{0}набег игрока {1} на вашу деревню: {2}{3}	{0}raid by {1} on your village: {2}{3}
+отбились, ничего не унесли{0}	repelled, nothing was taken{0}
+отбились, ничего не унесли	repelled, nothing was taken
+унесено {0}{1}{2}	taken {0}{1}{2}
+Щит города на {0}: другие игроки вас пока не найдут	City shield for {0}: other players won't find you for now

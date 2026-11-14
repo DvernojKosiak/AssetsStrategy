@@ -1,0 +1,49 @@
+# Обновление final-4: сторона похода, ядра пушки одним списком, дозоры (дополнение к lt.txt)
+Армия подойдёт к деревне с запада и войдёт на карту у западного края. Из нашего города уйдёт через восточный край.	Armija prie kaimo artės iš vakarų ir įžengs į žemėlapį ties vakariniu kraštu. Iš mūsų miesto išeis per rytinį kraštą.
+Армия подойдёт к деревне с востока и войдёт на карту у восточного края. Из нашего города уйдёт через западный край.	Armija prie kaimo artės iš rytų ir įžengs į žemėlapį ties rytiniu kraštu. Iš mūsų miesto išeis per vakarinį kraštą.
+Армия подойдёт к деревне с юга и войдёт на карту у южного края. Из нашего города уйдёт через северный край.	Armija prie kaimo artės iš pietų ir įžengs į žemėlapį ties pietiniu kraštu. Iš mūsų miesto išeis per šiaurinį kraštą.
+Армия подойдёт к деревне с севера и войдёт на карту у северного края. Из нашего города уйдёт через южный край.	Armija prie kaimo artės iš šiaurės ir įžengs į žemėlapį ties šiauriniu kraštu. Iš mūsų miesto išeis per pietinį kraštą.
+Армия подойдёт к деревне с запада и войдёт на карту у западного края.	Armija prie kaimo artės iš vakarų ir įžengs į žemėlapį ties vakariniu kraštu.
+Армия подойдёт к деревне с востока и войдёт на карту у восточного края.	Armija prie kaimo artės iš rytų ir įžengs į žemėlapį ties rytiniu kraštu.
+Армия подойдёт к деревне с юга и войдёт на карту у южного края.	Armija prie kaimo artės iš pietų ir įžengs į žemėlapį ties pietiniu kraštu.
+Армия подойдёт к деревне с севера и войдёт на карту у северного края.	Armija prie kaimo artės iš šiaurės ir įžengs į žemėlapį ties šiauriniu kraštu.
+Из нашего города уйдёт через восточный край.	Iš mūsų miesto išeis per rytinį kraštą.
+Из нашего города уйдёт через западный край.	Iš mūsų miesto išeis per vakarinį kraštą.
+Из нашего города уйдёт через северный край.	Iš mūsų miesto išeis per šiaurinį kraštą.
+Из нашего города уйдёт через южный край.	Iš mūsų miesto išeis per pietinį kraštą.
+Дома её не будет до возвращения.	Kol negrįš, namie jos nebus.
+Подойдём с запада, из города выйдем на востоке	Artėsime iš vakarų, iš miesto išeisime rytuose
+Подойдём с востока, из города выйдем на западе	Artėsime iš rytų, iš miesto išeisime vakaruose
+Подойдём с юга, из города выйдем на севере	Artėsime iš pietų, iš miesto išeisime šiaurėje
+Подойдём с севера, из города выйдем на юге	Artėsime iš šiaurės, iš miesto išeisime pietuose
+высадка	išsilaipinimas
+Карта повёрнута так, как деревня будет видна, когда армия подойдёт; С — север	Žemėlapis pasuktas taip, kaip kaimas atrodys armijai atvykus; С — šiaurė
+Ядра	Sviediniai
+обычные	paprasti
+Без особых ядер пушка стреляет обычными (бесплатно, всегда).	Be ypatingų sviedinių patranka šaudo paprastais (nemokamai, visada).
+Бронебойное ядро делает Инженерный двор (хранится в Оружейной): урон сильнее, +1 осколок, щит и укрытие не спасают, осколки летят сквозь стены. Каждый выстрел изнашивает ядро.	Šarvamušius sviedinius gamina Inžinierių kiemas (laikomi Ginklinėje): žala didesnė, +1 skeveldra, skydas ir priedanga negelbsti, skeveldros skrieja pro sienas. Kiekvienas šūvis dėvi sviedinį.
+Магические снаряды (огонь, лёд, чары) делает Магическая оружейная или продаёт рынок: пачка на несколько выстрелов.	Magiškus sviedinius (ugnis, ledas, kerai) gamina Magijos ginklinė arba parduoda turgus: pakuotės užtenka keliems šūviams.
+Бронебойное и магическое можно зарядить вместе — тогда выстрел и то, и другое.	Šarvamušį ir magišką galima užtaisyti kartu — tada šūvis bus ir toks, ir toks.
+Бронебойное	Šarvamušis
+Огненные	Ugnies
+Ледяные	Ledo
+Чародейские	Kerų
+Бронебойное ядро уже несут из Оружейной	Šarvamušis sviedinys jau nešamas iš Ginklinės
+Зарядить бронебойное: житель принесёт лучшее из Оружейной (там: {0})	Užtaisyti šarvamušį: gyventojas atneš geriausią iš Ginklinės (ten: {0})
+Бронебойных ядер нет — их делает Инженерный двор (путь Инженерии), они хранятся в Оружейной	Šarvamušių sviedinių nėra — juos gamina Inžinierių kiemas (Inžinerijos kelias), laikomi Ginklinėje
+Зарядить: {0} (пачек в городе: {1})	Užtaisyti: {0} (pakuočių mieste: {1})
+{0}: пачек нет — их делает Магическая оружейная (путь Магии) или продаёт рынок	{0}: pakuočių nėra — jas gamina Magijos ginklinė (Magijos kelias) arba parduoda turgus
+Бронебойное: ждёт со склада	Šarvamušis: laukia iš sandėlio
+Бронебойное: не заряжено	Šarvamušis: neužtaisytas
+Бронебойное ядро кончилось — сразу взять следующее из Оружейной	Baigėsi šarvamušis sviedinys — iškart paimti kitą iš Ginklinės
+Бронебойное ядро не заряжено	Šarvamušis sviedinys neužtaisytas
+Снаряды уносят на склад	Sviedinius neša į sandėlį
+Пачку снарядов несут	Sviedinių pakuotę neša
+несут новую	neša naują
+уносят	išneša
+осталось	liko
+Нажмите на ядро, чтобы зарядить. Бронебойное и магическое можно вместе.	Paspauskite sviedinį, kad užtaisytumėte. Šarvamušį ir magišką galima kartu.
+Ядра: магические снаряды	Sviediniai: magiški sviediniai
+бронебойные ядра	šarvamušiai sviediniai
+Дозоры: разведчики возвращаются на свои места ({0})	Sargybos: žvalgai grįžta į savo vietas ({0})
+Не переставлять этого игрока	Neperkelti šio žaidėjo

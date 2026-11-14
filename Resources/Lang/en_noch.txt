@@ -1,0 +1,28 @@
+# Ночь, выходные и режим накопления (камень): дополнение к en.txt
+Камень на содержание не тратится, он копится целиком	Stone is not spent on upkeep, all of it is saved up
+ночь · работа {0}%	night · work {0}%
+выходной · работа {0}%	day off · work {0}%
+ночь · работа {0}	night · work {0}
+выходной · работа {0}	day off · work {0}
+Ночь: рабочие спят дома	Night: workers are asleep at home
+Выходной: рабочие отдыхают дома	Day off: workers are resting at home
+В зданиях осталась только дежурная смена ({0}–{1} чел.), поэтому ресурсы копятся медленнее: сейчас работает {2}% рабочих	Only the skeleton shift ({0}–{1} people) stayed in the buildings, so resources pile up more slowly: {2}% of workers are working now
+В зданиях осталась только дежурная смена ({0}–{1} чел.), поэтому ресурсы копятся медленнее	Only the skeleton shift ({0}–{1} people) stayed in the buildings, so resources pile up more slowly
+В зданиях осталась только дежурная смена ({0} чел.), поэтому ресурсы копятся медленнее: сейчас работает {1}% рабочих	Only the skeleton shift ({0} people) stayed in the buildings, so resources pile up more slowly: {1}% of workers are working now
+Все выйдут на работу утром (06:00), через {0} мин	Everyone returns to work in the morning (06:00), in {0} min
+Все выйдут на работу утром (06:00), через {0} ч {1} мин	Everyone returns to work in the morning (06:00), in {0} h {1} min
+Все выйдут на работу в понедельник утром, через {0} мин	Everyone returns to work on Monday morning, in {0} min
+Все выйдут на работу в понедельник утром, через {0} ч {1} мин	Everyone returns to work on Monday morning, in {0} h {1} min
+Утро: рабочие вернулись в здания, добыча снова в полную силу	Morning: workers are back in the buildings, production is at full strength again
+На месте	On site
+Ночь: на месте только дежурные, {0} из {1}. Здание работает на {2}%	Night: only the skeleton shift is on site, {0} of {1}. The building works at {2}%
+Выходной: на месте только дежурные, {0} из {1}. Здание работает на {2}%	Day off: only the skeleton shift is on site, {0} of {1}. The building works at {2}%
+Ночь: на месте только дежурные ({0} из {1}), здание работает на {2}%. Утром все вернутся	Night: only the skeleton shift is on site ({0} of {1}), the building works at {2}%. Everyone returns in the morning
+Ночь: на месте только дежурные ({0} из {1}), здание работает на {2}%. Все вернутся в понедельник утром	Night: only the skeleton shift is on site ({0} of {1}), the building works at {2}%. Everyone returns on Monday morning
+Выходной: на месте только дежурные ({0} из {1}), здание работает на {2}%. Все вернутся в понедельник утром	Day off: only the skeleton shift is on site ({0} of {1}), the building works at {2}%. Everyone returns on Monday morning
+Утром все вернутся	Everyone returns in the morning
+Все вернутся в понедельник утром	Everyone returns on Monday morning
+(ночь: на месте {0}%)	(night: {0}% on site)
+(выходной: на месте {0}%)	(day off: {0}% on site)
+ночь: на месте {0}	night: {0}% on site
+выходной: на месте {0}	day off: {0}% on site

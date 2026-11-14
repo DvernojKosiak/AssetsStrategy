@@ -1,0 +1,5 @@
+# Обновление final-6: мелочи интерфейса
+У края карты строить нельзя — здесь появляются войска	You can't build at the map edge — troops arrive here
+Пока вы не нажали «Атаковать», вашу армию не трогают.	Until you press "Attack!", nobody touches your army.
+Сосед вспыльчивый: если простоять у ворот ещё {0} и попасться, он может ударить первым.	This neighbour is hot-headed: stand at the gates for another {0} and get spotted, and they may strike first.
+Вы стоите у ворот слишком долго — заметивший вас сосед может ударить первым.	You've stood at the gates too long — if the neighbour has spotted you, they may strike first.

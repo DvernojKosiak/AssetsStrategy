@@ -1,0 +1,487 @@
+# Обновление 22: всё, что ещё оставалось по-русски, и новый режим накопления - дополнение к lt.txt
+Связь с сервером восстановлена, игра продолжается	Ryšys su serveriu atkurtas, žaidimas tęsiasi
+рейтинг {0}{1}	reitingas {0}{1}
+Новая лига: {0}	Nauja lyga: {0}
+Рейтинг {0}: {1}{2} (теперь {3}){4}	Reitingas {0}: {1}{2} (dabar {3}){4}
+Связь с сервером потеряна	Ryšys su serveriu nutrūko
+Игра на паузе: без сервера играть нельзя. Как только сервер ответит, игра продолжится сама	Žaidimas sustabdytas: be serverio žaisti negalima. Kai tik serveris atsakys, žaidimas tęsis savaime
+Если сервер не вернётся, игра закроется через {0} с	Jei serveris negrįš, žaidimas užsidarys po {0} s
+Он запущен? Проверьте окно StrategycaServer (или Unity с сервером). Пробуем снова	Ar jis paleistas? Patikrinkite StrategycaServer langą (arba Unity su serveriu). Bandome dar kartą
+Подключиться	Prisijungti
+Проверить связь с этим адресом	Patikrinti ryšį su šiuo adresu
+Выйти из игры	Išeiti iš žaidimo
+Если сервер не вернётся, игра закроется через 90 с	Jei serveris negrįš, žaidimas užsidarys po 90 s
+Режим накопления: работают только добытчики, остальные рабочие идут домой. Расходов нет, жители не едят	Kaupimo režimas: dirba tik gavėjai, kiti darbininkai eina namo. Jokių išlaidų, gyventojai nevalgo
+Кончилось: {0}. Включить режим накопления	Baigėsi: {0}. Įjungti kaupimo režimą
+Пока режим включён, здания ничего не тратят, жители не едят, а добытчики продолжают работать (вполсилы). Ресурсы только копятся. Выключить можно в меню «Город	Kol režimas įjungtas, pastatai nieko neeikvoja, gyventojai nevalgo, o gavėjai dirba toliau (puse jėgos). Ištekliai tik kaupiasi. Išjungti galima meniu „Miestas“
+Спрятать на 10 минут	Paslėpti 10 minučių
+Работают только Лесопилка, Шахта, Ферма и сборщики ягод (на {0}%), курьеры носят добычу. Остальные рабочие сидят дома, здания на паузе. Новые жители не приходят	Dirba tik Lentpjūvė, Kasykla, Ūkis ir uogų rinkėjai ({0}%), kurjeriai neša gėrybes. Kiti darbininkai sėdi namie, pastatai sustabdyti. Nauji gyventojai neatvyksta
+Ни одно здание ничего не тратит, жители не едят и сами не лечатся: всё только копится	Joks pastatas nieko neeikvoja, gyventojai nevalgo ir patys negyja: viskas tik kaupiasi
+Ночью все рабочие тоже на местах	Naktį visi darbininkai irgi savo vietose
+Город копит ресурсы: работают только добытчики (вполсилы), рабочие остальных зданий идут домой, новые жители не приходят. Выключите — и рабочие вернутся	Miestas kaupia išteklius: dirba tik gavėjai (puse jėgos), kitų pastatų darbininkai eina namo, nauji gyventojai neatvyksta. Išjunkite — ir darbininkai grįš
+Помогает, если кончилась еда или другой ресурс	Padeda, kai baigėsi maistas ar kitas išteklius
+идёт {0} мин · добыча {1}% · расходов нет · прироста жителей нет	veikia {0} min · gavyba {1}% · išlaidų nėra · gyventojų prieaugio nėra
+Нажмите ещё раз — предмет исчезнет, в Цитадель вернётся	Paspauskite dar kartą — daiktas išnyks, į Citadelę grįš
+Переплавить, чтобы освободить место. Вернётся совсем немного	Perlydyti, kad atsilaisvintų vieta. Grįš labai nedaug
+1 зелье отравления = {0} выстрелов ядом. Житель принесёт его из Цитадели или Хранилища	1 nuodų eliksyras = {0} nuodingų šūvių. Gyventojas atneš jį iš Citadelės ar Saugyklos
+1 зелье замедления = {0} выстрелов: стрелы замедляют врагов	1 lėtinimo eliksyras = {0} šūvių: strėlės sulėtina priešus
+Тратит 1 Фейерверочный лук (модуль башни) из Цитадели: Мк.{0} даёт {1} выстрелов. Стрела-ракета рвётся у цели, как у башни: взрыв бьёт врагов рядом, искры жгут встречных. Урон самой стрелы не меняется	Naudoja 1 Fejerverkų lanką (bokšto modulį) iš Citadelės: Mk.{0} duoda {1} šūvių. Strėlė-raketa sprogsta prie taikinio kaip bokšto: sprogimas kerta šalia esančius priešus, kibirkštys degina sutiktuosius. Pačios strėlės žala nesikeičia
+Щит с небольшим шансом отражает снаряды обратно — в стрелка или в башню. Тратится лучшее ядро хаоса из Цитадели	Skydas su nedidele tikimybe atmuša sviedinius atgal — į šaulį ar bokštą. Naudojama geriausia chaoso šerdis iš Citadelės
+Золото чинит и усиливает предметы, кнопка «Эффект» у лука или щита накладывает яд, замедление, салют или ядро хаоса. Выдаёт предметы казарма (вкладка «Снаряжение»). Лишнее (например, трофеи из набегов) можно переплавить на вкладке «Склад», чтобы освободить место: вернётся 1 сталь или 1 доска. Вместимость склада растёт с уровнем: 12 / 24 / 40. Выковано всего: {0}	Auksas taiso ir stiprina daiktus, mygtukas „Efektas“ prie lanko ar skydo uždeda nuodus, lėtinimą, saliutą ar chaoso šerdį. Daiktus išduoda kareivinės (skirtukas „Ekipuotė“). Perteklių (pavyzdžiui, antpuolių trofėjus) galima perlydyti skirtuke „Sandėlis“, kad atsilaisvintų vieta: grįš 1 plienas arba 1 lenta. Sandėlio talpa auga su lygiu: 12 / 24 / 40. Iš viso nukalta: {0}
+Тяжёлый Рыцарь	Sunkusis riteris
+Таран	Taranas
+{0}: готов {1} — два носильщика	{0}: {1} paruoštas — du nešikai
+{0}: собран новый таран ({1} досок	{0}: surinktas naujas taranas ({1} lentų
+{0} {1}: принесли {2}	{0} {1}: atnešė {2}
+{0}: нужно {1} свободных жителя	{0}: reikia {1} laisvų gyventojų
+{0}: нужен второй носильщик — нет свободных жителей	{0}: reikia antro nešiko — laisvų gyventojų nėra
+Марш: отряд идёт к точке, не ввязываясь в бой	Žygis: būrys eina į tašką nesileisdamas į kovą
+{0}: ядро несут в казарму — пусть пушка вернётся к казарме	{0}: sviedinys nešamas į kareivines — tegul patranka grįžta prie kareivinių
+{0}: из Оружейной несут {1}	{0}: iš Ginklinės nešama {1}
+{0} {1}: заряжено {2}	{0} {1}: užtaisyta {2}
+В Оружейных нет места: {0} потеряно	Ginklinėse nėra vietos: {0} prarasta
+клик — с боем по пути, двойной клик — марш	spustelėjimas — su kova pakeliui, dvigubas spustelėjimas — žygis
+Башни и пушки врага бьют его первым, пока он у них в радиусе. Пусть принимает огонь на себя, а остальные в это время атакуют	Priešo bokštai ir patrankos pirmiausia šaudo į jį, kol jis jų spindulyje. Tegul jis prisiima ugnį, o kiti tuo metu puola
+Камни навесом через стены, удар по площади (радиус {0}). Дальность {1}–{2}: вблизи урон {3}, на пределе — {4}. По зданиям в набеге ×{5}	Sviedžia akmenis per sienas, smūgis į plotą (spindulys {0}). Nuotolis {1}–{2}: iš arti žala {3}, ties riba — {4}. Pastatams antpuolyje ×{5}
+Одна боевая единица: двое жителей и таран (второй сидит «в таране»). Удар {0} раз в {1} с — по стенам, воротам и заслонам ×{2}, по зданиям ×{3}. По людям не бьёт. Хлипкий (прочность {4}), сам идёт к стенам, если не дать другой приказ	Vienas kovinis vienetas: du gyventojai ir taranas (antrasis sėdi „tarane“). Smūgis {0} kartus per {1} s — sienoms, vartams ir užtvaroms ×{2}, pastatams ×{3}. Žmonių nemuša. Trapus (tvirtumas {4}), pats eina prie sienų, jei neduodamas kitas įsakymas
+Сломан — носильщики выпадают и дерутся ножами (здоровье {5}, урон {6}). Новый таран собирают в казарме: {7} досок	Sulūžus nešikai iškrenta ir kaunasi peiliais (sveikata {5}, žala {6}). Naujas taranas surenkamas kareivinėse: {7} lentų
+И в набеге, и дома: в обороне ломает заслоны нападающего и лагерь войска соседа. Побитый таран чинят в казарме	Ir antpuolyje, ir namie: gynyboje laužo užpuoliko užtvaras ir kaimyno kariuomenės stovyklą. Apdaužytas taranas taisomas kareivinėse
+Носильщикам можно выдать меч и броню (не щит); их броня прибавляется к броне тарана	Nešikams galima duoti kardą ir šarvus (ne skydą); jų šarvai pridedami prie tarano šarvų
+Нужно {0} свободных жителя	Reikia {0} laisvų gyventojų
+{0} жит	{0} gyv
+Любые бойцы ★ выходят усиленными: +35% здоровья, +25% урона (у лекаря — лечения), +10% скорости	Bet kurie ★ kariai išeina sustiprinti: +35% sveikatos, +25% žalos (gydytojo — gydymo), +10% greičio
+Мелким бойцам — 1 порция, крупным (от 3 мест) и коннице — 2	Mažiems kariams — 1 porcija, dideliems (nuo 3 vietų) ir raiteliams — 2
+таран {0}	taranas {0}
+Один таран на двоих: {0}. Здоровье {1}: {2}/{3}	Vienas taranas dviem: {0}. Sveikata {1}: {2}/{3}
+Пока таран цел, бьют по нему. Разобьют — оба выпадут и будут драться ножами	Kol taranas sveikas, muša jį. Sudaužius abu iškris ir kausis peiliais
+Бойцы остаются в казарме: их можно продать союзникам на рынке клана или вывести вручную («Послать...» и щелчок за краем города	Kariai lieka kareivinėse: juos galima parduoti sąjungininkams klano turguje arba išvesti rankiniu būdu („Siųsti...“ ir spustelėjimas už miesto krašto
+Собиратели ходят к ягодным кустам, чаще всего за городом, и приносят ягоды сюда. В Цитадель их уносят кнопкой «Собрать» или курьеры Курьерской. Ягоды нужны Кухне	Rinkėjai eina prie uogų krūmų, dažniausiai už miesto, ir neša uogas čia. Į Citadelę jas nuneša mygtukas „Surinkti“ arba Kurjerių namų kurjeriai. Uogų reikia Virtuvei
+{0}: улучшено до Ур. {1}	{0}: patobulinta iki Lyg. {1}
+Стройка {0}% · ещё {1}	Statyba {0}% · liko {1}
+Не больше {0} при Цитадели Ур.{1}{2}	Ne daugiau {0} su Citadele Lyg.{1}{2}
+вся цена (стройка ещё не закончена	visa kaina (statyba dar nebaigta
+Как управлять пальцами	Kaip valdyti pirštais
+{0}: на месте только дежурные ({1} из {2}), здание работает на {3}	{0}: vietoje tik budintieji ({1} iš {2}), pastatas dirba {3}
+Доски и плиты до {0}, сталь до {1} · Хранилищ: {2}	Lentos ir plokštės iki {0}, plienas iki {1} · Saugyklų: {2}
+Сколько всего может лежать в городе. Сверх лимита ничего не копится: курьеры оставляют добычу в зданиях	Kiek iš viso gali būti mieste. Virš ribos niekas nesikaupia: kurjeriai palieka gėrybes pastatuose
+мастерская не берёт заказ, рынок не продаёт. Лимит растёт с уровнем Цитадели, каждое Хранилище добавляет ещё	dirbtuvės nepriima užsakymo, turgus neparduoda. Riba auga su Citadelės lygiu, kiekviena Saugykla prideda dar
+{0} (Хранилища	{0} (Saugyklos
+Материалы в Цитадели (все качества вместе), сверх них — в Хранилищах	Medžiagos Citadelėje (visos kokybės kartu), virš to — Saugyklose
+Стройка	Statyba
+Пока здание строится, оно не работает. Снести стройку (X) — вернётся вся цена	Kol pastatas statomas, jis neveikia. Nugriauti statybą (X) — grįš visa kaina
+Вместимость	Talpa
+Склад полон: готовое некуда положить. Улучшите Цитадель или постройте Хранилище	Sandėlis pilnas: pagamintų daiktų nėra kur dėti. Patobulinkite Citadelę arba pastatykite Saugyklą
+Взять здание в руки и поставить в другом месте: ведите пальцем, потом «✓ Поставить». Бесплатно	Paimti pastatą į rankas ir pastatyti kitur: veskite pirštu, tada „✓ Statyti“. Nemokamai
+Перенести здание в другое место (M). Бесплатно	Perkelti pastatą į kitą vietą (M). Nemokamai
+Сидя в дозоре, он невидим для врагов и лазутчиков, видит на {0} клеток и предупреждает о войсках соседей: войско с его стороны карты (до {1} кл. от края) замечает на {2}+ с раньше	Sėdėdamas sargyboje jis nematomas priešams ir šnipams, mato {0} langelių ir įspėja apie kaimynų kariuomenes: kariuomenę iš jo žemėlapio pusės (iki {1} lang. nuo krašto) pastebi {2}+ s anksčiau
+Паёк: {3} еды на ~{4} дн. Кончился — голодным идёт в казарму. Между дозорами не меньше {5} клеток, только вне своей зоны	Davinys: {3} maisto ~{4} d. Pasibaigus alkanas eina į kareivines. Tarp sargybų ne mažiau {5} langelių, tik už savo zonos
+{0}: кликните по карте, куда идти дальше (двойной клик — маршем, Esc — отмена	{0}: spustelėkite žemėlapyje, kur eiti toliau (dvigubas spustelėjimas — žygiu, Esc — atšaukti
+Отряд	Būrys
+{0}: из лагеря можно идти только в пределах города	{0}: iš stovyklos galima eiti tik miesto ribose
+Дальше	Toliau
+Не посылать отряд дальше	Nesiųsti būrio toliau
+Послать этот отряд в новую точку прямо отсюда, не ища его в казарме	Siųsti šį būrį į naują tašką tiesiai iš čia, neieškant jo kareivinėse
+Один клик по карте — идёт и бьёт всех по дороге, двойной — маршем. Лагерь переедет туда	Vienas spustelėjimas žemėlapyje — eina ir muša visus pakeliui, dvigubas — žygiu. Stovykla persikels ten
+Обычная	Įprasta
+Хорошая	Gera
+Превосходная	Puiki
+таран сломан — соберут в казарме	taranas sulūžęs — surinks kareivinėse
+таран цел	taranas sveikas
+Каждый цикл рабочие здания берут ресурсы из казны — от Цитадели к краю. Ползунок задаёт, какую долю зданий (ближних к центру) снабжать. Если ресурса не хватает, закрываются самые дальние здания — над ними красный	Kiekvieną ciklą dirbantys pastatai ima išteklius iš iždo — nuo Citadelės į kraštus. Slankiklis nustato, kokią pastatų dalį (arčiausiai centro) aprūpinti. Jei ištekliaus trūksta, užsidaro toliausiai esantys pastatai — virš jų raudonas
+Экономика	Ekonomika
+кончилось	baigėsi
+полон через	pilnas po
+Не хватает {0}: {1} зд. на {2}	Trūksta {0}: {1} past. per {2}
+Нет рабочих: {0} зд. — нужны дома	Nėra darbininkų: {0} past. — reikia namų
+Полный склад: {0} зд. — «Собрать всё	Pilnas sandėlis: {0} past. — „Surinkti viską“
+Вне зелёной зоны: {0} зд	Už žaliosios zonos: {0} past
+Нет мест в домах — город не растёт	Namuose nėra vietų — miestas neauga
+{0} кончится через {1}	{0} baigsis po {1}
+Строится: {0} · улучшается: {1}	Statoma: {0} · tobulinama: {1}
+Всё в порядке	Viskas gerai
+не добывают и не тратят	negamina ir neeikvoja
+Добывают здания: +{1}	Pastatai gamina: +{1}
+Содержание зданий: −{2}	Pastatų išlaikymas: −{2}
+Прочее (жители едят, мастерские, обучение): {0}	Kita (gyventojai valgo, dirbtuvės, mokymas): {0}
+Прочее: замер ещё идёт	Kita: matavimas dar vyksta
+Итого: {0}	Iš viso: {0}
+Зелёное на полоске — приход, красное — расход. Итог — как на самом деле меняется запас за последние 2 минуты (без ваших покупок и строек	Žalia juostoje — pajamos, raudona — išlaidos. Iš viso — kaip iš tikrųjų keitėsi atsargos per paskutines 2 minutes (be jūsų pirkinių ir statybų
+Сколько жителей и сколько мест в Жилых домах. Места кончились — город не растёт	Kiek gyventojų ir kiek vietų Gyvenamuosiuose namuose. Vietos baigėsi — miestas neauga
+Жители едят еду из Цитадели: больше жителей — больше еды	Gyventojai valgo maistą iš Citadelės: daugiau gyventojų — daugiau maisto
+☺ свободны {0}	☺ laisvi {0}
+Что не так	Kas negerai
+Даёт в минуту	Duoda per minutę
+Сейчас не добывает: склад здания полон — нужны курьеры	Dabar negamina: pastato sandėlis pilnas — reikia kurjerių
+Сейчас не добывает: нет рабочих или здание не работает	Dabar negamina: nėra darbininkų arba pastatas neveikia
+Содержание в минуту	Išlaikymas per minutę
+Городу не хватает {0} — здание работает на {1}	Miestui trūksta {0} — pastatas dirba {1}
+{0} в городе кончится через {1} ({2}/мин	{0} mieste baigsis po {1} ({2}/min
+В городе нет еды — жители голодают и работают хуже	Mieste nėra maisto — gyventojai badauja ir dirba prasčiau
+Еда в городе кончится через {0} — нужны фермы	Maistas mieste baigsis po {0} — reikia ūkių
+Экономика здания	Pastato ekonomika
+Что здание даёт и тратит. Весь город — меню «Город» → вкладка «Экономика	Ką pastatas duoda ir eikvoja. Visas miestas — meniu „Miestas“ → skirtukas „Ekonomika“
+Закрепите курьеров за зданиями — они носят накопленное в Цитадель. За аванпостами — возят туда еду из Цитадели. За рейс курьер берёт до {0} каждого ресурса, до Цитадели доезжает {1}%. В войну курьеры не выходят	Priskirkite kurjerius pastatams — jie neša sukauptas gėrybes į Citadelę. Priskirti forpostams — veža ten maistą iš Citadelės. Per reisą kurjeris paima iki {0} kiekvieno ištekliaus, iki Citadelės nuveža {1}%. Karo metu kurjeriai neišeina
+Дальние рейсы: дальше {2} клеток от Курьерской курьер устаёт быстрее и больше ест (+{3}% голода за клетку, до ×{4}). Ставьте Курьерскую ближе к зданиям	Tolimi reisai: toliau nei {2} langeliai nuo Kurjerių namų kurjeris greičiau pavargsta ir daugiau valgo (+{3}% alkio už langelį, iki ×{4}). Statykite Kurjerių namus arčiau pastatų
+Еда в пути» — сколько еды курьеры съели сверх обычного из-за дальних рейсов (с начала игры	Maistas kelyje“ — kiek maisto kurjeriai suvalgė virš įprasto dėl tolimų reisų (nuo žaidimo pradžios
+Далеко от Курьерской: у здания курьер голодает в {0} раза быстрее	Toli nuo Kurjerių namų: prie šio pastato kurjeris alksta {0} kart. greičiau
+Секций нужно столько, сколько клеток воды поперёк реки. Готовая переправа — только для солдат (и врагов!), мирным нужен мост	Sekcijų reikia tiek, kiek vandens langelių skersai upės. Paruošta perėja — tik kariams (ir priešams!), taikiems gyventojams reikia tilto
+Кузня, вкладка «Ловушки»: обычную ловушку (купить у инженеров на рынке) переделать в	Kalvė, skirtukas „Spąstai“: paprastus spąstus (nupirktus iš inžinierių turguje) paversti
+капканы, шипы, сети, пружины; добавки меняют свойства. Ставятся у себя в городе, продаются на рынке	slastai, spygliai, tinklai, spyruoklės; priedai keičia savybes. Statomi savo mieste, parduodami turguje
+Ячейку направления можно купить, когда Цитадель дорастёт до Ур. {0}. Путь выбирается один раз: здания и войска других путей станут недоступны	Krypties langelį galima nusipirkti, kai Citadelė pasieks Lyg. {0}. Kelias pasirenkamas vieną kartą: kitų kelių pastatai ir kariuomenė taps neprieinami
+в одну точку — удобно под огненный шар, пушку или ловушки	į vieną tašką — patogu ugnies kamuoliui, patrankai ar spąstams
+наступивший взлетает в случайную сторону, в воздухе гремит салют, а упав, враг	užlipęs išskrenda į atsitiktinę pusę, ore griaudi saliutas, o nukritęs priešas
+стоящего на месте не видит никто, а он видит округу. Сидит долго, пока не кончится паёк	stovinčio vietoje niekas nemato, o jis mato apylinkes. Sėdi ilgai, kol pasibaigs davinys
+Таран игрока {0} разбит — носильщики бросились в бой	Žaidėjo {0} taranas sudaužytas — nešikai puolė į kovą
+Пиротехник. Наступившего уносит ракетой на 3–5 клеток в случайную сторону (тяжёлых — ближе), на вершине полёта рвётся салют — урон всем рядом, после приземления жертва оглушена и горит. Нужна смола (горючая смесь	Pirotechnikas. Užlipusįjį raketa nuneša 3–5 langelius į atsitiktinę pusę (sunkiuosius — arčiau), skrydžio viršūnėje sprogsta saliutas — žala visiems šalia, nusileidusi auka apsvaigusi ir dega. Reikia dervos (degaus mišinio
+Заказ: золото, детали, сталь и доски списываются, инженер несёт их из Цитадели во двор. Готовый модуль лежит на складе двора. Ставит модуль инженер: несёт его со двора к постройке. Механизм моста и подъёмник пушки ставятся из их панелей, там же «Заменить» и «Снять». Марка модуля равна уровню двора. Детали льёт Литейная. Собрано всего: {0}	Užsakymas: auksas, detalės, plienas ir lentos nurašomi, inžinierius neša juos iš Citadelės į kiemą. Paruoštas modulis guli kiemo sandėlyje. Modulį stato inžinierius: neša jį iš kiemo prie statinio. Tilto mechanizmas ir patrankos keltuvas statomi iš jų skydelių, ten pat „Pakeisti“ ir „Nuimti“. Modulio markė lygi kiemo lygiui. Detales lieja Liejykla. Iš viso surinkta: {0}
+Рецепт = основа + добавки. Каждой основе нужна резина (её варит Литейная). Готовые ловушки кладут в запас Цитадели. Ставятся дома в мирное время, в зелёной зоне (кнопка «Ловушки» [T]). Военное дело переделывает их в боевые в Кузне мастера — продайте на рынке. Инженеры одни: пока собирают ловушку, модуль ждёт, и наоборот. Собрано ловушек: {0}	Receptas = pagrindas + priedai. Kiekvienam pagrindui reikia gumos (ją verda Liejykla). Paruošti spąstai dedami į Citadelės atsargas. Statomi namie taikos metu, žaliojoje zonoje (mygtukas „Spąstai“ [T]). Karyba paverčia juos koviniais Meistro kalvėje — parduokite turguje. Inžinieriai vieni: kol renka spąstus, modulis laukia, ir atvirkščiai. Surinkta spąstų: {0}
+Стенка + палатка: раненые отдыхают до 70% здоровья, пока есть лечебный запас	Sienelė + palapinė: sužeistieji ilsisi iki 70% sveikatos, kol yra gydymo atsargų
+Боец катит его, куда прикажете. На ходу изнашивается. Войска на пути толкают его, снаряды откатывают	Karys rieda jį ten, kur įsakysite. Važiuojant dėvisi. Kariai kelyje jį stumia, sviediniai atmuša atgal
+упёрся — пока не сдвинуть	įstrigo — kol kas nepajudinti
+его толкают	jį stumia
+войска на пути толкают его, снаряды откатывают	kariai kelyje jį stumia, sviediniai atmuša atgal
+Враг достроил: {0}	Priešas užbaigė statyti: {0}
+Разрушено укрепление врага: {0}	Sugriautas priešo įtvirtinimas: {0}
+Разнесли стройку врага: {0}	Sudaužė priešo statybą: {0}
+{0} развалился — его затолкали	{0} subyrėjo — jį nustūmė
+перед вверх	priekis aukštyn
+перед вверх-влево	priekis aukštyn-kairėn
+перед влево	priekis kairėn
+перед вниз-влево	priekis žemyn-kairėn
+перед вниз	priekis žemyn
+перед вниз-вправо	priekis žemyn-dešinėn
+перед вправо	priekis dešinėn
+перед вверх-вправо	priekis aukštyn-dešinėn
+Урон {1}+, дальность {2} кл., раз в {3} с, прочность {4}+. Не ближе {5} кл. к зелёной зоне врага; не больше {6} на карте	Žala {1}+, nuotolis {2} lang., kas {3} s, tvirtumas {4}+. Ne arčiau {5} lang. iki priešo žaliosios zonos; ne daugiau {6} žemėlapyje
+Живой бой: укрепление стоит у защитника, убрать его нельзя	Gyva kova: įtvirtinimas stovi pas gynėją, jo pašalinti negalima
+Стенка непроходима и режет урон, только если враг по ту сторону. Недостроенную легко разнести. Нельзя ставить на бойцов, в тумане, рядом с врагами; в набеге — только рядом со своими бойцами. Изготавливает Кузня мастера (Военное дело); в набег берут в окне «В бой!». Полевая башня стреляет сама, но не ближе 6 кл. к зелёной зоне врага. Заслон на колёсах катит боец («Катить»), его сдвигают отбойник, чёрная дыра, пружины и тяжёлые враги. Быстрый заслон (Военный строитель) — сразу за дерево. B — открыть / закрыть	Sienelė nepraeinama ir mažina žalą, tik jei priešas kitoje pusėje. Nebaigtą lengva sudaužyti. Negalima statyti ant karių, rūke, šalia priešų; antpuolyje — tik šalia savo karių. Gamina Meistro kalvė (Karyba); į antpuolį imama lange „Į mūšį!“. Lauko bokštas šaudo pats, bet ne arčiau 6 lang. iki priešo žaliosios zonos. Užtvarą ant ratų rieda karys („Riedėti“), ją pastumia atmušėjas, juodoji skylė, spyruoklės ir sunkūs priešai. Greita užtvara (Karo statybininkas) — iš karto už medieną. B — atidaryti / uždaryti
+R — повернуть ({0}), ПКМ / Esc — отмена	R — pasukti ({0}), DPM / Esc — atšaukti
+Наши бойцы срубили башню врага: {0}	Mūsų kariai nukirto priešo bokštą: {0}
+Жар растёт, только пока идёт плавка; без работы котлы остывают. На 100% жара — перегрев: котлы сбрасываются на «Обычный», литейная стоит {0} с (авария), а с шансом {1}% сгорает вместе с плавкой (пожар). Предохранитель сам сбрасывает режим при {2}%. Улучшение: котлы греются медленнее и реже горят. Отлито всего: {3}, перегревов: {4}	Karštis auga tik kol vyksta lydymas; be darbo katilai vėsta. Ties 100% karščio — perkaitimas: katilai grįžta į „Įprastą“, liejykla stovi {0} s (avarija), o su {1}% tikimybe sudega kartu su lydiniu (gaisras). Saugiklis pats atstato režimą ties {2}%. Tobulinimas: katilai kaista lėčiau ir rečiau dega. Iš viso išlieta: {3}, perkaitimų: {4}
+Оранжевая метка — опасно ({0}%), голубая — предохранитель ({1}%). На 100% — авария на {2} с или пожар (шанс {3}	Oranžinė žymė — pavojinga ({0}%), mėlyna — saugiklis ({1}%). Ties 100% — avarija {2} s arba gaisras (tikimybė {3}
+В зданиях осталась только дежурная смена ({0} чел.), поэтому ресурсы копятся медленнее	Pastatuose liko tik budinti pamaina ({0} žm.), todėl ištekliai kaupiasi lėčiau
+сейчас работает {0}% рабочих	dabar dirba {0}% darbininkų
+Все выйдут на работу в понедельник утром, через	Visi grįš į darbą pirmadienio rytą, po
+Все выйдут на работу утром (06:00), через	Visi grįš į darbą ryte (06:00), po
+Режим накопления: все рабочие на местах и ночью	Kaupimo režimas: visi darbininkai savo vietose ir naktį
+День {0}, сейчас {1}. Сутки: день {2} мин + ночь {3} мин	Diena {0}, dabar {1}. Para: diena {2} min + naktis {3} min
+Выходных нет: рабочие трудятся каждый день. Ночью на производстве остаётся дежурная смена	Poilsio dienų nėra: darbininkai dirba kasdien. Naktį gamyboje lieka budinti pamaina
+✦ Мана в воздухе {0}% — новая каждый день. Маги и целители работают на x{1}	✦ Mana ore {0}% — nauja kasdien. Magai ir gydytojai dirba x{1}
+Пушка: из Оружейной несут {0}	Patranka: iš Ginklinės nešama {0}
+Пушка: принесли и зарядили {0}	Patranka: atnešta ir užtaisyta {0}
+Бронебойное ядро (Инженерный двор, хранится в Оружейной). Урон сильнее, +1 осколок, щит и укрытие не спасают, осколки летят сквозь стены. Каждый выстрел изнашивает ядро	Šarvamušis sviedinys (Inžinierių kiemas, laikomas Ginklinėje). Stipresnė žala, +1 skeveldra, skydas ir priedanga negelbsti, skeveldros skrenda kiaurai sienas. Kiekvienas šūvis dėvi sviedinį
+Ядро уже несут из Оружейной	Sviedinys jau nešamas iš Ginklinės
+Житель принесёт лучшее из Оружейной (там: {0}	Gyventojas atneš geriausią iš Ginklinės (ten: {0}
+Житель унесёт ядро в Оружейную	Gyventojas nuneš sviedinį į Ginklinę
+Площадка — квадрат {0} клеток вокруг завода (Ур.1-3: 6/7/8). Производства в ней работают быстрее, пока завод топят деревом из казны. Бонус зависит от режима и рабочих завода. Жар растёт на «Форсаже» и «Пределе», на «Ровно» и «Тихо» спадает. На 100% — взрыв: завод и все постройки площадки теряют {1}% прочности, производства стоят {2} с, завод — {3} с. Предохранитель сбрасывает печи на «Ровно» при {4}%. Улучшение: площадка шире, печи греются медленнее. Сожжено дерева: {5}, взрывов: {6}	Aikštelė — {0} langelių kvadratas aplink gamyklą (Lyg.1-3: 6/7/8). Gamybos pastatai joje dirba greičiau, kol gamykla kūrenama mediena iš iždo. Premija priklauso nuo režimo ir gamyklos darbininkų. Karštis auga per „Forsažą“ ir „Ribą“, per „Tolygiai“ ir „Tyliai“ krenta. Ties 100% — sprogimas: gamykla ir visi aikštelės statiniai netenka {1}% tvirtumo, gamyba stovi {2} s, gamykla — {3} s. Saugiklis perjungia krosnis į „Tolygiai“ ties {4}%. Tobulinimas: aikštelė platesnė, krosnys kaista lėčiau. Sudeginta medienos: {5}, sprogimų: {6}
+Завод берёт дерево прямо из казны. Кончится дерево — печи гаснут и площадка теряет бонус. Пока на площадке нет производств или нет рабочих, дерево не тратится	Gamykla ima medieną tiesiai iš iždo. Pasibaigus medienai krosnys užgęsta ir aikštelė netenka premijos. Kol aikštelėje nėra gamybos pastatų ar darbininkų, mediena neeikvojama
+Оранжевая метка — опасно ({0}%), голубая — предохранитель ({1}%). На 100% — взрыв: вся площадка ломается на {2} с	Oranžinė žymė — pavojinga ({0}%), mėlyna — saugiklis ({1}%). Ties 100% — sprogimas: visa aikštelė sugenda {2} s
+Варка идёт {0} с и даёт {1} порц. Ягоды — со Станции собирателей, овёс — с фермы Ур.3. Похлёбка усиливает всадников (галочка «С похлёбкой» в казарме). Кухня вплотную к казарме (или группе казарм) отдаёт похлёбку туда сама, иначе её носят курьеры. Сварено всего: {2}	Virimas trunka {0} s ir duoda {1} porc. Uogos — iš Rinkėjų stoties, avižos — iš Lyg.3 ūkio. Sriuba sustiprina raitelius (varnelė „Su sriuba“ kareivinėse). Virtuvė greta kareivinių (ar jų grupės) pati atiduoda sriubą ten, kitaip ją neša kurjeriai. Iš viso išvirta: {2}
+Подношения копятся в запасе алтаря, он превращает их в рост голема (быстрее при высокой мане). На 100% рождается голем: стоит у алтаря и бьёт врагов в {0} клетках от него, приказов не слушает. У алтаря сам лечится ({1}/с вне боя), подношения лечат быстрее. Его можно взять в набег (окно набега). Алтарь разрушен — голем рассыпается; погиб — алтарь остывает {2} с. Уровень алтаря: +12% к силе голема. Рождено големов: {3}	Aukos kaupiasi altoriaus atsargose, jis paverčia jas golemo augimu (greičiau esant didelei manai). Ties 100% gimsta golemas: stovi prie altoriaus ir muša priešus {0} langelių atstumu nuo jo, įsakymų neklauso. Prie altoriaus pats gyja ({1}/s ne kovoje), aukos gydo greičiau. Jį galima pasiimti į antpuolį (antpuolio langas). Sugriovus altorių golemas subyra; žuvus — altorius vėsta {2} s. Altoriaus lygis: +12% golemo jėgos. Gimė golemų: {3}
+Нет ядра хаоса в Цитадели — зачаруйте его здесь	Citadelėje nėra chaoso šerdies — užkerėkite ją čia
+Нет щита без ядра: ни в Оружейных, ни у бойцов у казармы	Nėra skydo be šerdies: nei Ginklinėse, nei pas karius prie kareivinių
+Ядро хаоса Мк.{0} несут к щиту{1}	Chaoso šerdis Mk.{0} nešama prie skydo{1}
+Ядро хаоса Мк.{0} наложено на щит{1}: отражает {2}% снарядов, {3} раз	Chaoso šerdis Mk.{0} uždėta ant skydo{1}: atmuša {2}% sviedinių, {3} kartus
+Щита нет	Skydo nėra
+Ядро хаоса Мк.{0} наложено на щит: отражает {1}% снарядов, {2} раз	Chaoso šerdis Mk.{0} uždėta ant skydo: atmuša {1}% sviedinių, {2} kartus
+Заказ: золото, травы (и смола / зелье) списываются из Цитадели, житель несёт их сюда, чародеи зачаровывают. Готовую пачку несут в Цитадель. Пачку ставят на пушку из её панели; полевые пушки заряжаются сами в казарме. Марка пачки (Мк.) равна уровню оружейной. Ниже {0}% маны работа стоит. Сделано всего: {1}	Užsakymas: auksas, žolelės (ir derva / eliksyras) nurašomi iš Citadelės, gyventojas neša juos čia, kerėtojai užkeri. Paruoštą pakuotę neša į Citadelę. Pakuotė dedama ant patrankos iš jos skydelio; lauko patrankos užtaisomos pačios kareivinėse. Pakuotės markė (Mk.) lygi ginklinės lygiui. Esant mažiau nei {0}% manos darbas stovi. Iš viso pagaminta: {1}
+Ядро хаоса Маг стихий берёт сам в своей казарме; погиб маг — ядро потеряно. Ещё ядро можно наложить на щит: щит иногда отражает снаряды издалека обратно — в стрелка или в башню	Chaoso šerdį Stichijų magas pasiima pats savo kareivinėse; žuvus magui šerdis prarandama. Šerdį dar galima uždėti ant skydo: skydas kartais atmuša iš toli atskridusius sviedinius atgal — į šaulį ar bokštą
+Щиты с ядром хаоса	Skydai su chaoso šerdimi
+Ядро на щите: с небольшим шансом щит отражает снаряд, прилетевший издалека (стрелу, заряд, ядро), обратно — в стрелка или в башню, пушку	Šerdis ant skydo: su nedidele tikimybe skydas atmuša iš toli atskridusį sviedinį (strėlę, užtaisą, sviedinį) atgal — į šaulį, bokštą ar patranką
+Мк.I: {0}%, {1} раз · Мк.II: {2}%, {3} раз · Мк.III: {4}%, {5} раз	Mk.I: {0}%, {1} k. · Mk.II: {2}%, {3} k. · Mk.III: {4}%, {5} k.
+Ядро накладывают на выбранный щит в Оружейной: вкладка «Склад», кнопка «Эффект» у щита. Щит бойца сначала снимите в казарме. Ядро остаётся на щите и при продаже	Šerdis uždedama ant pasirinkto skydo Ginklinėje: skirtukas „Sandėlis“, mygtukas „Efektas“ prie skydo. Kario skydą pirmiausia nuimkite kareivinėse. Šerdis lieka ant skydo ir pardavus
+таран сломан	taranas sulūžęs
+с тараном	su taranu
+бойца	kariai
+таран	taranas
+Отряд недоступен	Būrys neprieinamas
+Отряд в походе	Būrys žygyje
+В отряде никого нет	Būryje nieko nėra
+Кто-то из отряда в походе	Kažkas iš būrio žygyje
+Отряд в бою	Būrys kovoje
+Нет казармы, где поместится весь отряд ({0} мест	Nėra kareivinių, kur tilptų visas būrys ({0} vietų
+Отряд прибыл, но ни в одной казарме нет {0} мест — бойцы расходятся по свободным	Būrys atvyko, bet jokiose kareivinėse nėra {0} vietų — kariai išsiskirsto į laisvas
+Отряд прибыл: {0} {1} — идут в казарму ({2}	Būrys atvyko: {0} {1} — eina į kareivines ({2}
+Купили — марки списываются сразу, купец везёт товар в Торговый дом. Сырьё несут в Цитадель, оружие — в Оружейную, модули и ловушки — в Цитадель (их может поставить любой город), наёмник идёт в казарму	Nupirkta — markės nurašomos iš karto, pirklys veža prekes į Prekybos namus. Žaliavos nešamos į Citadelę, ginklai — į Ginklinę, moduliai ir spąstai — į Citadelę (juos gali statyti bet kuris miestas), samdinys eina į kareivines
+Выставьте товар в лавку: сырьё несут из Цитадели, оружие — из Оружейной, модули — со склада, а боец сам уходит в лагерь наёмников. Чем ниже цена относительно рынка, тем быстрее купят. Марки приходят, когда купец заберёт товар ({0}). Во время войны купцы не покупают. Shift + −/+ — шаг цены 5	Išdėkite prekes parduotuvėje: žaliavos nešamos iš Citadelės, ginklai — iš Ginklinės, moduliai — iš sandėlio, o karys pats eina į samdinių stovyklą. Kuo mažesnė kaina palyginti su rinka, tuo greičiau nupirks. Markės ateina, kai pirklys pasiims prekes ({0}). Karo metu pirkliai neperka. Shift + −/+ — kainos žingsnis 5
+отряд сразу уйдёт в лагерь наёмников	būrys iš karto išeis į samdinių stovyklą
+Отряд уйдёт в лагерь наёмников целиком: каждый боец со своим оружием, щитом, бронёй, конём, похлёбкой и тараном. Покупатель получит его одним отрядом	Būrys išeis į samdinių stovyklą visas: kiekvienas karys su savo ginklu, skydu, šarvais, žirgu, sriuba ir taranu. Pirkėjas gaus jį vienu būriu
+Гильдии нужны партии товара к сроку — платит заметно выше рынка. Взялись — товар несут в Торговый дом, обоз гильдии его забирает и платит. Каждые 3 заказа — ранг репутации: −1% комиссии и +10% к наградам	Gildijai reikia prekių partijų iki termino — moka gerokai daugiau nei rinka. Ėmėtės — prekės nešamos į Prekybos namus, gildijos vilkstinė jas pasiima ir sumoka. Kas 3 užsakymai — reputacijos rangas: −1% komisinių ir +10% prie apdovanojimų
+дос	lent
+Перенести или снести здание: нажмите на него — кнопки «Перенести» и «Снести» под его окном. Или удерживайте палец на здании	Perkelti ar nugriauti pastatą: paspauskite jį — mygtukai „Perkelti“ ir „Nugriauti“ po jo langu. Arba palaikykite pirštą ant pastato
+вас не было	jūsų nebuvo
+Щит не снят	Skydas nenuimtas
+Клан, война и лиги: участники, чат, карта войны, мировой рейтинг	Klanas, karas ir lygos: nariai, pokalbis, karo žemėlapis, pasaulio reitingas
+Идёт война: карта войны — во вкладке «Война	Vyksta karas: karo žemėlapis — skirtuke „Karas“
+Лиги	Lygos
+Игрок {0} ставит {1} — пока строится, бойцы могут растоптать стройку	Žaidėjas {0} stato {1} — kol statoma, kariai gali sutrypti statybą
+Вступите в клан, чтобы он тоже попал в мировую таблицу	Įstokite į klaną, kad jis irgi patektų į pasaulio lentelę
+Мои очки	Mano taškai
+Очки клана	Klano taškai
+Последние изменения	Paskutiniai pokyčiai
+Клан получает рейтинг за клановые войны	Klanas gauna reitingą už klanų karus
+Рейтинг дают за набеги на игроков и клановые войны	Reitingas duodamas už antpuolius prieš žaidėjus ir klanų karus
+до лиги «{0}»: {1}	iki lygos „{0}“: {1}
+Награда за первый выход в эту лигу	Apdovanojimas už pirmą patekimą į šią lygą
+Каждому участнику, когда клан первый раз дойдёт до этой лиги	Kiekvienam nariui, kai klanas pirmą kartą pasieks šią lygą
+Высшая лига	Aukščiausia lyga
+Место в мире	Vieta pasaulyje
+Игроки	Žaidėjai
+Лига ниже	Žemesnė lyga
+Все лиги	Visos lygos
+Лига выше	Aukštesnė lyga
+Лучшие кланы мира (всего {0}	Geriausi pasaulio klanai (iš viso {0}
+Лучшие игроки мира (всего {0}	Geriausi pasaulio žaidėjai (iš viso {0}
+Рейтинг	Reitingas
+В этой лиге пока никого нет	Šioje lygoje dar nieko nėra
+Пока никого нет	Kol kas nieko nėra
+Бронза III	Bronza III
+Бронза II	Bronza II
+Бронза I	Bronza I
+Серебро III	Sidabras III
+Серебро II	Sidabras II
+Серебро I	Sidabras I
+Кристалл III	Kristalas III
+Кристалл II	Kristalas II
+Кристалл I	Kristalas I
+Мастер	Meistras
+Чемпион	Čempionas
+Легенда	Legenda
+Все места под лоты заняты ({0}) — откройте новое во вкладке «Мои лоты	Visos lotų vietos užimtos ({0}) — atidarykite naują skirtuke „Mano lotai“
+Склад полон — столько не влезет. Улучшите Цитадель или постройте Хранилище	Sandėlis pilnas — tiek netilps. Patobulinkite Citadelę arba pastatykite Saugyklą
+доставка {0}	pristatymas {0}
+Покупатель заплатит {0} ◈: {1} — вам, {2} — доставка (сгорает	Pirkėjas sumokės {0} ◈: {1} — jums, {2} — pristatymas (sudega
+Места под лоты	Lotų vietos
+Снимете лот — товар вернётся в казну	Atšaukus lotą prekės grįš į iždą
+Открыты все {0} мест	Atidarytos visos {0} vietos
+Открыть место №{0}	Atidaryti vietą Nr. {0}
+При Торговом доме Ур.{0} мест не больше {1}. Улучшите Торговый дом	Su Prekybos namais Lyg.{0} vietų ne daugiau {1}. Patobulinkite Prekybos namus
+Ещё один лот на рынке одновременно. Место остаётся навсегда	Dar vienas lotas turguje vienu metu. Vieta lieka visam laikui
+Открыто место под лот №{0}	Atidaryta loto vieta Nr. {0}
+{0} {1} — продавцу, {2} {3} — доставка (сгорает	{0} {1} — pardavėjui, {2} {3} — pristatymas (sudega
+Отряд сразу уйдёт из казармы целиком, со всем снаряжением. Снимете лот — вернётся отрядом наёмников	Būrys iš karto išeis iš kareivinių visas, su visa ekipuote. Atšaukus lotą grįš samdinių būriu
+Все места под лоты заняты ({0}) — снимите лот или откройте новое место	Visos lotų vietos užimtos ({0}) — atšaukite lotą arba atidarykite naują vietą
+Чат для вас закрыт до	Pokalbis jums uždarytas iki
+на ваши сообщения пожаловались игроки	žaidėjai pasiskundė jūsų žinutėmis
+Новая лига: {0}! Награда на базу	Nauja lyga: {0}! Apdovanojimas į bazę
+Клан поднялся в лигу «{0}	Klanas pakilo į lygą „{0}“
+Клан опустился в лигу «{0}	Klanas nukrito į lygą „{0}“
+Клан «{0}» дошёл до лиги «{1}»! Награда на базу	Klanas „{0}“ pasiekė lygą „{1}“! Apdovanojimas į bazę
+Набег на {0}: победа	Antpuolis prieš {0}: pergalė
+Набег на {0}: не удался	Antpuolis prieš {0}: nepavyko
+{0} разорил(а) вашу деревню	{0} nusiaubė jūsų kaimą
+Отбили набег {0}	Atmuštas {0} antpuolis
+Места уже обновились — откройте рынок ещё раз	Vietos jau atsinaujino — atidarykite turgų dar kartą
+Нет чека покупки	Nėra pirkimo kvito
+Чек покупки не читается	Pirkimo kvito nepavyksta perskaityti
+Чек Google Play не читается	Google Play kvito nepavyksta perskaityti
+подпись не сошлась	parašas nesutapo
+Покупка ещё не оплачена — марки придут, когда Google Play подтвердит оплату	Pirkinys dar neapmokėtas — markės ateis, kai Google Play patvirtins mokėjimą
+магазин «{0}» (принимаются только покупки Google Play	parduotuvė „{0}“ (priimami tik Google Play pirkiniai
+Такого набора марок нет	Tokio markių rinkinio nėra
+В чеке нет номера покупки	Kvite nėra pirkimo numerio
+Эта покупка уже засчитана другому аккаунту	Šis pirkinys jau įskaitytas kitai paskyrai
+Покупка «{0}	Pirkinys „{0}“
+Покупка не прошла проверку. Если деньги списались, напишите в поддержку — Google Play вернёт их сам, если покупка не будет подтверждена за 3 дня	Pirkinys nepraėjo patikros. Jei pinigai nuskaičiuoti, parašykite pagalbai — Google Play pats juos grąžins, jei pirkinys nebus patvirtintas per 3 dienas
+Война окончена. {0}. Рейтинг клана: {1}	Karas baigėsi. {0}. Klano reitingas: {1}
+Война с «{0}»: победа	Karas su „{0}“: pergalė
+Война с «{0}»: поражение	Karas su „{0}“: pralaimėjimas
+Горсть марок	Sauja markių
+Кошель марок	Piniginė markių
+Мешок марок	Maišas markių
+Сундук марок	Skrynia markių
+Казна гильдии	Gildijos iždas
+Сокровищница	Lobynas
+Сервер старой версии. Замените StrategycaServer.exe на новый из пакета marki-1 и перезапустите его	Senos versijos serveris. Pakeiskite StrategycaServer.exe nauju iš paketo marki-1 ir paleiskite jį iš naujo
+Войдите в аккаунт — марки хранятся на сервере	Prisijunkite — markės saugomos serveryje
+На войне магазин закрыт — вернитесь домой	Karo metu parduotuvė uždaryta — grįžkite namo
+Магазин Google Play ещё загружается	Google Play parduotuvė dar kraunasi
+Этот набор сейчас недоступен в Google Play	Šis rinkinys dabar nepasiekiamas Google Play
+Открываем оплату Google Play	Atidarome Google Play mokėjimą
+Покупки пока не подключены	Pirkiniai dar neprijungti
+Засчитываем покупку	Įskaitome pirkinį
+Эта покупка уже засчитана	Šis pirkinys jau įskaitytas
+Покупки отключены на этом устройстве	Pirkiniai šiame įrenginyje išjungti
+Google Play не нашёл наборы марок (проверьте id товаров в Play Console	Google Play nerado markių rinkinių (patikrinkite prekių id Play Console
+Google Play недоступен	Google Play nepasiekiamas
+Покупка отменена	Pirkinys atšauktas
+Покупка не прошла	Pirkinys nepavyko
+Марки ◈ — деньги рынка игроков: на них покупают товары и бойцов у других игроков и открывают новые места под лоты	Markės ◈ — žaidėjų turgaus pinigai: už jas perkamos prekės ir kariai iš kitų žaidėjų ir atidaromos naujos lotų vietos
+выгодно	naudinga
+{0} в подарок	{0} dovanų
+Оплата через Google Play	Mokėjimas per Google Play
+Покупку засчитывает сервер. Если связь пропала, марки придут сами, когда она вернётся	Pirkinį įskaito serveris. Jei ryšys dingo, markės ateis pačios, kai jis grįš
+Марки за реальные деньги: покупки на рынке игроков и места под лоты	Markės už tikrus pinigus: pirkiniai žaidėjų turguje ir lotų vietos
+ваш: {0}	jūsų: {0}
+К моему городу	Į mano miestą
+Показать свой город на карте войны (Пробел	Rodyti savo miestą karo žemėlapyje (Tarpas
+День 2 — появляется общая карта. На ней стоят города обоих кланов: постройки как дома, но армия и ресурсы — с нуля. Вы играете в своём городе на этой карте: жители добывают, казармы учат бойцов. Строить и улучшать нельзя	2 diena — atsiranda bendras žemėlapis. Jame stovi abiejų klanų miestai: pastatai kaip namie, bet kariuomenė ir ištekliai — nuo nulio. Jūs žaidžiate savo mieste šiame žemėlapyje: gyventojai renka išteklius, kareivinės moko karius. Statyti ir tobulinti negalima
+нет смотрителей	nėra prižiūrėtojų
+нет подвоза из Цитадели	nėra tiekimo iš Citadelės
+раньше всего прервётся связь с Цитаделью	anksčiausiai nutrūks ryšys su Citadele
+раньше всего кончится еда	anksčiausiai baigsis maistas
+еды уже нет	maisto jau nėra
+Аванпост {0} снова работает — зона восстановлена	Forpostas {0} vėl veikia — zona atkurta
+Аванпост {0} заброшен: нет смотрителей	Forpostas {0} apleistas: nėra prižiūrėtojų
+Заброшен	Apleistas
+Зона не расширяется, пока на аванпост не придёт хоть один смотритель (рабочий). Дайте ему рабочих кнопкой «+» или «Авто	Zona neplečiama, kol į forpostą neateis bent vienas prižiūrėtojas (darbininkas). Duokite jam darbininkų mygtuku „+“ arba „Auto“
+Ур. 3: смотрители ещё и носят еду с фермы в радиусе аванпоста	Lyg. 3: prižiūrėtojai dar ir neša maistą iš ūkio forposto spindulyje
+Аванпост сейчас не расширяет зелёную зону. Подвоз из Цитадели был {0} назад	Forpostas dabar neplečia žaliosios zonos. Tiekimas iš Citadelės buvo prieš {0}
+Столько зона продержится, если еду больше не принесут ({0}). Связь с Цитаделью: подвоз был {1} назад, без него — не больше {2}. Еды хватит на {3}, потом ещё {4} без еды	Tiek zona išsilaikys, jei maisto nebeatneš ({0}). Ryšys su Citadele: tiekimas buvo prieš {1}, be jo — ne daugiau {2}. Maisto užteks {3}, paskui dar {4} be maisto
+нет! продержится {0}	nėra! išsilaikys {0}
+Смотрители	Prižiūrėtojai
+Без смотрителей аванпост держится {0}, потом заброшен — как без еды. Нужен хотя бы один	Be prižiūrėtojų forpostas laikosi {0}, paskui apleidžiamas — kaip be maisto. Reikia bent vieno
+На Ур.3 смотрители ещё носят еду с фермы рядом	Lyg.3 prižiūrėtojai dar neša maistą iš ūkio šalia
+стреляет · {0} кл	šaudo · {0} lang
+заброшен — не стреляет	apleistas — nešaudo
+Ур. {0}: смотрители отстреливаются от врагов в радиусе {1} кл., как башня, только намного слабее ({2} урона раз в {3} с). Заброшенный или разрушенный аванпост не стреляет. В набеге на вашу деревню — тоже стреляет	Lyg. {0}: prižiūrėtojai atšaudo į priešus {1} lang. spinduliu, kaip bokštas, tik daug silpniau ({2} žalos kas {3} s). Apleistas ar sugriautas forpostas nešaudo. Antpuolio prieš jūsų kaimą metu — irgi šaudo
+на месте только дежурные, {0} из {1}. Здание работает на {2}	vietoje tik budintieji, {0} iš {1}. Pastatas dirba {2}
+Ночью остаётся только дежурная смена	Naktį lieka tik budinti pamaina
+Склад полон: зелья некуда положить	Sandėlis pilnas: eliksyrų nėra kur dėti
+Травы со станций уносят в Цитадель («Собрать», курьеры). Повар несёт их из Цитадели в Зельеварню и варит. Готовые зелья несут в Цитадель или Хранилище, оттуда — в Оружейную (отравленные луки) и в казарму (маг-отравитель). Смолу даёт Лесопилка Ур.3. Ниже {0}% маны варка стоит. Сварено всего: {1}	Žolelės iš stočių nešamos į Citadelę („Surinkti“, kurjeriai). Virėjas neša jas iš Citadelės į Eliksyrų namus ir verda. Paruošti eliksyrai nešami į Citadelę ar Saugyklą, iš ten — į Ginklinę (nuodingi lankai) ir į kareivines (magas nuodytojas). Dervą duoda Lyg.3 Lentpjūvė. Esant mažiau nei {0}% manos virimas stovi. Iš viso išvirta: {1}
+сторожевой аванпост: отстреливается (слабее башни	sargybos forpostas: atšaudo (silpniau nei bokštas
+{0}: приказ отправлен — бойцы закладывают его в деревне {1}, ~{2} с (пока рядом нет защитников	{0}: įsakymas išsiųstas — kariai jį deda kaime {1}, ~{2} s (kol šalia nėra gynėjų
+{0}: не удалось поставить (место заняли) — вернулось в запас похода	{0}: nepavyko pastatyti (vieta užimta) — grąžinta į žygio atsargas
+{0}: приказ отправлен — ставят, ~{1} с (пока рядом нет защитников). Пока ставят — хрупкая	{0}: įsakymas išsiųstas — statoma, ~{1} s (kol šalia nėra gynėjų). Kol statoma — trapi
+Защитники растоптали ловушку: {0}	Gynėjai sutrypė spąstus: {0}
+{0}: не удалось поставить — вернулась в набор похода	{0}: nepavyko pastatyti — grąžinta į žygio rinkinį
+{0} ставит: {1}	{0} stato: {1}
+Разрушено укрепление защитника: {0}	Sugriautas gynėjo įtvirtinimas: {0}
+Защитники разрушили: {0}	Gynėjai sugriovė: {0}
+унесут домой, если кто-то вернётся	bus parnešta namo, jei kas nors grįš
+Награда за победу (уже в казне	Apdovanojimas už pergalę (jau ižde
+Не хватит места в Цитадели и Хранилищах: пропадёт ~{0}. Постройте или улучшите Хранилище	Neužteks vietos Citadelėje ir Saugyklose: dings ~{0}. Pastatykite ar patobulinkite Saugyklą
+Марш: идут к точке, не ввязываясь в бой	Žygis: eina į tašką nesileisdami į kovą
+Награда за Цитадель (сразу в казну): ~{0}	Apdovanojimas už Citadelę (iš karto į iždą): ~{0}
+Награда за победу: {0} — уже в казне	Apdovanojimas už pergalę: {0} — jau ižde
+За Цитадель: {0}	Už Citadelę: {0}
+Уже в казне (башни): {0}	Jau ižde (bokštai): {0}
+Премия за победу идёт сразу в казну, а не в мешки: даже если все бойцы погибнут, она останется	Premija už pergalę eina iš karto į iždą, o ne į maišus: net jei visi kariai žus, ji liks
+Чем сильнее оборона деревни (башни, пушки, стены, войско), тем больше премия	Kuo stipresnė kaimo gynyba (bokštai, patrankos, sienos, kariuomenė), tuo didesnė premija
+За каждую разрушенную башню или пушку — тоже немного. У хозяина деревни премию не отнимают	Už kiekvieną sugriautą bokštą ar patranką — irgi šiek tiek. Iš kaimo šeimininko premija neatimama
+ЛКМ по земле — идти, по дороге бить всех	KPM ant žemės — eiti, pakeliui mušti visus
+Двойной клик — марш, ни на что не отвлекаясь	Dvigubas spustelėjimas — žygis, niekuo neblaškant
+Награда за Цитадель {0} — сразу в казну: {1}	Apdovanojimas už Citadelę {0} — iš karto į iždą: {1}
+{0} разрушена — награда в казну: {1}	{0} sugriauta — apdovanojimas į iždą: {1}
+бойцов в казармах нет	kareivinėse nėra karių
+ошибка загрузки	įkėlimo klaida
+Набег из прошлой игры не продолжить	Antpuolio iš ankstesnio žaidimo nepavyks tęsti
+армия дома, снаряжение в запасе	kariuomenė namie, ekipuotė atsargose
+запись повреждена	įrašas sugadintas
+нет города противника	nėra priešo miesto
+бойцы не вернулись в казармы	kariai negrįžo į kareivines
+вас не было {0}	jūsų nebuvo {0}
+Поход на {0} сорван: вас не было слишком долго. Армия вернулась, припасы в казне	Žygis į {0} nutrauktas: jūsų nebuvo per ilgai. Kariuomenė grįžo, atsargos ižde
+Набег на {0} продолжается: армия снова выходит к краю карты	Antpuolis prieš {0} tęsiasi: kariuomenė vėl išeina į žemėlapio kraštą
+Набег на {0} продолжается: армия в пути, до деревни {1} с{2}	Antpuolis prieš {0} tęsiasi: kariuomenė kelyje, iki kaimo {1} s{2}
+Армия дошла до {0}, пока вас не было, ждала приказа всё время набега и ушла домой без боя	Kariuomenė pasiekė {0}, kol jūsų nebuvo, laukė įsakymo visą antpuolio laiką ir grįžo namo be kovos
+Армия дошла до {0}, пока вас не было, и ждёт приказа у деревни. До конца набега {1} мин	Kariuomenė pasiekė {0}, kol jūsų nebuvo, ir laukia įsakymo prie kaimo. Iki antpuolio pabaigos {1} min
+Бой в деревне {0} шёл без вас — армия ушла оттуда с тем, что несла	Kova kaime {0} vyko be jūsų — kariuomenė pasitraukė su tuo, ką nešė
+Время набега на {0} вышло, пока вас не было — армия ушла с тем, что несла	Antpuolio prieš {0} laikas baigėsi, kol jūsų nebuvo — kariuomenė pasitraukė su tuo, ką nešė
+Пока вас не было, армия держала позиции у {0}{1}	Kol jūsų nebuvo, kariuomenė laikė pozicijas prie {0}{1}
+Армия возвращается из набега на {0}: в пути {1} с	Kariuomenė grįžta iš antpuolio prieš {0}: kelyje {1} s
+Набег на {0} продолжается: армия у деревни, до конца боя {1} мин	Antpuolis prieš {0} tęsiasi: kariuomenė prie kaimo, iki kovos pabaigos {1} min
+таран бьёт	taranas muša
+идёт маршем	eina žygiu
+идёт с боем	eina su kova
+не больше лимитов склада	ne daugiau nei sandėlio ribos
+Через дробь — лимит: его даёт Цитадель (Ур. {0}), каждое Хранилище добавляет ещё. Сверх лимита ничего не копится	Po brūkšnio — riba: ją duoda Citadelė (Lyg. {0}), kiekviena Saugykla prideda dar. Virš ribos niekas nesikaupia
+Лес: лесопилка даёт больше дерева, ягоды отрастают быстрее. Но все ходят медленнее (кроме дорожек), а обзор короче — удобно для засад	Miškas: lentpjūvė duoda daugiau medienos, uogos atauga greičiau. Bet visi eina lėčiau (išskyrus takus), o matomumas trumpesnis — patogu pasaloms
+с ядром хаоса	su chaoso šerdimi
+Ядро хаоса на щите иссякло ({0} щит	Chaoso šerdis ant skydo išseko ({0} skydas
+ядро хаоса Мк.{0}: отражает {1}% снарядов, ещё {2}	chaoso šerdis Mk.{0}: atmuša {1}% sviedinių, dar {2}
+хаос {0}% ×{1}	chaosas {0}% ×{1}
+хаос ×{0}	chaosas ×{0}
+охраняет казарму	saugo kareivines
+патруль	patrulis
+Лошадь растёт {0} с. Овёс даёт ферма Ур.3. Лошади нужны конным войскам (казарма Ур.4) и обозам; гибнут вместе со всадником, уволенный всадник возвращает лошадь. Вырастили всего: {1}	Žirgas auga {0} s. Avižas duoda Lyg.3 ūkis. Žirgų reikia raitiesiems kariams (kareivinės Lyg.4) ir vilkstinėms; žūva kartu su raiteliu, atleistas raitelis grąžina žirgą. Iš viso užauginta: {1}
+Склад полон, лишнее пропало	Sandėlis pilnas, perteklius dingo
+Улучшите Цитадель или постройте Хранилище	Patobulinkite Citadelę arba pastatykite Saugyklą
+в Цитадели {0} из {1}, остальное — в Хранилищах	Citadelėje {0} iš {1}, likusi dalis — Saugyklose
+лимит {0}	riba {0}
+привезти отряд из лагеря наёмников	atvežti būrį iš samdinių stovyklos
+Склад полон — некуда положить	Sandėlis pilnas — nėra kur dėti
+На складе место только под {0} шт	Sandėlyje vietos tik {0} vnt
+некому ставить	nėra kam statyti
+Наши бойцы растоптали ловушку врага: {0}	Mūsų kariai sutrypė priešo spąstus: {0}
+Живой бой: ловушка стоит у защитника, снять её нельзя	Gyva kova: spąstai stovi pas gynėją, jų nuimti negalima
+Обычные — дома в мирное время, в своей зелёной зоне. Боевые — в бою: дома во время войны и в набеге (не в зелёной зоне врага); ставятся долго и, пока ставятся, хрупкие. Нельзя: на занятые клетки, в тумане, рядом с врагами, вплотную к другой ловушке. T — открыть / закрыть	Paprasti — namie taikos metu, savo žaliojoje zonoje. Koviniai — kovoje: namie karo metu ir antpuolyje (ne priešo žaliojoje zonoje); statomi ilgai ir, kol statomi, trapūs. Negalima: ant užimtų langelių, rūke, šalia priešų, greta kitų spąstų. T — atidaryti / uždaryti
+Наверху справа — часы и мана (✦). День сменяется ночью: ночью на производстве остаётся только дежурная смена, остальные спят дома. Выходных нет: работают каждый день	Viršuje dešinėje — laikrodis ir mana (✦). Dieną keičia naktis: naktį gamyboje lieka tik budinti pamaina, kiti miega namie. Poilsio dienų nėra: dirba kasdien
+Идёт набег — улучшать нельзя	Vyksta antpuolis — tobulinti negalima
+Ур. {0} — только с Цитадели Ур. {1}	Lyg. {0} — tik su Citadele Lyg. {1}
+Участок	Ruožas
+на этом участке стены (соединены стенами, воротами и башнями	šiame sienos ruože (sujungta sienomis, vartais ir bokštais
+во всём городе	visame mieste
+Ресурсов не хватает даже на одно улучшение	Išteklių neužtenka net vienam patobulinimui
+Цена одного: {0}	Vieno kaina: {0}
+Ресурсов хватит на {0} (ближние к выбранной — первыми	Išteklių užteks {0} (artimiausi pasirinktam — pirmiausia
+Цена списывается сразу; уровень вырастет, когда жители донесут материалы	Kaina nurašoma iš karto; lygis padidės, kai gyventojai atneš medžiagas
+Заказано улучшение до Ур. {0}: {1}, {2} шт	Užsakytas patobulinimas iki Lyg. {0}: {1}, {2} vnt
+Цена списывается сразу. Житель донесёт материалы, потом улучшение идёт {0}	Kaina nurašoma iš karto. Gyventojas atneš medžiagas, paskui tobulinimas trunka {0}
+Ур. {0} — с Цитадели Ур. {1}	Lyg. {0} — su Citadele Lyg. {1}
+Стройка · ещё {0}	Statyba · liko {0}
+Здание строится и пока не работает	Pastatas statomas ir kol kas neveikia
+Здание работает на старом уровне, пока идёт улучшение	Pastatas dirba senu lygiu, kol vyksta tobulinimas
+Дальний склад стоит вне карты: товары там недоступны врагам и не входят в казну (набеги их не трогают). Ячейка вмещает {0} ед. любых ресурсов, каждая следующая дороже. Обоз берёт до {1} ед. ({2} на лошадь); чем больше ячеек, тем больше лошадей нужно. За кадром обоз едет {3} с (выше уровень — быстрее). Во время войны обоз ждёт за краем карты	Tolimasis sandėlis yra už žemėlapio: prekės ten nepasiekiamos priešams ir neįeina į iždą (antpuoliai jų neliečia). Langelis talpina {0} vnt. bet kokių išteklių, kiekvienas kitas brangesnis. Vilkstinė ima iki {1} vnt. ({2} vienam žirgui); kuo daugiau langelių, tuo daugiau žirgų reikia. Už kadro vilkstinė važiuoja {3} s (aukštesnis lygis — greičiau). Karo metu vilkstinė laukia už žemėlapio krašto
+Не влезло (склад полон), осталось в Дальнем складе	Netilpo (sandėlis pilnas), liko Tolimajame sandėlyje
+В войну выходят из укрытия и чинят здания прямо под ударами: {1} прочности/с на строителя (Ур.1-3: 5/6.5/8), не больше {2} на здание. Встают с той стороны, где нет врагов; враг вплотную — бегут прятаться	Karo metu išeina iš slėptuvės ir taiso pastatus tiesiog po smūgiais: {1} tvirtumo/s vienam statybininkui (Lyg.1-3: 5/6.5/8), ne daugiau {2} pastatui. Stoja iš tos pusės, kur nėra priešų; priešas visai šalia — bėga slėptis
+Цитадель Ур.{0} — враги крепче	Citadelė Lyg.{0} — priešai stipresni
+Пока на карте враги (и ещё немного после) — война: новые жители не прибывают, мирные прячутся в здания, строить нельзя, купцы не заходят	Kol žemėlapyje yra priešų (ir dar šiek tiek po to) — karas: nauji gyventojai neatvyksta, taikieji slepiasi pastatuose, statyti negalima, pirkliai neužsuka
+Набег не закончился: на город снова идут враги ({0}	Antpuolis nesibaigė: į miestą vėl eina priešai ({0}
+Их добыча вернулась в казну: {0}	Jų grobis grįžo į iždą: {0}
+Пока вас не было, набег №{0} ({1} врагов) отбит{2}{3}	Kol jūsų nebuvo, antpuolis Nr. {0} ({1} priešų) atmuštas{2}{3}
+в казне было пусто	iždas buvo tuščias
+Пока вас не было, набег №{0} ({1} врагов) прорвался: {2}{3}{4}	Kol jūsų nebuvo, antpuolis Nr. {0} ({1} priešų) prasiveržė: {2}{3}{4}
+Хранилище поднимает лимиты казны Цитадели	Saugykla padidina Citadelės iždo ribas
+Материалы (доски, плиты, сталь...) лежат в самом Хранилище: когда в Цитадели нет места, лишнее несут сюда	Medžiagos (lentos, plokštės, plienas...) guli pačioje Saugykloje: kai Citadelėje nėra vietos, perteklius nešamas čia
+Хранилище держит доски, плиты, сталь, смоляной брус и монолит. На постройки и улучшения они списываются сами (сначала из Цитадели, потом отсюда). Если Хранилище разрушат враги, они унесут 20% содержимого; если снести его самому — всё вернётся в Цитадель	Saugykla laiko lentas, plokštes, plieną, dervos sijas ir monolitą. Statyboms ir tobulinimams jie nurašomi patys (pirmiausia iš Citadelės, paskui iš čia). Jei Saugyklą sugriaus priešai, jie išsineš 20% turinio; jei nugriausite patys — viskas grįš į Citadelę
+Лимит казны: +{0} зол., +{1} дер./кам. и др	Iždo riba: +{0} aukso, +{1} med./akm. ir kt
+Цитадель: нет места под этот материал или некому нести	Citadelė: nėra vietos šiai medžiagai arba nėra kam nešti
+салют Мк.{0} ещё на {1} выстр	saliutas Mk.{0} dar {1} šūv
+Три работы: доводка оружия (мини-игра), полевые укрепления и боевая переделка ловушек. Укрепления и ловушки делают разные мастера — параллельно. Нужен мастер (рабочий	Trys darbai: ginklų tobulinimas (mini žaidimas), lauko įtvirtinimai ir spąstų pertvarkymas koviniams. Įtvirtinimus ir spąstus daro skirtingi meistrai — lygiagrečiai. Reikia meistro (darbininko
+Мини-игра: три удара по наковальне — заточка (урон), закалка (прочность), баланс (скорость удара). Бейте, когда ползунок в зелёном центре: чем точнее, тем больше прибавка. Итог — звёзды ★ в названии. Оружие доводят один раз	Mini žaidimas: trys smūgiai į priekalą — galandimas (žala), grūdinimas (tvirtumas), balansas (smūgio greitis). Muškite, kai slankiklis žaliame centre: kuo tiksliau, tuo didesnis priedas. Rezultatas — žvaigždės ★ pavadinime. Ginklas tobulinamas vieną kartą
+Нужны еда и золото	Reikia maisto ir aukso
+Для обороны и набегов. Готовое лежит в запасе Цитадели: дома ставят во время войны (кнопка «Заслоны» [B]), в набег берут в окне «В бой!». Сила кузни ×{0} — прочность и лечебный запас. Изготовлено всего: {1}	Gynybai ir antpuoliams. Paruošti guli Citadelės atsargose: namie statomi karo metu (mygtukas „Užtvaros“ [B]), į antpuolį imami lange „Į mūšį!“. Kalvės jėga ×{0} — tvirtumas ir gydymo atsargos. Iš viso pagaminta: {1}
+не хватает лечения: {0} ({1} шт	trūksta gydymo: {0} ({1} vnt
+хватит на часть	užteks daliai
+Лечебный запас пункта сам не восстанавливается: что раздал раненым, то потрачено. Пополнение: 1 еда — {0} здоровья, 1 золото — {1}. Сначала пополняются самые пустые. Не хватает казны — пополнится сколько хватит	Punkto gydymo atsargos pačios neatsistato: kas išdalinta sužeistiesiems, tas išleista. Papildymas: 1 maistas — {0} sveikatos, 1 auksas — {1}. Pirmiausia papildomi tuščiausi. Trūksta iždo — papildys kiek užteks
+Пополнить аптечки	Papildyti vaistinėles
+Пополнить	Papildyti
+Кузня: аптечки пунктов пополнены на {0} здоровья	Kalvė: punktų vaistinėlės papildytos {0} sveikatos
+Обычная ловушка из запаса Цитадели становится БОЕВОЙ: её ставят прямо в бою — дома во время войны и в набеге (не в зелёной зоне врага). Урон ×{0}. Ставится долго и, пока ставится, её легко растоптать. Обычные ловушки — с рынка (их собирают инженеры). Переделано всего: {1}	Paprasti spąstai iš Citadelės atsargų tampa KOVINIAIS: jie statomi tiesiog kovoje — namie karo metu ir antpuolyje (ne priešo žaliojoje zonoje). Žala ×{0}. Statomi ilgai ir, kol statomi, juos lengva sutrypti. Paprasti spąstai — iš turgaus (juos renka inžinieriai). Iš viso pertvarkyta: {1}
+Обработка дерева	Medienos apdirbimas
+укр	sutv
+проп	impr
+Выплавить сталь	Išlydyti plieną
+Сварить пропитку	Išvirti impregnantą
+Несут сырьё из Цитадели	Žaliavos nešamos iš Citadelės
+Крафт	Gamyba
+Свободна. Готовое несут: {0}	Laisva. Pagaminta nešama: {0}
+Город на войне не сохранён: {0}	Miestas kare neišsaugotas: {0}
+Город не сохранён: {0}	Miestas neišsaugotas: {0}
+Дефицит: не хватает {0}	Trūkumas: trūksta {0}
+Сколько зданий снабжать (от центра	Kiek pastatų aprūpinti (nuo centro
+✦ Мана в воздухе {0}% — новая каждый день	✦ Mana ore {0}% — nauja kasdien
+несут обратно: {0}	nešama atgal: {0}
+рейтинг клана {0}	klano reitingas {0}
+{0}: на месте только дежурные, {1} из {2}. Здание работает на {3}	{0}: vietoje tik budintieji, {1} iš {2}. Pastatas dirba {3}
+таран бьёт: {0}	taranas muša: {0}
+не разобрать	neįmanoma įžiūrėti
+Здоровье — среднее самочувствие мирных (голод и раны); слабые — ниже {0}	Sveikata — vidutinė taikių gyventojų būklė (alkis ir žaizdos); silpni — žemiau {0}
+Нет связи с сервером. Он запущен? ({0}	Nėra ryšio su serveriu. Ar jis paleistas? ({0}
+Переплавить, чтобы освободить место. Вернётся совсем немного: {0}	Perlydyti, kad atsilaisvintų vieta. Grįš labai nedaug: {0}
+Нажмите ещё раз — предмет исчезнет, в Цитадель вернётся: {0}	Paspauskite dar kartą — daiktas išnyks, į Citadelę grįš: {0}
+И всё, что лежит в здании: {0} ед	Ir viskas, kas yra pastate: {0} vnt
+ПОЖАР! Литейная перегрелась и сгорела.{0} Руины отстроят, как после набега	GAISRAS! Liejykla perkaito ir sudegė.{0} Griuvėsiai bus atstatyti kaip po antpuolio
+ПОЖАР! Литейная перегрелась и сгорела. Руины отстроят, как после набега	GAISRAS! Liejykla perkaito ir sudegė. Griuvėsiai bus atstatyti kaip po antpuolio
+Набег из прошлой игры не продолжить ({0}) — армия дома, снаряжение в запасе	Antpuolio iš ankstesnio žaidimo nepavyks tęsti ({0}) — kariuomenė namie, ekipuotė atsargose
+вдали от города, ещё {0} с	toli nuo miesto, dar {0} s
+на месте {0}	vietoje {0}
+ПОЖАР	GAISRAS
+Литейная перегрелась и сгорела	Liejykla perkaito ir sudegė
+Плавка «{0}» пропала	Lydinys „{0}“ prarastas
+Руины отстроят, как после набега	Griuvėsiai bus atstatyti kaip po antpuolio
+Все выйдут на работу утром (06:00), через {0}	Visi grįš į darbą ryte (06:00), po {0}
+Все выйдут на работу в понедельник утром, через {0}	Visi grįš į darbą pirmadienio rytą, po {0}
+полон через {0}	pilnas po {0}
+Режим накопления: через {0} с	Kaupimo režimas: po {0} s

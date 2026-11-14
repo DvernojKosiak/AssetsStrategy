@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Сервер Strategyca отдельной программой, без Unity.
+       Папка с ~ в конце: Unity её не видит. Код сервера общий с игрой (Assets/Online). -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>StrategycaServer</AssemblyName>
+    <RootNamespace>Strategyca</RootNamespace>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <NoWarn>CS0649;CS0414;CS0169;SYSLIB0050</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="../Online/Server/ServerCore.cs" Link="Shared/ServerCore.cs" />
+    <Compile Include="../Online/Server/StrategycaServer.cs" Link="Shared/StrategycaServer.cs" />
+    <Compile Include="../Online/OnlineProtocol.cs" Link="Shared/OnlineProtocol.cs" />
+    <Compile Include="../Online/SharedData.cs" Link="Shared/SharedData.cs" />
+    <Compile Include="../Online/WarProtocol.cs" Link="Shared/WarProtocol.cs" />
+    <Compile Include="../Online/Server/WarSim.cs" Link="Shared/WarSim.cs" />
+    <Compile Include="../Online/Server/ServerWar.cs" Link="Shared/ServerWar.cs" />
+    <Compile Include="../Online/Server/ServerLeague.cs" Link="Shared/ServerLeague.cs" />
+    <Compile Include="../Online/Server/ServerShop.cs" Link="Shared/ServerShop.cs" />
+    <Compile Include="../Online/ShopProtocol.cs" Link="Shared/ShopProtocol.cs" />
+    <Compile Include="../Online/Server/ServerSafety.cs" Link="Shared/ServerSafety.cs" />
+    <Compile Include="../Online/Server/ServerWeb.cs" Link="Shared/ServerWeb.cs" />
+    <Compile Include="../Online/Server/ServerAdmin.cs" Link="Shared/ServerAdmin.cs" />
+    <Compile Include="../Online/Server/ServerUpdate.cs" Link="Shared/ServerUpdate.cs" />
+    <Compile Include="../Online/Server/ServerNpc.cs" Link="Shared/ServerNpc.cs" />
+  </ItemGroup>
+</Project>

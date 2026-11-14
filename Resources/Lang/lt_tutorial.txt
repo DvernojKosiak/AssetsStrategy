@@ -1,0 +1,42 @@
+# Обучение, облака и птицы (vizual-1): дополнение к lt.txt
+Добро пожаловать	Sveiki atvykę
+Это ваш город. Здесь вы строите дома и мастерские, кормите жителей, растите армию и защищаетесь от набегов	Tai jūsų miestas. Čia statote namus ir dirbtuves, maitinate gyventojus, auginate kariuomenę ir ginatės nuo antpuolių
+Короткое обучение займёт пару минут. Его можно пропустить и пройти позже: ⚙ → Общие	Trumpas mokymas užtruks porą minučių. Jį galima praleisti ir pereiti vėliau: ⚙ → Bendri
+Камера	Kamera
+Двигайте карту: клавиши WASD или стрелки, либо зажмите правую кнопку мыши и тяните	Judinkite žemėlapį klavišais WASD arba rodyklėmis, arba laikykite dešinį pelės mygtuką ir tempkite
+Колесо мыши приближает и отдаляет	Pelės ratukas priartina ir nutolina
+Сдвиньте или приблизьте карту	Pajudinkite arba priartinkite žemėlapį
+Большое здание в центре — Цитадель, сердце города. В ней склад: доски, плиты, сталь и всё, что вы купили или добыли. От её уровня зависят лимиты казны	Didelis pastatas centre – Citadelė, miesto širdis. Joje sandėlis: lentos, plokštės, plienas ir viskas, ką nupirkote ar užgrobėte. Nuo jos lygio priklauso iždo ribos
+Нажмите на Цитадель левой кнопкой	Spustelėkite Citadelę kairiuoju pelės mygtuku
+Нажмите на Цитадель	Spustelėkite Citadelę
+Казна	Iždas
+Слева сверху — казна: золото, дерево, камень и еда, под ними жители. Наведите мышь на строку, чтобы увидеть остальные запасы	Viršuje kairėje – iždas: auksas, mediena, akmuo ir maistas, po jais gyventojai. Užveskite pelę ant eilutės ir pamatysite kitas atsargas
+Золото платят жители, дерево даёт Лесопилка, камень — Шахта, еду — Ферма	Auksą moka gyventojai, medieną duoda Lentpjūvė, akmenį – Kasykla, maistą – Ūkis
+Первая постройка	Pirmas pastatas
+Нажмите «Постройки», выберите Жилой дом и поставьте его на свободную траву левой кнопкой. Правая кнопка или Esc — отмена	Paspauskite „Pastatai“, pasirinkite Gyvenamąjį namą ir pastatykite jį ant laisvos žolės kairiuoju mygtuku. Dešinys mygtukas arba Esc – atšaukti
+В домах живут жители: чем больше домов, тем больше рабочих рук	Namuose gyvena gyventojai: kuo daugiau namų, tuo daugiau darbo rankų
+Поставьте Жилой дом	Pastatykite Gyvenamąjį namą
+Работа	Darbas
+Жители сами ходят на работу. Нажмите на Лесопилку, Шахту или Ферму: в окне здания видно, сколько там работает, кнопки − и + меняют число рабочих	Gyventojai patys eina į darbą. Spustelėkite Lentpjūvę, Kasyklą arba Ūkį: pastato lange matyti, kiek ten dirba, mygtukai − ir + keičia darbininkų skaičių
+Если еды мало, жители голодают и работают хуже — следите за Фермой	Jei maisto mažai, gyventojai badauja ir dirba prasčiau – stebėkite Ūkį
+Нажмите на Лесопилку, Шахту или Ферму	Spustelėkite Lentpjūvę, Kasyklą arba Ūkį
+День и ночь	Diena ir naktis
+Внизу — часы. День сменяется ночью: ночью и в выходные на производстве остаётся только дежурная смена, остальные отдыхают дома	Apačioje – laikrodis. Dieną keičia naktis: naktį ir savaitgaliais darbe lieka tik budinti pamaina, kiti ilsisi namuose
+Город и Путь	Miestas ir Kelias
+Справа сверху: «Город» — сводка по городу и сбор готовых ресурсов, «Путь» — выбор направления развития, когда Цитадель подрастёт	Viršuje dešinėje: „Miestas“ – miesto suvestinė ir paruoštų išteklių surinkimas, „Kelias“ – vystymosi krypties pasirinkimas, kai Citadelė paaugs
+Защита	Gynyba
+Иногда на город нападают. Постройте Казарму и обучите бойцов, ставьте стены и башни. Из Казармы же можно ходить в набеги на соседние деревни за добычей	Kartais miestą užpuola. Pastatykite Kareivines ir apmokykite karius, statykite sienas ir bokštus. Iš Kareivinių galima eiti ir į antpuolius prieš kaimynų kaimus dėl grobio
+Готово	Viskas
+Шестерёнка ⚙ справа сверху — настройки, язык и журнал всех сообщений. Там же можно пройти это обучение заново	Krumpliaratis ⚙ viršuje dešinėje – nustatymai, kalba ir visų pranešimų žurnalas. Ten pat galima pereiti šį mokymą iš naujo
+Удачи, правитель	Sėkmės, valdove
+Пропустить шаг	Praleisti žingsnį
+Пропустить всё	Praleisti viską
+Начать	Pradėti
+Играть	Žaisti
+Далее	Toliau
+Закончить обучение. Пройти заново можно в ⚙ → Общие	Baigti mokymą. Pereiti iš naujo galima ⚙ → Bendri
+Облака, птицы и светлячки	Debesys, paukščiai ir jonvabaliai
+Живая природа на карте, свет в окнах ночью, пыль и искры при постройке. На слабом компьютере можно выключить	Gyva gamta žemėlapyje, šviesa languose naktį, dulkės ir kibirkštys statant. Silpname kompiuteryje galima išjungti
+Пройти обучение заново	Pereiti mokymą iš naujo
+Короткое обучение для новичков: камера, Цитадель, казна, первая постройка	Trumpas mokymas naujokams: kamera, Citadelė, iždas, pirmas pastatas
+Обучение	Mokymas

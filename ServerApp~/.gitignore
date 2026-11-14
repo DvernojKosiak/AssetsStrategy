@@ -1,0 +1,4 @@
+bin/
+obj/
+# корневой .gitignore прячет *.csproj (их делает Unity), а этот нужен
+!StrategycaServer.csproj

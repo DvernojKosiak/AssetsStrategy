@@ -1,0 +1,124 @@
+# Обновление final-8: очереди, защита новичка, требования Цитадели, вопросы и ответы, подсказки
+Вопросы	FAQ
+Скрыть пароль	Hide password
+Показать пароль	Show password
+нужна другая ветка Военного дела	needs a different Art of War branch
++ Очередь	+ Queue
+Очередь полна ({0})	Queue is full ({0})
+Идёт ковка — поставить в очередь. Материалы возьмём, когда начнётся работа	Forging in progress — add to the queue. Materials are taken when the work starts
+Очередь {0} полна ({1})	{0} queue is full ({1})
+{0}: {1} в очереди ({2}/{3}). Ресурсы возьмём, когда начнётся обучение	{0}: {1} queued ({2}/{3}). Resources are taken when training starts
+{0}: {1} убран из очереди — {2}	{0}: {1} removed from the queue — {2}
+{0}: очередь ждёт — {1}	{0}: queue is waiting — {1}
+Очередь {0}/{1}:	Queue {0}/{1}:
+Убрать {0} из очереди (ресурсы ещё не взяты)	Remove {0} from the queue (resources not taken yet)
+Ждёт:	Waiting:
+Поставить в очередь: {0}. Ресурсы возьмём, когда начнётся обучение	Add to queue: {0}. Resources are taken when training starts
+Сейчас не хватает:	Missing right now:
+Сейчас:	Right now:
+Рабочие идут на место: дошли {0} из {1}. Работают только дошедшие.	Workers are on their way: {0} of {1} have arrived. Only those who arrived are working.
+{0}: на месте только дежурные ({1} из {2}).	{0}: only the night shift is on site ({1} of {2}).
+Мастерская занята — нажмите, чтобы поставить в очередь. Сырьё возьмём, когда начнётся работа	The workshop is busy — tap to add to the queue. Raw materials are taken when the work starts
+Нажмите на карту — отряд ({0} бойц.) пойдёт туда и ударит по врагам на пути. Двойное нажатие — марш без боя.	Tap the map — the squad ({0} soldiers) will go there and strike enemies on the way. Double tap — march without fighting.
+➜ Куда? ✓	➜ Where? ✓
+➜ Послать отряд	➜ Send squad
+Следующее нажатие по карте — приказ отряду этого бойца	Your next tap on the map orders this soldier's squad
+Отряд возвращается охранять свою казарму	The squad returns to guard its barracks
+Город в тупике: нет свободных рабочих и не на что построить Жилой дом. Если ничего не изменится, через {0} мин Цитадель выдаст ресурсы на один дом.	Your city is stuck: no free workers and not enough to build a House. If nothing changes, in {0} min the Citadel will grant resources for one house.
+Цитадель выручила город: ресурсов хватает на Жилой дом. Постройте его — придут новые жители, и работа пойдёт снова.	The Citadel helped out: you now have enough for a House. Build it — new citizens will arrive and work will resume.
+{0}: очередь полна ({1})	{0}: queue is full ({1})
+{0}: «{1}» в очереди ({2}/{3}). Сырьё возьмём, когда начнётся работа	{0}: "{1}" queued ({2}/{3}). Raw materials are taken when the work starts
+не получилось начать	could not start
+Убрать «{0}» из очереди (сырьё ещё не взято)	Remove "{0}" from the queue (materials not taken yet)
+Где взять дерево, камень, еду и золото?	Where do I get wood, stone, food and gold?
+Дерево — Лесопилка, камень и немного золота — Шахта, еда — Ферма, ягоды — Станция собирателей. Ставьте их в подходящих зонах (⚙ меню города → «Показать зоны ресурсов»): в лесу, у камня, на плодородной почве добыча больше. Золото ещё приносят набеги и рынок Торгового дома. Наведите мышь (или подержите палец) на ресурс в казне — там написано, где его взять.	Wood — Sawmill, stone and a little gold — Mine, food — Farm, berries — Gatherers' Station. Place them in suitable zones (city menu → "Show resource zones"): in forest, near stone and on fertile soil they produce more. Gold also comes from raids and the Trading House market. Hover (or hold your finger) over a resource in the treasury — it tells you where to get it.
+Почему здание работает медленно или стоит?	Why is a building slow or idle?
+Работают только рабочие, которые дошли до здания: в окне здания видно «на месте X/Y». Ночью большая часть рабочих спит дома, голодные и раненые работают хуже. Если рабочих нет — добавьте их кнопкой «+» или постройте ещё Жилой дом. Скорость мастерских зависит от того, сколько мастеров на месте, а не от времени суток.	Only workers who have reached the building work: the building window shows "on site X/Y". At night most workers sleep at home; hungry and wounded ones work worse. If there are no workers, add them with "+" or build another House. Workshop speed depends on how many craftsmen are on site, not on the time of day.
+Нет жителей и не хватает ресурсов на дом — что делать?	No citizens and not enough resources for a house — what now?
+Такое бывает, если всё потратить. Цитадель сама выручит: раз в 10 минут, пока в городе нет свободных рабочих рук и не на что построить дом, она выдаёт ровно столько, сколько стоит один Жилой дом. Поставьте дом — придут новые жители.	This can happen if you spend everything. The Citadel will help: every 10 minutes, while the city has no free hands and can't afford a house, it grants exactly the cost of one House. Build it — new citizens will arrive.
+Что значит качество материалов?	What does material quality mean?
+Среднее, хорошее (зелёная метка) и наилучшее (золотая). До Ур.2 и для второго такого же здания подходит любое качество, до Ур.3 и выше — только не хуже «хорошего». Хорошее и наилучшее чаще выходят в Мастерской высокого уровня. Тратится сначала самое простое подходящее.	Medium, good (green mark) and best (gold). For Lv.2 and for a second building of the same kind any quality will do; for Lv.3 and above — only "good" or better. Good and best come out more often in a high-level Workshop. The simplest suitable material is always spent first.
+Можно ли поставить обучение или работу в очередь?	Can I queue training or crafting?
+Да. В Казарме можно поставить в очередь до 5 бойцов, в Мастерской, Оружейной и Кузне — до 3 заказов. Ресурсы берутся не сразу, а когда начинается работа; если чего-то не хватает, очередь ждёт и пишет, чего именно. Нажатие на заказ в очереди убирает его.	Yes. Barracks can queue up to 5 soldiers; the Workshop, Armory and Smithy — up to 3 orders. Resources are taken when the work starts, not before; if something is missing, the queue waits and says what exactly. Tap an order in the queue to remove it.
+Меня атакуют, хотя я только начал. Есть защита новичка?	I'm being attacked though I just started. Is there newbie protection?
+Есть. Пока у вас нет ни одной Казармы (и Цитадель Ур.1), другие игроки вас не находят в поиске, а соседи-NPC не нападают. NPC приходят не раньше чем через 10 минут после первой Казармы. Под щитом после набега NPC тоже не нападают, пока город не отстроится. Готовьте оборону: башни, стены и бойцов.	Yes. Until you have a Barracks (and while the Citadel is Lv.1), other players can't find you in search and NPC neighbours don't attack. NPCs come no sooner than 10 minutes after your first Barracks. Under a shield after a raid, NPCs also wait until the city is rebuilt. Prepare your defence: towers, walls and soldiers.
+Как управлять бойцами в бою?	How do I control soldiers in battle?
+В своём городе: нажмите на бойца, затем «➜ Послать отряд» и нажмите на карту — весь его отряд пойдёт туда и ударит по врагам на пути (по врагу — в атаку). Двойное нажатие — марш без боя, «Домой» — вернуть к казарме. Во время нападения «Послать отряд» включается сам: выбрали бойца — нажимайте, куда идти. Все отряды казармы — в её окне, вкладка «Войска». На карте набега: нажать — выбрать бойца, удерживать (правая кнопка) — приказ.	In your city: tap a soldier, then "➜ Send squad" and tap the map — the whole squad will go there and strike enemies on the way (tap an enemy to attack). Double tap — march without fighting, "Home" — back to the barracks. During an attack "Send squad" turns on by itself: select a soldier and tap where to go. All barracks squads are in its window, "Troops" tab. On the raid map: tap to select a soldier, hold (right button) to give an order.
+Почему армия долго идёт до края карты?	Why does the army take long to reach the map edge?
+Бойцы выходят пешком через край карты со стороны, откуда подходят к цели, — вброд через реки и через лес медленнее. Дороги ускоряют. Время пути до деревни видно в окне «В бой!».	Soldiers walk out through the map edge on the side they approach the target from — fording rivers and going through forest is slower. Roads speed them up. Travel time to the village is shown in the "To battle!" window.
+Что даёт уровень Цитадели?	What does the Citadel level give?
+Больше зону застройки, лимиты казны и новые здания. Для улучшения Цитадели нужны не только ресурсы, но и развитый город: для Ур.2 — Казарма, 2 башни и Курьерская; для Ур.3 — Казарма Ур.2, 4 башни, Хранилище и стена или ворота. Чего не хватает, видно в окне Цитадели.	A bigger build zone, treasury limits and new buildings. Upgrading the Citadel needs not only resources but a developed city: for Lv.2 — Barracks, 2 towers and a Courier House; for Lv.3 — Barracks Lv.2, 4 towers, a Vault and a wall or gate. What's missing is shown in the Citadel window.
+Сколько можно построить казарм?	How many barracks can I build?
+Цитадель Ур.1 — до 3 казарм, Ур.2 — до 5, Ур.3 — до 7.	Citadel Lv.1 — up to 3 barracks, Lv.2 — up to 5, Lv.3 — up to 7.
+Что такое марки ◈ и как их купить?	What are marks ◈ and how do I buy them?
+Марки — валюта Торговой гильдии: за них ускоряют работу, покупают на рынке и в магазине гильдии. Марки дают продажи и заказы гильдии, а ещё их можно купить в магазине марок (покупка через Google Play).	Marks are the Trading Guild currency: they speed up work and buy goods at the market and the guild shop. You earn marks from sales and guild orders, and you can also buy them in the marks shop (purchase via Google Play).
+Игра просит обновиться — почему?	The game asks me to update — why?
+Когда выходит важное обновление (исправления боя, новые правила), старая версия не может играть с сервером вместе с новой. Нажмите «Обновить» — откроется страница игры в Google Play.	When an important update comes out (battle fixes, new rules), the old version can't play on the server alongside the new one. Tap "Update" — the game's Google Play page will open.
+Бой «рассинхронился» после перезахода — что будет?	The battle went out of sync after I re-entered — what happens?
+Сервер помнит, кто из ваших бойцов погиб в живом бою. Если вы вышли посреди боя и вернулись, павшие не воскреснут, а выжившие вернутся домой с добычей.	The server remembers which of your soldiers fell in a live battle. If you left mid-battle and came back, the fallen won't come back to life and the survivors will return home with their loot.
+Экономия батареи	Battery saver
+Когда вы не трогаете экран и нет боя — 30 кадров в секунду вместо 60, и экран может погаснуть, как обычно. Во время войны и набега — всегда 60 кадров и экран не гаснет.	When you aren't touching the screen and there's no battle — 30 frames per second instead of 60, and the screen may turn off as usual. During war and raids — always 60 frames and the screen stays on.
+Первая казарма готова — защита новичка снята. Другие игроки теперь видят ваш город, соседи-NPC могут напасть не раньше чем через {0} мин. Обучайте бойцов!	Your first barracks is ready — newbie protection is off. Other players can now see your city; NPC neighbours may attack no sooner than in {0} min. Train soldiers!
+Соседи-NPC под щитом ждут, пока город отстроится (все здания починены, дома хотя бы 3 бойца), и тогда нападают только вполсилы.	While the shield is up, NPC neighbours wait until the city is rebuilt (all buildings repaired, at least 3 soldiers at home), and then attack at only half strength.
+Игрок {0} напал на вашу деревню! Его армия ({1}) входит {2} — защищайтесь!	Player {0} attacked your village! Their army ({1}) is coming in {2} — defend yourself!
+Сейчас не на кого напасть: другие деревни под защитой, в вашем клане, новички или их нет	No one to attack right now: other villages are shielded, in your clan, newcomers, or there are none
+Вышло обновление Strategyca. Обновите игру в Google Play, чтобы продолжить	A Strategyca update is out. Update the game on Google Play to continue
+Нужно обновить игру	Game update required
+Город и всё накопленное сохранены на сервере и будут ждать вас в новой версии.	Your city and everything you've gathered are saved on the server and will be waiting for you in the new version.
+Назначено {0} из {1}, на месте {2}. Свободных жителей в городе: {3}.	Assigned {0} of {1}, on site {2}. Free citizens in the city: {3}.
+Здание работает только теми, кто дошёл до него: кто ещё в пути, ушёл домой или перехвачен врагом — не работает.	A building works only with those who reached it: anyone still on the way, gone home or intercepted by the enemy doesn't work.
+Выходной	Day off
+Ночь	Night
+: на месте только дежурные, {0} из {1}. Здание работает на {2}%.	: only the night shift is on site, {0} of {1}. The building works at {2}%.
+Бой в деревне {0} шёл без вас — узнаём у сервера, чем он кончился…	The battle in {0} went on without you — asking the server how it ended…
+Бой в деревне {0} шёл без вас — сервер не ответил, армия ушла с тем, что несла	The battle in {0} went on without you — the server didn't answer, the army left with what it carried
+Бой в деревне {0} шёл без вас: погибло бойцов — {1}, остальные ушли с добычей	The battle in {0} went on without you: {1} soldiers fell, the rest left with the loot
+Бой в деревне {0} шёл без вас — все бойцы ушли оттуда с тем, что несли	The battle in {0} went on without you — all soldiers left with what they carried
+Где взять: Шахта (понемногу, вместе с камнем; больше — в золотой зоне), набеги на деревни, продажа на рынке Торгового дома.	Where to get: Mine (a little, together with stone; more in a gold zone), raids on villages, selling at the Trading House market.
+Где взять: Лесопилка. Ставьте у леса (зелёная зона, «Показать зоны ресурсов» в меню города) — там дерева больше.	Where to get: Sawmill. Place it by the forest (green zone, "Show resource zones" in the city menu) — more wood there.
+Где взять: Шахта. В серо-голубой каменной зоне камня больше. Ещё — набеги.	Where to get: Mine. More stone in the grey-blue stone zone. Also — raids.
+Где взять: Ферма (на плодородной почве и у реки больше), ягоды — Станция собирателей. Еду едят все жители: следите, чтобы её хватало.	Where to get: Farm (more on fertile soil and by the river), berries — Gatherers' Station. All citizens eat: make sure there's enough.
+Где взять: продажи на рынке и заказы гильдии в Торговом доме, магазин марок.	Where to get: market sales and guild orders at the Trading House, the marks shop.
+Город под щитом: соседи послали только половину войска	Your city is shielded: the neighbours sent only half their army
+Качество материалов: среднее, хорошее (зелёная метка) и наилучшее (золотая).	Material quality: medium, good (green mark) and best (gold).
+Улучшить здание до Ур.2 и построить второе такое же можно из материалов любого качества, а до Ур.3 и выше — только не хуже «хорошего».	Upgrading to Lv.2 and building a second one of the same kind accept any quality; Lv.3 and above — only "good" or better.
+Хорошее и наилучшее чаще выходят в Мастерской высокого уровня: Ур.1 — 15% хорошего; Ур.2 — 40% хорошего и 10% наилучшего; Ур.3 — 50% и 30%.	Good and best come out more often in a high-level Workshop: Lv.1 — 15% good; Lv.2 — 40% good and 10% best; Lv.3 — 50% and 30%.
+Тратится всегда сначала самое простое подходящее, поэтому лучшие материалы сами копятся для Ур.3.	The simplest suitable material is always spent first, so the best ones build up for Lv.3 on their own.
+Дерево даёт Лесопилка, камень и немного золота — Шахта, еду — Ферма. Золото ещё приносят набеги и рынок. Подсказка у каждого ресурса говорит, где его взять.	Wood comes from the Sawmill, stone and a little gold from the Mine, food from the Farm. Gold also comes from raids and the market. Each resource's tooltip tells you where to get it.
+Ресурсы	Resources
+Сначала — ресурсы. Жители сами работают на Лесопилке (дерево), в Шахте (камень и немного золота) и на Ферме (еда), а готовое носят в Цитадель. Нажмите на любое из этих зданий: в окне видно, сколько рабочих на месте, кнопки − и + меняют их число.	Resources first. Citizens work at the Sawmill (wood), the Mine (stone and a little gold) and the Farm (food) on their own, and carry the goods to the Citadel. Tap any of these buildings: the window shows how many workers are on site, − and + change their number.
+Когда хватает дерева и золота — стройте. Нажмите «Постройки», выберите Жилой дом и поставьте его на свободную траву левой кнопкой. Правая кнопка или Esc — отмена.	When you have enough wood and gold — build. Press "Buildings", choose House and place it on free grass with the left button. Right button or Esc — cancel.
+В домах живут жители: чем больше домов, тем больше рабочих рук. Цена здания видна в списке построек; чего не хватает — подсвечено.	Citizens live in houses: more houses — more working hands. A building's cost is shown in the buildings list; whatever is missing is highlighted.
+Когда хватает дерева и золота — стройте. Нажмите «Постройки» и выберите Жилой дом. Ведите пальцем — дом едет следом, потом нажмите «Поставить».	When you have enough wood and gold — build. Press "Buildings" and choose House. Drag your finger — the house follows, then press "Place".
+Башни	Towers
+Казарма Ур.2	Barracks Lv.2
+Стена или ворота	Wall or gate
+Для Цитадели Ур. {0} постройте:	For Citadel Lv. {0} build:
+Чтобы поднять Цитадель до Ур. {0}, город должен дорасти: постройте эти здания (готовые, не в руинах).	To raise the Citadel to Lv. {0}, the city must grow: build these buildings (finished, not in ruins).
+Сначала постройте нужное	Build the requirements first
+В городе:	In the city:
+Нападение! Нажмите на бойца, потом на карту — его отряд пойдёт туда (двойное нажатие — марш). Башни и стены бьют сами, раненые лечатся в казарме.	Attack! Tap a soldier, then the map — their squad will go there (double tap — march). Towers and walls fight on their own; the wounded heal in the barracks.
+Нападение! Щёлкните по бойцу, потом по карте — его отряд пойдёт туда (двойной щелчок — марш). Башни и стены бьют сами, раненые лечатся в казарме.	Attack! Click a soldier, then the map — their squad will go there (double click — march). Towers and walls fight on their own; the wounded heal in the barracks.
+Кузня занята — нажмите, чтобы поставить в очередь.	The smithy is busy — tap to add to the queue.
+нет рецепта	no recipe
+мастерская не работает	the workshop isn't working
+нужна мастерская выше уровнем	needs a higher-level workshop
+склад полон	storage is full
+не хватает сырья:	not enough raw materials:
+Готово!	Done!
+Мастерская	Workshop
+Улучшение готово	Upgrade complete
+Стройка готова	Construction complete
+Готово	Done
+Армия у цели	Army has arrived
+Армия дошла до деревни	Your army has reached the village
+Загляните в бой	Take a look at the battle
+Армия вернулась	Army is back
+Армия вернулась домой с добычей	Your army has returned home with loot
+Щит скоро кончится	Shield ending soon
+Щит города кончится через 30 минут	Your city's shield ends in 30 minutes
+Щит города кончится через 10 минут	Your city's shield ends in 10 minutes
+Ваш город ждёт: жители накопили ресурсы, пора строить дальше	Your city is waiting: the townsfolk have gathered resources, time to keep building
+Стройки, армия и щит	Construction, army and shield
+Каждое следующее такое здание дороже на {0}% — выгоднее улучшать то, что есть	Each next building of this kind costs {0}% more, so upgrading the ones you have is better value
+Каждое следующее такое здание будет дороже на {0}%	Each next building of this kind will cost {0}% more

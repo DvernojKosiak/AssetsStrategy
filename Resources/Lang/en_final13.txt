@@ -1,0 +1,17 @@
+# final-13: косметика, уведомления, общий таймер набега, лекари
+Щит	Shield
+Враги у деревни!	Enemies at the village!
+Враги отступили	The enemies have retreated
+Сколько ещё может идти набег на вашу деревню	How much longer the raid on your village can last
+Набег на вашу деревню!	Your village is being raided!
+армия осматривает деревню	the army is scouting the village
+идёт бой	battle in progress
+армия уходит с добычей	the army is leaving with loot
+армия в пути	the army is on its way
+Игрок напал на копию вашей деревни. Таймер — сколько ещё может идти набег. Потери придут с отчётом, повтор боя — в отчёте о набеге.	A player attacked a copy of your village. The timer shows how much longer the raid can last. Losses will come with the report; the battle replay is in the raid report.
+Ещё сообщения — в журнале (⚙ → Журнал)	More messages are in the log (⚙ → Log)
+Осмотр · до конца набега	Scouting · raid ends in
+Отступление	Retreat
+До конца набега	Raid ends in
+{0} обороняется сам	{0} is defending in person
+Несколько магов в одного бойца подряд лечат слабее: 100%, 60%, 35%, 15%	Several mages healing the same fighter in a row heal less: 100%, 60%, 35%, 15%

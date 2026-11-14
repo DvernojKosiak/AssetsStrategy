@@ -1,0 +1,55 @@
+# final-13-fix-3: война и лиги в окне клана, еда в поход, зельеварня
+Рейтинг клана	Klano reitingas
+Ваш рейтинг	Jūsų reitingas
+Клан получает рейтинг за клановые войны: победа — больше, поражение — меньше. Лиги и мировая таблица — во вкладке «Лиги»	Klanas reitingą gauna klanų karuose: už pergalę daugiau, už pralaimėjimą mažiau. Lygos ir pasaulio lentelė – skirtuke „Lygos“
+Ваш рейтинг растёт за набеги на игроков и за клановые войны	Jūsų reitingas auga už antpuolius prieš žaidėjus ir už klanų karus
+нажмите — большая карта	paspauskite – didelis žemėlapis
+Источники ресурсов:	Išteklių šaltiniai:
+у нас	mūsų
+у врага	priešo
+ничьих {0}	niekieno {0}
+Лесопилки, каменоломни, рудники и деревни на нейтральных землях. Займите участок — доход пойдёт в деревни клана	Lentpjūvės, karjerai, kasyklos ir kaimai neutraliose žemėse. Užimkite sklypą – pajamos atiteks klano kaimams
+ваш клан	jūsų klanas
+соперник	varžovas
+быстрая война	greitas karas
+Счёт: занятые участки карты и по 2 очка за каждую целую деревню. Считается со 2-го дня	Rezultatas: užimti žemėlapio sklypai ir po 2 taškus už kiekvieną sveiką kaimą. Skaičiuojama nuo 2-osios dienos
+День 1 — глава расставляет деревни клана на схеме	1 diena – vadas išdėsto klano kaimus schemoje
+День 2 — открылась карта: подготовка на своей земле	2 diena – žemėlapis atidarytas: pasiruošimas savo žemėje
+День {0} — открыты нейтральные земли с источниками	{0} diena – atidarytos neutralios žemės su šaltiniais
+День {0} — открыта вся карта, можно идти на вражеские деревни	{0} diena – atidarytas visas žemėlapis, galima žygiuoti į priešų kaimus
+следующий этап через	kitas etapas po
+· до конца войны	· iki karo pabaigos
+Что делать сейчас	Ką daryti dabar
+Расставьте деревни клана на схеме ниже: сильные — в передний столбец, к врагу, слабые — назад. Не успеете — сервер расставит сам.	Išdėstykite klano kaimus schemoje žemiau: stipriuosius – į priekinį stulpelį, link priešo, silpnuosius – atgal. Nespėsite – serveris išdėstys pats.
+Глава расставляет деревни клана. Завтра откроется общая карта — заходите в свою военную деревню.	Vadas išdėsto klano kaimus. Rytoj atsidarys bendras žemėlapis – užeikite į savo karo kaimą.
+Ходить можно только по своей земле. Зайдите в военную деревню: пусть казармы учат бойцов, мастерские делают доски для таранов. Подарите ресурсы соседям с края.	Vaikščioti galima tik savo žeme. Užeikite į karo kaimą: tegul kareivinės moko karius, dirbtuvės gamina lentas taranams. Padovanokite išteklių kaimynams pakraštyje.
+Нейтральные земли открыты. Займите участки с источниками — их доход идёт в деревни клана. Держите отряды у своих границ.	Neutralios žemės atidarytos. Užimkite sklypus su šaltiniais – jų pajamos eina klano kaimams. Laikykite būrius prie savo sienų.
+Открыта вся карта — можно идти на вражеские деревни. Снесёте все вражеские Цитадели — победа сразу. Каждый занятый участок и целая деревня — очки.	Atidarytas visas žemėlapis – galima žygiuoti į priešų kaimus. Sugriausite visas priešo Citadeles – pergalė iškart. Kiekvienas užimtas sklypas ir sveikas kaimas – taškai.
+Прошлая война: ничья	Praėjęs karas: lygiosios
+Прошлая война: победа!	Praėjęs karas: pergalė!
+Прошлая война: поражение	Praėjęs karas: pralaimėjimas
+Ищем клан-соперника…	Ieškome varžovų klano…
+Сейчас войны нет	Dabar karo nėra
+Нажмите «Начать войну» — сервер найдёт клан-соперника вашего уровня. Война длится 7 дней, в ней участвует весь клан.	Paspauskite „Pradėti karą“ – serveris suras jūsų lygio varžovų klaną. Karas trunka 7 dienas, jame dalyvauja visas klanas.
+Начать войну может глава клана или заместитель. Война длится 7 дней, в ней участвует весь клан.	Pradėti karą gali klano vadas arba pavaduotojas. Karas trunka 7 dienas, jame dalyvauja visas klanas.
+Как идёт клановая война (7 дней)	Kaip vyksta klanų karas (7 dienos)
+День 1 — расстановка	1 diena – išdėstymas
+Глава ставит деревни клана на схеме: кто впереди, кто сзади.	Vadas išdėsto klano kaimus schemoje: kas priekyje, kas gale.
+День 2 — живые деревни	2 diena – gyvi kaimai
+Открывается общая карта. На ней копия деревни каждого игрока, и она живёт как дома: жители добывают, казармы учат бойцов, бойцы сами выходят на карту. Строить нельзя, ресурсы свои, лимиты склада как дома.	Atsidaro bendras žemėlapis. Jame – kiekvieno žaidėjo kaimo kopija, ir ji gyvena kaip namie: gyventojai renka, kareivinės moko karius, kariai patys išeina į žemėlapį. Statyti negalima, ištekliai savi, sandėlio ribos kaip namie.
+Дни 3–4 — нейтральные земли	3–4 dienos – neutralios žemės
+Открываются земли с источниками: деревни, лесопилки, каменоломни, рудники. Занятый участок даёт доход деревням клана.	Atsidaro žemės su šaltiniais: kaimai, lentpjūvės, karjerai, kasyklos. Užimtas sklypas duoda pajamų klano kaimams.
+Дни 5–7 — вся карта	5–7 dienos – visas žemėlapis
+Можно идти на вражеские деревни. Снесите все вражеские Цитадели — победа сразу.	Galima žygiuoti į priešų kaimus. Sugriaukite visas priešo Citadeles – pergalė iškart.
+Счёт	Rezultatas
+Занятые участки и по 2 очка за каждую целую деревню. В конце побеждает клан, у которого больше очков.	Užimti sklypai ir po 2 taškus už kiekvieną sveiką kaimą. Pabaigoje laimi klanas, turintis daugiau taškų.
+Помогайте своим	Padėkite saviems
+Дарите ресурсы соседям по клану (особенно деревням с края) и торгуйте на рынке клана.	Dovanokite išteklių klano kaimynams (ypač pakraščio kaimams) ir prekiaukite klano turguje.
+Что получаете дома	Ką gaunate namie
+Домой с войны возвращается только рейтинг клана. Домашняя деревня, её ресурсы и жители от войны не меняются.	Iš karo namo grįžta tik klano reitingas. Namų kaimas, jo ištekliai ir gyventojai nuo karo nesikeičia.
+События	Įvykiai
+Отравление	Nuodai
+Замедление	Lėtinimas
+Какое зелье варить постоянно.	Kokį eliksyrą virti nuolat.
+Враги у деревни!	Priešai prie kaimo!
+Еда — запас похода на {0} минут: пеший боец ест 1 в минуту, крупный — по числу мест в казарме, у всадника ещё 1 за коня. Остаток вернётся домой. Без еды бойцы слабеют.	Maistas – žygio atsarga {0} minutėms: pėstysis karys suvalgo 1 per minutę, didelis – pagal vietų kareivinėse skaičių, raitelis dar 1 už žirgą. Likutis grįš namo. Be maisto kariai silpsta.

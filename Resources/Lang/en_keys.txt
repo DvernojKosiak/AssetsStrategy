@@ -1,0 +1,7 @@
+# Кнопки без подписей клавиш: дополнение к en.txt
+К битве	To the battle
+Меню города (F): собрать всё, режим накопления, зоны ресурсов, рационы	Town menu (F): collect all, accumulation mode, resource zones, rations
+Переправы через реку (P). Секций в запасе: {0}	River crossings (P). Sections in stock: {0}
+Разведчики в накидках сидят в дозоре: видят далеко, враги их не замечают (L	Scouts in capes sit on lookout: they see far, enemies don't notice them (L
+Остановиться (S	Stop (S
+На вашу деревню напали — идёт война! (V	Your village is under attack — war is on! (V

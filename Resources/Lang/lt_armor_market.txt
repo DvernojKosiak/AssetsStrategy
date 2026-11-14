@@ -1,0 +1,73 @@
+# Броня, рынок и иконки: дополнение к lt.txt
+Обычная усиленная броня	Paprasti sustiprinti šarvai
+Обычная закалённая броня	Paprasti grūdinti šarvai
+Обычная золочёная броня	Paprasti paauksuoti šarvai
+Хорошая усиленная броня	Geri sustiprinti šarvai
+Хорошая закалённая броня	Geri grūdinti šarvai
+Хорошая золочёная броня	Geri paauksuoti šarvai
+Превосходная усиленная броня	Puikūs sustiprinti šarvai
+Превосходная закалённая броня	Puikūs grūdinti šarvai
+Превосходная золочёная броня	Puikūs paauksuoti šarvai
+усиленная	sustiprinti
+закалённая	grūdinti
+золочёная	paauksuoti
+Оружейная: броня усилена — {0}	Ginklinė: šarvai sustiprinti — {0}
+Оружейная: броня усилена	Ginklinė: šarvai sustiprinti
+Плащ не усиливают	Apsiausto sustiprinti negalima
+Усилено до предела	Sustiprinta iki galo
+Не хватает	Trūksta
+стали {0}/{1}	plieno {0}/{1}
+камня {0}/{1}	akmens {0}/{1}
+золота {0}/{1}	aukso {0}/{1}
+{0} стали, {1} камня, {2} зол	{0} plieno, {1} akmens, {2} aukso
+Улучшить до «{0}»: {1}	Patobulinti iki „{0}“: {1}
+Цена: {0}	Kaina: {0}
+Броня: урон по бойцу −25…36% (по качеству), скорость −10%. Выдаётся в казарме	Šarvai: žala kariui −25…36% (pagal kokybę), greitis −10%. Išduodami kareivinėse
+урон по бойцу −{0}% (магию не держит), скорость −{1}%, прочность {2}%	žala kariui −{0}% (nuo magijos nesaugo), greitis −{1}%, patvarumas {2}%
+ядро хаоса	chaoso šerdis
+{0} наёмника: некуда деть — потеряна	Samdinio {0}: nėra kur padėti — prarasta
+В Оружейных нет места: {0} потеряна	Ginklinėse nėra vietos: {0} prarasta
+Пусто — доски, плиты и сталь делают в Мастерской	Tuščia — lentos, plokštės ir plienas gaminami Dirbtuvėse
+Листва	Lapai
+Похлёбка (на кухнях)	Troškinys (virtuvėse)
+Зелья отравления (Цитадель и Хранилища)	Nuodų eliksyrai (Citadelė ir Sandėliai)
+Зелья замедления	Lėtinimo eliksyrai
+Ловушки	Spąstai
+Боевые ловушки	Koviniai spąstai
+Ветка «Тяжёлая стратегия»: броня (−25…36% урона, −10% скорости), её усиливают сталью, камнем и золотом	Šaka „Sunkioji strategija“: šarvai (−25…36% žalos, −10% greičio), stiprinami plienu, akmeniu ir auksu
+Эффект	Efektas
+Эффект ▾	Efektas ▾
+Наложить эффект на этот предмет (выбор — под списком)	Uždėti efektą šiam daiktui (pasirinkimas — po sąrašu)
+Эффект: {0}	Efektas: {0}
+Закрыть	Uždaryti
+Яд	Nuodai
+Замедление	Lėtinimas
+Салют	Saliutas
+Отравить	Užnuodyti
+Смазать	Patepti
+Наложить	Uždėti
+осталось {0} выстр.	liko {0} šūv.
+зелий {0}	eliksyrų: {0}
+Фейерверочных луков {0}	Fejerverkų lankų: {0}
+ядер {0}	šerdžių: {0}
+Мк.{0}, осталось {1} выстр.	Mk.{0}, liko {1} šūv.
+Мк.{0}, отражений {1}	Mk.{0}, atspindžių: {1}
+Зелье уже несут	Eliksyras jau nešamas
+Яда на луке ещё много	Lanke dar daug nuodų
+Зелья на луке ещё много	Lanke dar daug eliksyro
+Салюта на луке ещё много	Lanke dar daug saliuto
+Фейерверочный лук уже несут	Fejerverkų lankas jau nešamas
+Нет зелий отравления (Зельеварня или рынок)	Nėra nuodų eliksyrų (Eliksyrinė arba turgus)
+Нет зелий замедления (Зельеварня или рынок)	Nėra lėtinimo eliksyrų (Eliksyrinė arba turgus)
+Нет Фейерверочного лука в Цитадели — соберите его в Инженерном дворе	Citadelėje nėra fejerverkų lanko — surinkite jį Inžinierių kieme
+Нет Фейерверочного лука в Цитадели (рынок)	Citadelėje nėra fejerverkų lanko (turgus)
+На щите уже есть ядро хаоса	Skyde jau yra chaoso šerdis
+Ядро уже несут	Šerdis jau nešama
+Нет ядра хаоса в Цитадели — зачаруйте его в Магической оружейной	Citadelėje nėra chaoso šerdies — užkerėkite ją Magijos ginklinėje
+Нет ядра хаоса в Цитадели (их делает школа Хаоса, бывают на рынке)	Citadelėje nėra chaoso šerdies (gamina Chaoso mokykla, būna turguje)
+в Оружейной ▸ «Эффект»	Ginklinėje ▸ „Efektas“
+На лук наложен эффект салюта: {0}	Lankui uždėtas saliuto efektas: {0}
+Ядро хаоса Мк.{0} несут к щиту в Оружейную	Chaoso šerdis Mk.{0} nešama prie skydo į Ginklinę
+Эффектов пока нет: яд и замедление — зелья (путь Магии или рынок), салют — Пиротехник	Efektų kol kas nėra: nuodai ir lėtinimas — eliksyrai (Magijos kelias arba turgus), saliutas — Pirotechnikas
+Эффектов пока нет: ядро хаоса делает школа Хаоса, бывает на рынке	Efektų kol kas nėra: chaoso šerdį gamina Chaoso mokykla, būna turguje
+Салют	Saliutas

@@ -1,0 +1,76 @@
+# Обновление final-1 (перед бета-тестом): голем, ускорение мастерских, добыча картинками, сторона высадки, ввод на телефоне (дополнение к lt.txt)
+Это здание не ускорить	Šio pastato pagreitinti negalima
+Сначала достройте	Pirma pabaikite statyti
+Сначала восстановите	Pirma atstatykite
+На войне ускорять нельзя	Karo metu greitinti negalima
+Уже ускорено на {0} мин — больше нельзя	Jau pagreitinta {0} min. — daugiau negalima
+Нужно {0} марок, у вас {1}	Reikia {0} ženklų, turite {1}
+{0}: работает вдвое быстрее ещё {1}	{0}: dirba dvigubai greičiau dar {1}
+Работа ×{0} · ещё {1}	Darbas ×{0} · liko {1}
+Изготовление идёт быстрее, пока не кончится время (оно идёт и без вас).	Gamyba vyksta greičiau, kol baigsis laikas (jis eina ir be jūsų).
+Продлить ×{0} на {1} мин · {2} ◈	Pratęsti ×{0} {1} min. · {2} ◈
+Ускорить работу ×{0} на {1} мин · {2} ◈	Pagreitinti darbą ×{0} {1} min. · {2} ◈
+Изготовление в этом здании пойдёт в {0} раза быстрее {1} минут.	Gamyba šiame pastate vyks {0} kartus greičiau {1} minučių.
+Не мгновенно: просто быстрее.	Ne akimirksniu: tiesiog greičiau.
+Всего не больше {0} мин.	Iš viso ne daugiau kaip {0} min.
+Ускорить за {0} марок?	Pagreitinti už {0} ženklų?
+{0} будет работать в {1} раза быстрее ещё {2} минут.	{0} dirbs {1} kartus greičiau dar {2} minučių.
+У вас {0} марок.	Turite {0} ženklų.
+Ускорить	Pagreitinti
+Алтаря жизни	Gyvybės aukuro
+Страж алтаря · приказов не слушает	Aukuro sargas · įsakymų neklauso
+Приказов не слушает	Įsakymų neklauso
+Здоровье {0}/{1}	Sveikata {0}/{1}
+Сейчас:	Dabar:
+Сила:	Jėga:
+Показать	Rodyti
+Навести камеру на голема	Nukreipti kamerą į golemą
+Следить	Sekti
+Следить ✓	Sekti ✓
+Камера едет за големом	Kamera seka golemą
+сторожит алтарь	saugo aukurą
+бьётся у алтаря	kaunasi prie aukuro
+возвращается к алтарю	grįžta prie aukuro
+Алтарь Ур.{0} · приказов не слушает	Aukuras Lyg.{0} · įsakymų neklauso
+Погибая, взрывается и лечит своих рядом: +{0}	Žūdamas sprogsta ir gydo savus šalia: +{0}
+Алтарь Ур.2: погибая, голем будет лечить своих	Aukuras Lyg.2: žūdamas golemas gydys savus
+Поднять павшего: через {0} с	Prikelti kritusį: po {0} s
+Поднять павшего: готов	Prikelti kritusį: paruošta
+(боец рядом, без оружия)	(karys šalia, be ginklo)
+Алтарь Ур.3: голем будет поднимать павших	Aukuras Lyg.3: golemas prikels kritusius
+Уровень алтаря: +12% к силе голема.	Aukuro lygis: +12 % golemo jėgos.
+Ур.2: погибая, голем взрывается и лечит своих рядом ({0}).	Lyg.2: žūdamas golemas sprogsta ir gydo savus šalia ({0}).
+Ур.3: взрыв лечит сильнее ({0}), а раз в {1} мин голем поднимает павшего рядом бойца (без оружия, пешие войска).	Lyg.3: sprogimas gydo stipriau ({0}), o kas {1} min. golemas prikelia šalia kritusį karį (be ginklo, tik pėstininkus).
+Голема можно выбрать нажатием, как бойца.	Golemą galima pasirinkti paspaudus, kaip karį.
+Рождено големов: {0}.	Gimė golemų: {0}.
+Голем рассыпался зелёной вспышкой и подлечил своих: {0}	Golemas subyrėjo žaliu blyksniu ir pagydė savus: {0}
+Голем рассыпался зелёной вспышкой и подлечил бойцов: {0}	Golemas subyrėjo žaliu blyksniu ir pagydė karius: {0}
+Голем хотел поднять павшего, но в казармах нет места	Golemas norėjo prikelti kritusį, bet kareivinėse nėra vietos
+Голем хотел поднять павшего, но дома в казармах нет места	Golemas norėjo prikelti kritusį, bet namų kareivinėse nėra vietos
+Голем поднял павшего: {0} снова в строю (без оружия)	Golemas prikėlė kritusį: {0} vėl rikiuotėje (be ginklo)
+Голем поднял павшего: {0} снова в бою (без оружия)	Golemas prikėlė kritusį: {0} vėl mūšyje (be ginklo)
+Голем поднял павшего: {0} вернулся домой	Golemas prikėlė kritusį: {0} grįžo namo
+наш	mūsų
+защитник	gynėjas
+несёт: {0} ({1}/{2})	neša: {0} ({1}/{2})
+здоровье {0}/{1}, урон {2}	sveikata {0}/{1}, žala {2}
+Добыча	Grobis
+Добыча: ничего	Grobis: nieko
+Хорошо	Gerai
+Каменные плиты	Akmens plokštės
+Укреплённые плиты	Sutvirtintos plokštės
+Армия подошла к деревне игрока {0} {1}.	Armija priartėjo prie žaidėjo {0} kaimo {1}.
+Армия подошла к деревне {0} {1}.	Armija priartėjo prie kaimo {0} {1}.
+На бой — {0} минут.	Mūšiui — {0} min.
+Атаковать или уйти?	Pulti ar pasitraukti?
+Осмотритесь: атаковать или уйти?	Apsidairykite: pulti ar pasitraukti?
+с запада	iš vakarų
+с востока	iš rytų
+с юга	iš pietų
+с севера	iš šiaurės
+Войско {0} вернулось из похода и вступает в бой с тыла деревни!	{0} kariuomenė grįžo iš žygio ir stoja į mūšį iš kaimo užnugario!
+Игрок {0} в «{1}»: отнимают {2}.	Žaidėjas {0} pastate „{1}“: atima {2}.
+Отбейте бойцов - отнятое вернётся	Atmuškite karius — atimta sugrįš
+Новый день: мана {0}% — маги лечат на {1}%	Nauja diena: mana {0} % — magai gydo {1} %
+Написать клану…	Rašyti klanui…
+Готово	Atlikta

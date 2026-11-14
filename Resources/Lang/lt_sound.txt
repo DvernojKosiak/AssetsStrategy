@@ -1,0 +1,4 @@
+# Garsai (zvuki-1)
+Окружение	Aplinka
+Ветер и птицы днём, сверчки и сова ночью, далёкий шум битвы	Dieną vėjas ir paukščiai, naktį svirpliai ir pelėda, tolimas mūšio triukšmas
+Тишина, когда игра свёрнута	Tyla, kai žaidimas sumažintas

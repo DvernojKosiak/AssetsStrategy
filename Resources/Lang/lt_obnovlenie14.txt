@@ -1,0 +1,60 @@
+# Обновление 14: основная игра (дополнение к lt.txt)
+{0}: пока вас не было, очередь училась — бойцы выйдут один за другим	{0}: kol jūsų nebuvo, eilė mokėsi — kariai išeis vienas po kito
+пока вас не было, очередь училась — бойцы выйдут один за другим	kol jūsų nebuvo, eilė mokėsi — kariai išeis vienas po kito
+Армия отступила из деревни {0}, пока вас не было, и идёт домой с тем, что несла	Kariuomenė pasitraukė iš {0}, kol jūsų nebuvo, ir grįžta namo su tuo, ką nešė
+Армия пришла, пока вас не было: добыча уже в казне	Kariuomenė grįžo, kol jūsų nebuvo: grobis jau iždė
+Боец в походе — снаряжение выдают только в казарме	Karys žygyje — ekipuotė duodama tik kareivinėse
+Боец не в казарме — снаряжение выдают только в казарме. Пусть вернётся (кнопка «Домой» у отряда)	Karys ne kareivinėse — ekipuotė duodama tik kareivinėse. Grąžinkite jį (būrio mygtukas «Namo»)
+Боец не в казарме — снаряжение выдают только в казарме	Karys ne kareivinėse — ekipuotė duodama tik kareivinėse
+Пусть вернётся (кнопка «Домой» у отряда)	Grąžinkite jį (būrio mygtukas «Namo»)
+В походе: снаряжение не выдать	Žygyje: ekipuotės duoti negalima
+Не в казарме: снаряжение не выдать	Ne kareivinėse: ekipuotės duoti negalima
+снаряжение не выдать	ekipuotės duoti negalima
+в походе	žygyje
+не в казарме	ne kareivinėse
+Казарма: выдано снаряжения — {0}. Не в казарме: {1} — выдайте, когда вернутся	Kareivinės: išduota ekipuotės — {0}. Ne kareivinėse: {1} — aprūpinkite, kai grįš
+Не в казарме: {0} — выдайте, когда вернутся	Ne kareivinėse: {0} — aprūpinkite, kai grįš
+Каждому бойцу в казарме без оружия, щита, брони или плаща — лучшее, что есть в Оружейных (разведчикам и стрелкам — плащи, остальным — броня). Кто сейчас на карте или в походе — нажмите ещё раз, когда он вернётся в казарму	Kiekvienam kariui kareivinėse be ginklo, skydo, šarvų ar apsiausto — geriausia iš Ginklinių (žvalgams ir šauliams — apsiaustai, kitiems — šarvai). Kas dabar žemėlapyje ar žygyje — paspauskite dar kartą, kai grįš į kareivines
+Эффекты на снаряжение бойца	Efektai kario ekipuotei
+Замедл	Lėtin
+Салют	Saliutas
+Ядро хаоса	Chaoso šerdis
+Хаос	Chaosas
+Боец в походе — эффекты накладывают только в казарме	Karys žygyje — efektai dedami tik kareivinėse
+Боец не в казарме — пусть вернётся в казарму	Karys ne kareivinėse — tegul grįžta į kareivines
+У бойца нет лука	Karys neturi lanko
+У бойца нет щита	Karys neturi skydo
+Бойца нет	Kario nėra
+{0} {1}: несут зелье отравления в казарму	{0} {1}: nuodų eliksyras nešamas į kareivines
+{0} {1}: несут зелье замедления в казарму	{0} {1}: lėtinimo eliksyras nešamas į kareivines
+{0} {1}: несут Фейерверочный лук в казарму	{0} {1}: Fejerverkų lankas nešamas į kareivines
+несут зелье отравления в казарму	nuodų eliksyras nešamas į kareivines
+несут зелье замедления в казарму	lėtinimo eliksyras nešamas į kareivines
+несут Фейерверочный лук в казарму	Fejerverkų lankas nešamas į kareivines
+Отравлен лук бойца: {0}	Kario lankas užnuodytas: {0}
+Лук бойца смазан зельем замедления: {0}	Kario lankas pateptas lėtinimo eliksyru: {0}
+На лук бойца наложен салют: {0}	Kario lankui uždėtas saliutas: {0}
+1 зелье отравления = {0} выстрелов ядом. Житель принесёт его в казарму	1 nuodų eliksyras = {0} užnuodytų šūvių. Gyventojas atneš jį į kareivines
+Тратит 1 Фейерверочный лук из Цитадели: стрела-ракета рвётся у цели	Sunaudoja 1 Fejerverkų lanką iš Citadelės: strėlė-raketa sprogsta prie taikinio
+Щит с небольшим шансом отражает снаряды обратно. Тратится лучшее ядро хаоса из Цитадели	Skydas su nedidele tikimybe atmuša sviedinius atgal. Sunaudojama geriausia chaoso šerdis iš Citadelės
+сила {0}%	jėga {0}%
+броня {0}%	šarvai {0}%
+лечение {0}%	gydymas {0}%
+сила	jėga
+броня	šarvai
+лечение	gydymas
+только рост / лечение	tik augimas / gydymas
+Усиление уже распределено, голем здоров	Stiprinimas jau paskirstytas, golemas sveikas
+Усиление: {0}/{1}%	Stiprinimas: {0}/{1}%
+осталось {0}%	liko {0}%
+распределено	paskirstyta
+Сам не лечится: раны лечат подношения у алтаря	Pats nesigydo: žaizdas gydo aukos prie altoriaus
+Погибая, взрывается и лечит своих рядом: +{0} (радиус {1})	Žūdamas sprogsta ir gydo savus šalia: +{0} (spindulys {1})
+{0} здоровья · урон {1} / {2} с · при гибели лечит +{3}	{0} gyvybės · žala {1} / {2} s · žūdamas gydo +{3}
+Подношения (еда — сила, камень — броня, травы — лечение)	Aukos (maistas — jėga, akmuo — šarvai, žolės — gydymas)
+Голем такой, каким вы его сделаете	Golemas toks, kokį jį padarysite
+еда — сила удара	maistas — smūgio jėga
+камень — броня (здоровье)	akmuo — šarvai (gyvybė)
+травы — лечение своих, когда голем погибает	žolės — savų gydymas, kai golemas žūsta
+Каждое подношение: +{0}% своему признаку из общего запаса +{1}%. Один признак — до 300%	Kiekviena auka: +{0}% savo savybei iš bendro +{1}% fondo. Viena savybė — iki 300%
+Сила +{0}% · броня +{1}% · лечение +{2}%. Общий запас — +{3}%: выберите, что качать	Jėga +{0}% · šarvai +{1}% · gydymas +{2}%. Bendras fondas — +{3}%: pasirinkite, ką stiprinti

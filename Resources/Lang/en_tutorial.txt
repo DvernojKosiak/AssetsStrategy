@@ -1,0 +1,44 @@
+# Обучение, облака и птицы (vizual-1): дополнение к en.txt
+Добро пожаловать	Welcome
+Это ваш город. Здесь вы строите дома и мастерские, кормите жителей, растите армию и защищаетесь от набегов	This is your town. Here you build houses and workshops, feed your people, raise an army and fend off raids
+Короткое обучение займёт пару минут. Его можно пропустить и пройти позже: ⚙ → Общие	This short tutorial takes a couple of minutes. You can skip it and take it later: ⚙ → General
+Камера	Camera
+Двигайте карту: клавиши WASD или стрелки, либо зажмите правую кнопку мыши и тяните	Move the map with WASD or the arrow keys, or hold the right mouse button and drag
+Колесо мыши приближает и отдаляет	The mouse wheel zooms in and out
+Сдвиньте или приблизьте карту	Move or zoom the map
+Цитадель	Citadel
+Большое здание в центре — Цитадель, сердце города. В ней склад: доски, плиты, сталь и всё, что вы купили или добыли. От её уровня зависят лимиты казны	The big building in the middle is the Citadel, the heart of the town. It holds the storehouse: planks, slabs, steel and everything you bought or looted. Its level sets the treasury limits
+Нажмите на Цитадель левой кнопкой	Left-click the Citadel
+Нажмите на Цитадель	Click the Citadel
+Казна	Treasury
+Слева сверху — казна: золото, дерево, камень и еда, под ними жители. Наведите мышь на строку, чтобы увидеть остальные запасы	Top left is the treasury: gold, wood, stone and food, with your people below. Hover over the line to see the rest of your stock
+Золото платят жители, дерево даёт Лесопилка, камень — Шахта, еду — Ферма	Gold comes from your people, wood from the Sawmill, stone from the Mine, food from the Farm
+Первая постройка	First building
+Нажмите «Постройки», выберите Жилой дом и поставьте его на свободную траву левой кнопкой. Правая кнопка или Esc — отмена	Press «Buildings», pick a House and place it on free grass with the left mouse button. Right button or Esc cancels
+В домах живут жители: чем больше домов, тем больше рабочих рук	People live in houses: more houses means more hands for work
+Поставьте Жилой дом	Place a House
+Работа	Work
+Жители сами ходят на работу. Нажмите на Лесопилку, Шахту или Ферму: в окне здания видно, сколько там работает, кнопки − и + меняют число рабочих	People go to work on their own. Click the Sawmill, the Mine or the Farm: the building window shows how many work there, and the − and + buttons change the number of workers
+Если еды мало, жители голодают и работают хуже — следите за Фермой	If food runs short, people go hungry and work worse, so keep an eye on the Farm
+Нажмите на Лесопилку, Шахту или Ферму	Click the Sawmill, the Mine or the Farm
+День и ночь	Day and night
+Внизу — часы. День сменяется ночью: ночью и в выходные на производстве остаётся только дежурная смена, остальные отдыхают дома	The clock is at the bottom. Day turns into night: at night and on weekends only a skeleton crew stays at work, everyone else rests at home
+Город и Путь	Town and Path
+Справа сверху: «Город» — сводка по городу и сбор готовых ресурсов, «Путь» — выбор направления развития, когда Цитадель подрастёт	Top right: «Town» shows a town summary and collects ready resources, «Path» lets you pick a development direction once the Citadel grows
+Защита	Defense
+Иногда на город нападают. Постройте Казарму и обучите бойцов, ставьте стены и башни. Из Казармы же можно ходить в набеги на соседние деревни за добычей	Sometimes the town is attacked. Build Barracks and train fighters, put up walls and towers. From the Barracks you can also raid nearby villages for loot
+Готово	All set
+Шестерёнка ⚙ справа сверху — настройки, язык и журнал всех сообщений. Там же можно пройти это обучение заново	The ⚙ gear at the top right holds settings, language and the log of all messages. You can take this tutorial again from there
+Удачи, правитель	Good luck, ruler
+Пропустить шаг	Skip step
+Пропустить всё	Skip all
+Начать	Start
+Играть	Play
+Далее	Next
+Назад	Back
+Закончить обучение. Пройти заново можно в ⚙ → Общие	Finish the tutorial. You can take it again in ⚙ → General
+Облака, птицы и светлячки	Clouds, birds and fireflies
+Живая природа на карте, свет в окнах ночью, пыль и искры при постройке. На слабом компьютере можно выключить	Living nature on the map, lit windows at night, dust and sparks when building. Turn off on a slow computer
+Пройти обучение заново	Take the tutorial again
+Короткое обучение для новичков: камера, Цитадель, казна, первая постройка	A short tutorial for newcomers: camera, Citadel, treasury, first building
+Обучение	Tutorial

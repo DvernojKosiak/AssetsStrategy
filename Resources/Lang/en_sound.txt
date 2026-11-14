@@ -1,0 +1,4 @@
+# Звуки (zvuki-1)
+Окружение	Ambience
+Ветер и птицы днём, сверчки и сова ночью, далёкий шум битвы	Wind and birds by day, crickets and an owl at night, distant battle noise
+Тишина, когда игра свёрнута	Mute when the game is minimized

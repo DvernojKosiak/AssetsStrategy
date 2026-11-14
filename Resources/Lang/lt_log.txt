@@ -1,0 +1,9 @@
+# Журнал сообщений и иконки бойцов: дополнение к lt.txt
+Журнал	Žurnalas
+Журнал ({0})	Žurnalas ({0})
+Очистить	Išvalyti
+Стереть все сообщения из журнала	Ištrinti visus žurnalo pranešimus
+Сообщений: {0}	Pranešimų: {0}
+Сообщений пока нет. Здесь копятся все оповещения: набеги, рынок, дозорные, производство	Pranešimų dar nėra. Čia kaupiasi visi pranešimai: antpuoliai, turgus, sargybiniai, gamyba
+ещё {0} — журнал в ⚙	dar {0} — žurnalas ⚙
+Настройки: язык, звук, аккаунт, журнал сообщений	Nustatymai: kalba, garsas, paskyra, pranešimų žurnalas

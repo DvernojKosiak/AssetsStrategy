@@ -1,0 +1,7 @@
+# Кнопки без подписей клавиш: дополнение к lt.txt
+К битве	Į mūšį
+Меню города (F): собрать всё, режим накопления, зоны ресурсов, рационы	Miesto meniu (F): surinkti viską, kaupimo režimas, išteklių zonos, racionai
+Переправы через реку (P). Секций в запасе: {0}	Perėjos per upę (P). Sekcijų atsargose: {0}
+Разведчики в накидках сидят в дозоре: видят далеко, враги их не замечают (L	Žvalgai su apsiaustais sėdi sargyboje: mato toli, priešai jų nepastebi (L
+Остановиться (S	Sustoti (S
+На вашу деревню напали — идёт война! (V	Jūsų kaimas užpultas — vyksta karas! (V

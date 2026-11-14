@@ -1,0 +1,22 @@
+# Источники ресурсов на карте войны: дополнение к lt.txt
+Каменоломня	Karjeras
+Рудник	Rūdos kasykla
+ничей	niekieno
+ваш клан	jūsų klanas
+у врага	priešo rankose
+клану в минуту	klanui per minutę
+жел	gel
+Источники	Šaltiniai
+Источники ресурсов	Išteklių šaltiniai
+вам в минуту	jums per minutę
+ничьих	niekieno
+Займите их в нейтральных землях	Užimkite juos neutraliose žemėse
+Доход делится поровну между целыми городами клана, вашему городу сейчас: {0} в минуту	Pajamos dalijamos po lygiai tarp sveikų klano miestų, jūsų miestui dabar: {0} per minutę
+Держите участок: если враг простоит на нём минуту без ваших бойцов, источник перейдёт к нему	Laikykite sklypą: jei priešas išstovės jame minutę be jūsų karių, šaltinis atiteks jam
+Чтобы забрать: приведите бойцов на этот участок и простойте минуту без врагов рядом	Kad užimtumėte: atveskite karius į šį sklypą ir išstovėkite minutę be priešų šalia
+Квадратики — источники ресурсов: золотые ничьи, синие ваши, красные врага	Kvadratėliai — išteklių šaltiniai: auksiniai niekieno, mėlyni jūsų, raudoni priešo
+Карта войны: синие участки - ваши, красные - врага, квадратики - источники ресурсов	Karo žemėlapis: mėlyni sklypai jūsų, raudoni priešo, kvadratėliai — išteklių šaltiniai
+Щёлкните, чтобы открыть большую карту	Spustelėkite, kad atvertumėte didelį žemėlapį
+Клан {0} занял {1} (участок {2}) — доход теперь идёт ему	Klanas {0} užėmė: {1} (sklypas {2}) — pajamos dabar atitenka jam
+Захваченные земли и источники принесли	Užimtos žemės ir šaltiniai atnešė
+В нейтральных землях стоят источники: деревни, лесопилки, каменоломни и рудники. Займите их участок — и источник будет приносить ресурсы, поровну всем городам клана	Neutraliose žemėse yra išteklių šaltiniai: kaimai, lentpjūvės, karjerai ir rūdos kasyklos. Užimkite sklypą, kuriame stovi šaltinis, ir jis neš išteklius po lygiai visiems klano miestams

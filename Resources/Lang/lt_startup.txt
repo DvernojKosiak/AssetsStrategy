@@ -1,0 +1,22 @@
+# Заставка и экран загрузки (zastavka-1)
+Подключение к серверу	Jungiamasi prie serverio
+Сервер не отвечает. Пробуем снова	Serveris neatsako. Bandome dar kartą
+Сервер не отвечает	Serveris neatsako
+Пробуем снова	Bandome dar kartą
+Строим город	Statomas miestas
+Совет	Patarimas
+Стройте город	Statykite miestą
+собирайте клан	burkite klaną
+воюйте за лигу	kovokite už lygą
+Город сохраняется на сервере сам: раз в полминуты и после каждой постройки	Miestas serveryje išsaugomas pats: kas pusę minutės ir po kiekvieno pastato
+Хранилища поднимают предел ресурсов. Казна упёрлась в потолок - пора строить ещё одно	Saugyklos padidina išteklių ribą. Iždas pasiekė lubas - laikas statyti dar vieną
+Руины после набега отстраиваются сами, но на восстановление уходят дерево и камень	Griuvėsiai po antpuolio atsistato patys, bet remontui reikia medienos ir akmens
+Пока идёт набег, улучшать здания нельзя. Готовьте оборону заранее	Antpuolio metu pastatų tobulinti negalima. Ruoškite gynybą iš anksto
+Курьеры в дальних рейсах едят больше. Ставьте Курьерскую ближе к работе	Kurjeriai tolimose kelionėse valgo daugiau. Statykite kurjerių namus arčiau darbo
+Аванпост Ур.4 сам отстреливается от врагов, хоть и слабее башни	4 lygio forpostas pats šaudo į priešus, nors silpniau nei bokštas
+Дороги и брусчатка соединяются сами: просто стройте их рядом	Keliai ir grindinys susijungia patys: tiesiog statykite juos greta
+В окне клана есть вкладка «Лиги»: там ваш рейтинг и рейтинг клана	Klano lange yra skirtukas „Lygos“: ten jūsų ir klano reitingas
+Пока идёт клановая война, на кнопке «Клан» горит ⚔	Kol vyksta klanų karas, ant mygtuko „Klanas“ šviečia ⚔
+Ловушки собирают в Инженерном дворе: основа и добавки меняют, как они работают	Spąstai renkami Inžinierių kieme: pagrindas ir priedai keičia, kaip jie veikia
+Отряд из лагеря можно отправить дальше кнопкой «Дальше...». Двойной клик - марш без остановок	Būrį iš stovyklos galima siųsti toliau mygtuku „Toliau...“. Dvigubas spustelėjimas - žygis be sustojimų
+Пропала связь с сервером - игра встанет на паузу и продолжится сама, когда он вернётся	Dingus ryšiui su serveriu žaidimas sustos ir tęsis pats, kai ryšys grįš

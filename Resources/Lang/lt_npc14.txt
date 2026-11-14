@@ -1,0 +1,4 @@
+# Обновление 14: NPC-деревни на сервере
+NPC · Цитадель ур	NPC · Citadelė lyg
+NPC-деревня	NPC kaimas
+Набег на NPC	Antpuolis prieš NPC

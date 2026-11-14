@@ -1,0 +1,88 @@
+# Google Play: вход через Google Play Games, удаление аккаунта, жалобы и блокировка, уведомления (пакет google-play-1)
+Войти через Google Play Games	Sign in with Google Play Games
+Без пароля: прогресс сохранится и на новом телефоне	No password needed: your progress carries over to a new phone
+или логин и пароль	or login and password
+Вход через Google Play	Signing in with Google Play
+Не удалось войти в Google Play Games	Could not sign in to Google Play Games
+Google Play Games не дал код входа	Google Play Games did not provide a sign-in code
+Google Play Games не дал код входа. Проверьте настройки (см. ЧТО_ИЗМЕНЕНО.md)	Google Play Games did not provide a sign-in code. Check the setup
+новый игрок	new player
+Уже играли? Войдите логином и паролем ниже — аккаунт сам привяжется к Google Play	Played before? Sign in with your login and password below: the account will be linked to Google Play automatically
+Начать новый город	Start a new town
+Новый аккаунт, привязанный к Google Play Games	A new account linked to Google Play Games
+Создавая аккаунт, вы принимаете	By creating an account you accept the
+Правила игры	Game rules
+Политику конфиденциальности	Privacy policy
+Аккаунт привязан к Google Play Games: на новом телефоне вы войдёте в него сами	Account linked to Google Play Games: on a new phone you will be signed in automatically
+Вход без пароля	Sign-in without password
+привязан	linked
+Не привязан: на новом телефоне нужен пароль	Not linked: a password is needed on a new phone
+Привязать	Link
+Привязать аккаунт к Google Play Games	Link the account to Google Play Games
+в версии для Android	in the Android version
+Уведомления	Notifications
+На вас напали, итог набега	You are under attack, raid result
+Стройка или улучшение готовы	Construction or upgrade complete
+Щит скоро кончится	Shield is ending soon
+Заблокированные игроки	Blocked players
+Никого. Заблокировать игрока можно в чате клана: нажмите на его сообщение	Nobody. To block a player, tap their message in the clan chat
+Разблокировать	Unblock
+Снова видеть сообщения этого игрока	See this player's messages again
+и ещё {0}	and {0} more
+Удаление аккаунта	Delete account
+Навсегда удаляются город, ресурсы, марки (и купленные), место в клане, ваши сообщения и рейтинг. Восстановить аккаунт нельзя	Your town, resources, marks (including purchased ones), clan membership, messages and rating are deleted forever. The account cannot be restored
+Чтобы удалить, введите {0}	To delete, type {0}
+Удалить аккаунт навсегда	Delete account forever
+Удаляем	Deleting
+Введите {0} в поле выше	Type {0} in the field above
+Город, марки, клан и рейтинг пропадут, вернуть их будет нельзя. Игра закроется	Your town, marks, clan and rating will be lost for good. The game will close
+Удалить	Delete
+Аккаунт удалён	Account deleted
+Все данные стёрты с сервера. Игра сейчас закроется	All data has been erased from the server. The game will now close
+Задать пароль	Set password
+Вы входите через Google Play Games. Задайте пароль, чтобы входить и по логину {0}	You sign in with Google Play Games. Set a password to also sign in with the login {0}
+Пожаловаться	Report
+Заблокировать	Block
+Сообщение	Message
+Сообщить модератору: оскорбления, спам, мошенничество	Tell a moderator: insults, spam, scams
+Не видеть сообщения этого игрока	Hide this player's messages
+Сообщить модератору о нарушении правил	Report a rule violation to a moderator
+Заблокировать {0}	Block {0}
+Вы больше не увидите сообщения этого игрока в чате клана. Снять блокировку можно в ⚙ Настройки → Аккаунт	You will no longer see this player's messages in the clan chat. You can unblock them in ⚙ Settings → Account
+{0} заблокирован(а): его сообщений больше не видно	{0} is blocked: their messages are hidden
+{0} разблокирован(а)	{0} is unblocked
+Модератор закрыл вам чат за нарушение правил	A moderator has closed the chat for you for breaking the rules
+Модератор закрыл вам чат ещё на {0} — на ваши сообщения жаловались	A moderator has closed the chat for you for another {0}: players reported your messages
+Пожаловаться на {0}	Report {0}
+Модератор проверит сообщения игрока. Отправитель жалобы игроку не показывается	A moderator will review the player's messages. The player won't see who reported them
+Оскорбления или травля	Insults or harassment
+Спам или реклама	Spam or advertising
+Мошенничество, выманивает пароль	Scam, asks for a password
+Непристойное или жестокое	Obscene or violent
+Неприемлемое имя	Inappropriate name
+Другое	Other
+Заблокировать: не видеть его сообщения	Block: hide their messages
+Отправить	Send
+Отправляем	Sending
+Выберите причину	Choose a reason
+Жалоба отправлена. Спасибо! Модератор её рассмотрит	Report sent. Thank you! A moderator will review it
+Жалоба отправлена	Report sent
+Жалоба не отправлена: {0}	Report not sent: {0}
+Жалоба не отправлена	Report not sent
+Чтобы удалить аккаунт, введите слово {0}	To delete the account, type the word {0}
+Игрок не найден	Player not found
+На себя пожаловаться нельзя	You can't report yourself
+Слишком много жалоб за сутки — попробуйте завтра	Too many reports today, try again tomorrow
+Себя заблокировать нельзя	You can't block yourself
+Заблокировать можно не больше {0} игроков	You can block at most {0} players
+Вход через Google Play Games на этом сервере не настроен	Google Play Games sign-in is not set up on this server
+Google не ответил	Google did not respond
+Войдите в Google Play Games ещё раз	Sign in to Google Play Games again
+Google не узнал игрока	Google did not recognise the player
+Google не подтвердил вход. Попробуйте ещё раз	Google did not confirm the sign-in. Try again
+Google Play Games не ответил. Попробуйте ещё раз	Google Play Games did not respond. Try again
+Этот аккаунт Google Play уже привязан к игроку «{0}»	This Google Play account is already linked to the player "{0}"
+Чат для вас закрыт до истечения {0} — на ваши сообщения пожаловались игроки	The chat is closed for you for {0}: players reported your messages
+Чат для вас закрыт до решения модератора — на ваши сообщения пожаловались игроки	The chat is closed for you until a moderator decides: players reported your messages
+{0} покинул(а) клан	{0} left the clan
+Политика конфиденциальности	Privacy policy

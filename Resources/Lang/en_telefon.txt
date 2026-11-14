@@ -1,0 +1,24 @@
+# Мобильная версия telefon-3: дополнение к en.txt
+Управление пальцами и жесты	Touch controls and gestures
+Насколько крупно рисуются окна, кнопки и надписи. На телефоне обычный размер уже рассчитан под палец; если что-то не влезает в экран — уменьшите. Нажмите на число — вернётся 100%.	How large windows, buttons and text are drawn. On a phone the normal size is already made for fingers; if something does not fit on the screen, make it smaller. Tap the number to go back to 100%.
+Удерживать палец на кнопке — подсказка к ней (кнопка не нажмётся)	Hold a finger on a button to see its hint (the button will not be pressed)
+Кнопка «Назад» телефона закрывает окно или отменяет стройку	The phone's Back button closes a window or cancels building
+Окна мелкие или крупные — ⚙ → «Размер интерфейса»	Windows too small or too large? ⚙ → «Interface size»
+Только в зелёной зоне  ·  список листается пальцем  ·  «Назад» — закрыть	Only in the green zone  ·  swipe to scroll  ·  Back to close
+«✓ Поставить» внизу · «✕ Отмена» — убрать из рук	«✓ Place» below · «✕ Cancel» to put it down
+Проверьте интернет на телефоне и адрес сервера ниже. Пробуем снова…	Check the phone's internet connection and the server address below. Retrying…
+Подряд: да	In a row: on
+Подряд: нет	In a row: off
+Линией: да	Line: on
+Линией: нет	Line: off
+«Линией» — вести пальцем, ставится по пути	«Line» — drag your finger, it is placed along the way
+«Подряд» — поставить несколько таких	«In a row» — place several of these
+Здание в руках: ведите пальцем — здание едет следом. «Поставить» или двойное нажатие — поставить. «Подряд» — после постройки взять такое же. «Линией» (дороги, стены, мосты) — вести пальцем, и они ставятся по пути.	Building in hand: move your finger and the building follows. «Place» or a double tap places it. «In a row» — take the same one again after placing. «Line» (roads, walls, bridges) — drag your finger and they are placed along the way.
+Жители едят намного меньше	Residents eat much less
+идёт {0} мин · добыча {1}% · едят меньше · прироста жителей нет	on for {0} min · production {1}% · eating less · no population growth
+◈ Магазин марок	◈ Mark shop
+Магазин марок	Mark shop
+Пока вас не было	While you were away
+Понятно	Got it
+Идёт само, даже когда вы не в игре	Keeps going even when you are not playing
+Время работы: {0}	Work time: {0}

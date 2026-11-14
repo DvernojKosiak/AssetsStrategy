@@ -1,0 +1,28 @@
+# Обновление 23: трофеи - сложные вещи из разрушенных зданий другого игрока (дополнение к en.txt)
+материал	material
+плащ	cloak
+ловушка	trap
+трофеи: {0}	trophies: {0}
+копии: {0}	copies: {0}
+отнято: {0}	taken: {0}
+отнято {0}	taken {0}
+копии {0}	copies {0}
+Трофеи: {0}	Trophies: {0}
+отняты вещи: {0}	items taken: {0}
+Трофеи разложены по складам: {0}	Trophies put away in storage: {0}
+В сундуке трофеев ждут места: {0}. Освободите место на складах (Цитадель, Хранилище, Оружейная)	Waiting in the trophy chest for free space: {0}. Free up room in storage (Citadel, Vault, Armory)
+В сундуке трофеев ждут места: {0}	Waiting in the trophy chest for free space: {0}
+Освободите место на складах (Цитадель, Хранилище, Оружейная)	Free up room in storage (Citadel, Vault, Armory)
+Сундук трофеев (ждут места на складах): {0}	Trophy chest (waiting for room in storage): {0}
+{0}: трофеи — {1}. Засчитается то, с чем бойцы уйдут с поля	{0}: trophies — {1}. Only what your fighters carry off the field counts
+Засчитается то, с чем бойцы уйдут с поля	Only what your fighters carry off the field counts
+{0}. Разложим по складам, когда армия вернётся	{0}. They will be put away in storage when the army returns
+Разложим по складам, когда армия вернётся	They will be put away in storage when the army returns
+Трофеев на сегодня больше не будет: за сутки взято всё, что можно. Простые ресурсы уносить можно	No more trophies today: you have taken the daily maximum. You can still carry off simple resources
+Потолок трофеев за этот набег набран: сложных вещей больше не выпадет, простые ресурсы уносить можно	The trophy limit for this raid is reached: no more complex items will drop, but you can still carry off simple resources
+Отнятые трофеи не засчитаны (итог набега не дошёл до сервера) и остались у хозяина: {0}	Taken trophies were not counted (the raid result did not reach the server) and stayed with the owner: {0}
+Трофейному снаряжению не хватило места в Оружейных: {0}. Оно ждёт в сундуке трофеев и само ляжет в Оружейную, когда там освободится место	Not enough room in the Armories for trophy equipment: {0}. It waits in the trophy chest and will go to an Armory by itself once there is room
+Игрок {0} в «{1}»: {2}. Отбейте бойцов - отнятое вернётся	Player {0} in «{1}»: {2}. Beat their fighters and the taken items come back
+Отбейте бойцов - отнятое вернётся	Beat their fighters and the taken items come back
+отнимают {0}	taking {0}
+копируют {0} (у вас остаётся)	copying {0} (you keep yours)

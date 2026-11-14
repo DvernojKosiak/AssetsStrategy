@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Значок и цвет push-уведомлений Strategyca (Firebase Cloud Messaging).
+     Имя пакета (namespace) задаётся в build.gradle: атрибут package здесь новый Gradle не принимает. -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+  <application>
+    <meta-data android:name="com.google.firebase.messaging.default_notification_icon" android:resource="@drawable/ic_stat_strategyca" />
+    <meta-data android:name="com.google.firebase.messaging.default_notification_color" android:resource="@color/strategyca_notify" />
+  </application>
+</manifest>

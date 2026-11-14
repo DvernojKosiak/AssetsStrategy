@@ -1,0 +1,73 @@
+# Броня, рынок и иконки: дополнение к en.txt
+Обычная усиленная броня	Common reinforced armor
+Обычная закалённая броня	Common tempered armor
+Обычная золочёная броня	Common gilded armor
+Хорошая усиленная броня	Good reinforced armor
+Хорошая закалённая броня	Good tempered armor
+Хорошая золочёная броня	Good gilded armor
+Превосходная усиленная броня	Excellent reinforced armor
+Превосходная закалённая броня	Excellent tempered armor
+Превосходная золочёная броня	Excellent gilded armor
+усиленная	reinforced
+закалённая	tempered
+золочёная	gilded
+Оружейная: броня усилена — {0}	Armory: armor upgraded — {0}
+Оружейная: броня усилена	Armory: armor upgraded
+Плащ не усиливают	Cloaks can't be upgraded
+Усилено до предела	Fully upgraded
+Не хватает	Not enough
+стали {0}/{1}	steel {0}/{1}
+камня {0}/{1}	stone {0}/{1}
+золота {0}/{1}	gold {0}/{1}
+{0} стали, {1} камня, {2} зол	{0} steel, {1} stone, {2} gold
+Улучшить до «{0}»: {1}	Upgrade to “{0}”: {1}
+Цена: {0}	Price: {0}
+Броня: урон по бойцу −25…36% (по качеству), скорость −10%. Выдаётся в казарме	Armor: damage to the soldier −25…36% (by quality), speed −10%. Issued at the barracks
+урон по бойцу −{0}% (магию не держит), скорость −{1}%, прочность {2}%	damage to the soldier −{0}% (no magic protection), speed −{1}%, durability {2}%
+ядро хаоса	chaos core
+{0} наёмника: некуда деть — потеряна	{0} of the mercenary: nowhere to put — lost
+В Оружейных нет места: {0} потеряна	No room in the Armories: {0} lost
+Пусто — доски, плиты и сталь делают в Мастерской	Empty — planks, slabs and steel are made in the Workshop
+Листва	Leaves
+Похлёбка (на кухнях)	Stew (in kitchens)
+Зелья отравления (Цитадель и Хранилища)	Poison potions (Citadel and Storehouses)
+Зелья замедления	Slowing potions
+Ловушки	Traps
+Боевые ловушки	Combat traps
+Ветка «Тяжёлая стратегия»: броня (−25…36% урона, −10% скорости), её усиливают сталью, камнем и золотом	“Heavy strategy” branch: armor (−25…36% damage, −10% speed), upgraded with steel, stone and gold
+Эффект	Effect
+Эффект ▾	Effect ▾
+Наложить эффект на этот предмет (выбор — под списком)	Apply an effect to this item (choose below the list)
+Эффект: {0}	Effect: {0}
+Закрыть	Close
+Яд	Poison
+Замедление	Slowing
+Салют	Salute
+Отравить	Poison
+Смазать	Coat
+Наложить	Apply
+осталось {0} выстр.	{0} shots left
+зелий {0}	potions: {0}
+Фейерверочных луков {0}	Firework bows: {0}
+ядер {0}	cores: {0}
+Мк.{0}, осталось {1} выстр.	Mk.{0}, {1} shots left
+Мк.{0}, отражений {1}	Mk.{0}, reflections: {1}
+Зелье уже несут	The potion is already on its way
+Яда на луке ещё много	The bow still has plenty of poison
+Зелья на луке ещё много	The bow still has plenty of potion
+Салюта на луке ещё много	The bow still has plenty of salute
+Фейерверочный лук уже несут	The firework bow is already on its way
+Нет зелий отравления (Зельеварня или рынок)	No poison potions (Potion house or market)
+Нет зелий замедления (Зельеварня или рынок)	No slowing potions (Potion house or market)
+Нет Фейерверочного лука в Цитадели — соберите его в Инженерном дворе	No firework bow in the Citadel — build one at the Engineer yard
+Нет Фейерверочного лука в Цитадели (рынок)	No firework bow in the Citadel (market)
+На щите уже есть ядро хаоса	The shield already has a chaos core
+Ядро уже несут	The core is already on its way
+Нет ядра хаоса в Цитадели — зачаруйте его в Магической оружейной	No chaos core in the Citadel — enchant one at the Magic armory
+Нет ядра хаоса в Цитадели (их делает школа Хаоса, бывают на рынке)	No chaos core in the Citadel (made by the Chaos school, sometimes on the market)
+в Оружейной ▸ «Эффект»	in the Armory ▸ “Effect”
+На лук наложен эффект салюта: {0}	Salute effect applied to the bow: {0}
+Ядро хаоса Мк.{0} несут к щиту в Оружейную	Chaos core Mk.{0} is being carried to the shield in the Armory
+Эффектов пока нет: яд и замедление — зелья (путь Магии или рынок), салют — Пиротехник	No effects yet: poison and slowing are potions (Magic path or market), salute is for the Pyrotechnician
+Эффектов пока нет: ядро хаоса делает школа Хаоса, бывает на рынке	No effects yet: chaos cores are made by the Chaos school, sometimes on the market
+Салют	Salute

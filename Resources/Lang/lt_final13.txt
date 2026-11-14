@@ -1,0 +1,17 @@
+# final-13: косметика, уведомления, общий таймер набега, лекари
+Щит	Skydas
+Враги у деревни!	Priešai prie kaimo!
+Враги отступили	Priešai atsitraukė
+Сколько ещё может идти набег на вашу деревню	Kiek dar gali trukti antpuolis prieš jūsų kaimą
+Набег на вашу деревню!	Jūsų kaimas puolamas!
+армия осматривает деревню	kariuomenė žvalgo kaimą
+идёт бой	vyksta mūšis
+армия уходит с добычей	kariuomenė traukiasi su grobiu
+армия в пути	kariuomenė pakeliui
+Игрок напал на копию вашей деревни. Таймер — сколько ещё может идти набег. Потери придут с отчётом, повтор боя — в отчёте о набеге.	Žaidėjas užpuolė jūsų kaimo kopiją. Laikmatis rodo, kiek dar gali trukti antpuolis. Nuostoliai ateis su ataskaita, mūšio įrašas – antpuolio ataskaitoje.
+Ещё сообщения — в журнале (⚙ → Журнал)	Daugiau pranešimų – žurnale (⚙ → Žurnalas)
+Осмотр · до конца набега	Žvalgyba · iki antpuolio pabaigos
+Отступление	Atsitraukimas
+До конца набега	Iki antpuolio pabaigos
+{0} обороняется сам	{0} ginasi pats
+Несколько магов в одного бойца подряд лечат слабее: 100%, 60%, 35%, 15%	Keli magai, iš eilės gydantys tą patį karį, gydo silpniau: 100%, 60%, 35%, 15%

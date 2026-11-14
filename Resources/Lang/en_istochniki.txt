@@ -1,0 +1,22 @@
+# Источники ресурсов на карте войны: дополнение к en.txt
+Каменоломня	Quarry
+Рудник	Ore mine
+ничей	unclaimed
+ваш клан	your clan
+у врага	held by the enemy
+клану в минуту	to the clan per minute
+жел	ir
+Источники	Sources
+Источники ресурсов	Resource sources
+вам в минуту	to you per minute
+ничьих	unclaimed
+Займите их в нейтральных землях	Take them in the neutral lands
+Доход делится поровну между целыми городами клана, вашему городу сейчас: {0} в минуту	The income is shared equally between the clan's standing towns, your town now gets: {0} per minute
+Держите участок: если враг простоит на нём минуту без ваших бойцов, источник перейдёт к нему	Hold the plot: if the enemy stays on it for a minute with none of your fighters around, the source goes to them
+Чтобы забрать: приведите бойцов на этот участок и простойте минуту без врагов рядом	To take it: bring fighters to this plot and stay for a minute with no enemies nearby
+Квадратики — источники ресурсов: золотые ничьи, синие ваши, красные врага	Squares are resource sources: gold — unclaimed, blue — yours, red — the enemy's
+Карта войны: синие участки - ваши, красные - врага, квадратики - источники ресурсов	War map: blue plots are yours, red are the enemy's, squares are resource sources
+Щёлкните, чтобы открыть большую карту	Click to open the big map
+Клан {0} занял {1} (участок {2}) — доход теперь идёт ему	Clan {0} took the {1} (plot {2}) — its income now goes to them
+Захваченные земли и источники принесли	Captured lands and sources brought
+В нейтральных землях стоят источники: деревни, лесопилки, каменоломни и рудники. Займите их участок — и источник будет приносить ресурсы, поровну всем городам клана	The neutral lands hold resource sources: villages, sawmills, quarries and ore mines. Take the plot a source stands on and it will bring resources, shared equally by all the clan's towns

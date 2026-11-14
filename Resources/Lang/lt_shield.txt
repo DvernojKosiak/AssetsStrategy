@@ -1,0 +1,29 @@
+# Щит города (пакет shchit-1)
+Щит города	Miesto skydas
+Пока стоит щит, другие игроки не видят ваш город во вкладке «Бой». Нажмите, чтобы узнать больше или снять щит	Kol skydas veikia, kiti žaidėjai nemato jūsų miesto skiltyje „Mūšis“. Spustelėkite, kad sužinotumėte daugiau arba nuimtumėte skydą
+Город под щитом ещё	Miestą skydas saugos dar
+Пока стоит щит, другие игроки не видят ваш город во вкладке «Бой» и не могут на него напасть. Набеги соседей щит не останавливает	Kol skydas veikia, kiti žaidėjai nemato jūsų miesto skiltyje „Mūšis“ ir negali jo pulti. Kaimynų antpuolių skydas nesustabdo
+Щита сейчас нет	Skydo dabar nėra
+Щит после набега игрока — чем сильнее разорили, тем дольше	Skydas po žaidėjo antpuolio: kuo didesni nuostoliai, tuo ilgiau jis veikia
+Отбились: ничего не унесли и не разрушили	Atsilaikėte: nieko neišnešė ir nesugriovė
+Лёгкий урон	Nedideli nuostoliai
+Заметный урон	Pastebimi nuostoliai
+Разрушена треть города или снесена Цитадель	Sugriauta trečdalis miesto arba nugriauta Citadelė
+Разрушена половина города	Sugriauta pusė miesto
+Город почти разрушен	Miestas beveik sugriautas
+Снять щит	Nuimti skydą
+Снимаем щит…	Nuimame skydą…
+Снять щит?	Nuimti skydą?
+Город снова появится у других игроков во вкладке «Бой». Пригодится, если вы готовы обороняться	Miestas vėl atsiras kitų žaidėjų skiltyje „Mūšis“. Pravers, jei esate pasiruošę gintis
+Ваш город снова смогут найти и атаковать другие игроки. Вернуть щит нельзя: новый появится только после следующего набега на вас	Kiti žaidėjai vėl galės rasti ir pulti jūsų miestą. Skydo grąžinti negalima: naujas atsiras tik po kito antpuolio
+Щит снят: ваш город снова виден другим игрокам	Skydas nuimtas: jūsų miestas vėl matomas kitiems žaidėjams
+Сервер старой версии: обновите StrategycaServer, чтобы снимать щит	Sena serverio versija: atnaujinkite StrategycaServer, kad galėtumėte nuimti skydą
+Щит не снят: {0}	Skydas nenuimtas: {0}
+Ваш город под щитом ещё {0}	Miestą skydas saugos dar {0}
+Пока стоит щит, другие игроки не видят ваш город во вкладке «Бой». Снять его можно кнопкой «Щит города» слева вверху	Kol skydas veikia, kiti žaidėjai nemato jūsų miesto skiltyje „Mūšis“. Jį nuimti galima mygtuku „Miesto skydas“ viršuje kairėje
+Сервер подберёт деревню другого игрока похожей силы. Города под щитом не попадаются. Пока идёт ваш набег, на эту деревню не нападёт никто другой	Serveris parinks panašios galios kito žaidėjo kaimą. Miestai su skydu nepasitaiko. Kol vyksta jūsų antpuolis, to kaimo niekas kitas nepuls
+{0}набег игрока {1} на вашу деревню: {2}{3}	{0}žaidėjo {1} antpuolis į jūsų kaimą: {2}{3}
+отбились, ничего не унесли{0}	atsilaikėte, nieko neišnešė{0}
+отбились, ничего не унесли	atsilaikėte, nieko neišnešė
+унесено {0}{1}{2}	išnešta {0}{1}{2}
+Щит города на {0}: другие игроки вас пока не найдут	Miesto skydas {0}: kiti žaidėjai jūsų kol kas neras

@@ -1,0 +1,10 @@
+# Обновление 21: ускорение за марки, режим накопления без ночи и выходных - дополнение к en.txt
+Ускорить · {0} ◈	Speed up · {0} ◈
+Ускорить	Speed up
+Ускорить за {0} марок?	Speed up for {0} marks?
+{0} будет готово сразу. Осталось ждать {1}. У вас {2} марок.	{0} will be finished right away. Time left: {1}. You have {2} marks.
+Закончить сразу за {0} марок (у вас {1}). Цена зависит от того, сколько осталось ждать, и от уровня: чем ближе к концу, тем дешевле. Можно и не ускорять: идёт само, даже когда вы не в игре.	Finish right away for {0} marks (you have {1}). The price depends on the time left and the level: the closer to the end, the cheaper. You can also just wait: it keeps going even when you are not playing.
+Не хватает марок: нужно {0}, у вас {1}. Идёт само, даже когда вы не в игре.	Not enough marks: need {0}, you have {1}. It keeps going even when you are not playing.
+{0}: готово сразу за {1} марок	{0}: finished right away for {1} marks
+Ночью и в выходные все рабочие тоже на местах.	At night and on weekends all workers stay at work too.
+Режим накопления: все рабочие на местах и ночью, и в выходные	Accumulation mode: all workers stay at work at night and on weekends

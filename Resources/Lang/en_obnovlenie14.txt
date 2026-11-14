@@ -1,0 +1,60 @@
+# Обновление 14: основная игра (дополнение к en.txt)
+{0}: пока вас не было, очередь училась — бойцы выйдут один за другим	{0}: the queue kept training while you were away — fighters will come out one after another
+пока вас не было, очередь училась — бойцы выйдут один за другим	the queue kept training while you were away — fighters will come out one after another
+Армия отступила из деревни {0}, пока вас не было, и идёт домой с тем, что несла	The army retreated from {0} while you were away and is heading home with what it carried
+Армия пришла, пока вас не было: добыча уже в казне	The army came home while you were away: the loot is already in the treasury
+Боец в походе — снаряжение выдают только в казарме	The fighter is on a campaign — gear is handed out only in the barracks
+Боец не в казарме — снаряжение выдают только в казарме. Пусть вернётся (кнопка «Домой» у отряда)	The fighter is not in the barracks — gear is handed out only in the barracks. Send them back (the squad's «Home» button)
+Боец не в казарме — снаряжение выдают только в казарме	The fighter is not in the barracks — gear is handed out only in the barracks
+Пусть вернётся (кнопка «Домой» у отряда)	Send them back (the squad's «Home» button)
+В походе: снаряжение не выдать	On a campaign: gear can't be given
+Не в казарме: снаряжение не выдать	Not in the barracks: gear can't be given
+снаряжение не выдать	gear can't be given
+в походе	on a campaign
+не в казарме	not in the barracks
+Казарма: выдано снаряжения — {0}. Не в казарме: {1} — выдайте, когда вернутся	Barracks: gear handed out — {0}. Not in the barracks: {1} — equip them when they return
+Не в казарме: {0} — выдайте, когда вернутся	Not in the barracks: {0} — equip them when they return
+Каждому бойцу в казарме без оружия, щита, брони или плаща — лучшее, что есть в Оружейных (разведчикам и стрелкам — плащи, остальным — броня). Кто сейчас на карте или в походе — нажмите ещё раз, когда он вернётся в казарму	Every fighter in the barracks without a weapon, shield, armor or cloak gets the best from the Armories (scouts and archers get cloaks, others armor). Fighters out on the map or on a campaign: press again when they are back in the barracks
+Эффекты на снаряжение бойца	Effects on the fighter's gear
+Замедл	Slow
+Салют	Salute
+Ядро хаоса	Chaos core
+Хаос	Chaos
+Боец в походе — эффекты накладывают только в казарме	The fighter is on a campaign — effects are applied only in the barracks
+Боец не в казарме — пусть вернётся в казарму	The fighter is not in the barracks — send them back
+У бойца нет лука	The fighter has no bow
+У бойца нет щита	The fighter has no shield
+Бойца нет	No fighter
+{0} {1}: несут зелье отравления в казарму	{0} {1}: a poison potion is being carried to the barracks
+{0} {1}: несут зелье замедления в казарму	{0} {1}: a slowing potion is being carried to the barracks
+{0} {1}: несут Фейерверочный лук в казарму	{0} {1}: a Firework bow is being carried to the barracks
+несут зелье отравления в казарму	a poison potion is being carried to the barracks
+несут зелье замедления в казарму	a slowing potion is being carried to the barracks
+несут Фейерверочный лук в казарму	a Firework bow is being carried to the barracks
+Отравлен лук бойца: {0}	The fighter's bow is poisoned: {0}
+Лук бойца смазан зельем замедления: {0}	The fighter's bow is coated with slowing potion: {0}
+На лук бойца наложен салют: {0}	Salute applied to the fighter's bow: {0}
+1 зелье отравления = {0} выстрелов ядом. Житель принесёт его в казарму	1 poison potion = {0} poisoned shots. A villager will bring it to the barracks
+Тратит 1 Фейерверочный лук из Цитадели: стрела-ракета рвётся у цели	Uses 1 Firework bow from the Citadel: the rocket arrow explodes at the target
+Щит с небольшим шансом отражает снаряды обратно. Тратится лучшее ядро хаоса из Цитадели	The shield has a small chance to reflect projectiles back. Uses the best chaos core from the Citadel
+сила {0}%	power {0}%
+броня {0}%	armor {0}%
+лечение {0}%	healing {0}%
+сила	power
+броня	armor
+лечение	healing
+только рост / лечение	growth / healing only
+Усиление уже распределено, голем здоров	Boost already spent, the golem is healthy
+Усиление: {0}/{1}%	Boost: {0}/{1}%
+осталось {0}%	{0}% left
+распределено	all spent
+Сам не лечится: раны лечат подношения у алтаря	Does not heal by itself: offerings at the altar heal its wounds
+Погибая, взрывается и лечит своих рядом: +{0} (радиус {1})	When it dies, it bursts and heals allies nearby: +{0} (radius {1})
+{0} здоровья · урон {1} / {2} с · при гибели лечит +{3}	{0} health · damage {1} / {2} s · heals +{3} on death
+Подношения (еда — сила, камень — броня, травы — лечение)	Offerings (food — power, stone — armor, herbs — healing)
+Голем такой, каким вы его сделаете	The golem is what you make it
+еда — сила удара	food — strike power
+камень — броня (здоровье)	stone — armor (health)
+травы — лечение своих, когда голем погибает	herbs — healing allies when the golem dies
+Каждое подношение: +{0}% своему признаку из общего запаса +{1}%. Один признак — до 300%	Each offering: +{0}% to its trait out of a shared pool of +{1}%. One trait — up to 300%
+Сила +{0}% · броня +{1}% · лечение +{2}%. Общий запас — +{3}%: выберите, что качать	Power +{0}% · armor +{1}% · healing +{2}%. Shared pool — +{3}%: choose what to grow

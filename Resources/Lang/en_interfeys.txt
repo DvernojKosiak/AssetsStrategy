@@ -1,0 +1,136 @@
+# interfeys-1: новые надписи и те же строки с длинным тире « — » вместо « - »
+Ловушки ▴	Traps ▴
+Заслоны ▴	Barricades ▴
+Ловушки (T): поставить из запаса	Traps (T): place from stock
+Полевые укрепления (B): заслоны, пункты	Field fortifications (B): barricades, posts
+Отменить (ПКМ / Esc	Cancel (RMB / Esc
+Отменить установку (ПКМ / Esc	Cancel placing (RMB / Esc
+Написать клану	Message your clan
+Ядра прямой наводкой: лучшая против стен, ворот и зданий; осколки ранят тех, кто за целью. Модули и снаряды берёт сама; вид снарядов — в «Снаряж	Direct-fire cannonballs: best against walls, gates and buildings; shrapnel wounds those behind the target. Takes modules and shells itself; shell type — in «Equip
+Порции берутся с Кухни. Кухня вплотную к казарме (или к группе казарм) — подаётся сразу, иначе порцию несёт житель, и обучение ждёт	Servings are taken from the Kitchen. A kitchen adjacent to the barracks (or a group of barracks) serves right away, otherwise a villager carries the serving and training waits
+Кликнуть по карте: отряд пойдёт туда, разобьёт лагерь и будет жить на своих припасах (Esc — отмена	Click on the map: the squad will go there, set up camp and live on its own supplies (Esc - cancel
+Каждому бойцу без оружия, щита, брони или плаща — лучшее, что есть в Оружейных (разведчикам и стрелкам — плащи, остальным — броня	Every soldier without a weapon, shield, armor or cloak gets the best there is in the Armories (scouts and shooters get cloaks, the rest get armor
+Зарядить: {0} (пачек: {1}). Прежняя пачка — в Цитадель. Этот вид пушка будет брать сама	Load: {0} (packs: {1}). The previous pack goes to the Citadel. The cannon will take this type itself
+Прежняя пачка — в Цитадель. Этот вид пушка будет брать сама	The previous pack goes to the Citadel. The cannon will take this type itself
+{0}: пачек нет — их делает Магическая оружейная или продаёт рынок	{0}: no packs - made by the Magic Armory or sold at the market
+пачек нет — их делает Магическая оружейная или продаёт рынок	no packs - made by the Magic Armory or sold at the market
+Снарядов нет — пушка сама берёт пачку со склада (где бы ни стояла дома, не в бою	No shells - the cannon takes a pack from storage itself (wherever it stands at home, not in battle
+Пачку — обратно в Цитадель (Авто выключится	Pack goes back to the Citadel (Auto will turn off
+Оружие — на склад Оружейной	Weapon - to the Armory storage
+Щит — на склад Оружейной	Shield - to the Armory storage
+Разрушен — здесь снова река	Destroyed - the river is here again
+Поднят — не проходит никто	Raised - nobody can pass
+Опущен — проходят все	Lowered - everyone can pass
+Поднятый мост не пропускает никого — ни врагов, ни своих. Поднимается весь пролёт	A raised bridge lets nobody through - neither enemies nor your own. The whole span is raised
+Пока мост не отстроят, мирные не пройдут, солдаты — только вброд	Until the bridge is rebuilt, civilians can't pass, soldiers — only by fording
+По мосту ходят все. Сломанный мост — снова река, пока его не отстроят	Everyone walks across the bridge. A broken bridge is a river again until it's rebuilt
+Работает вполсилы — на	Working at half strength - at
+Закрепите курьеров за зданиями — они носят накопленное в Цитадель. За аванпостами — возят туда еду из Цитадели	Assign couriers to buildings - they carry the stockpile to the Citadel. Assigned to outposts - they take food there from the Citadel
+Сборка стоит — нет инженеров ({0}	Assembly stopped - no engineers ({0}
+Сборка стоит — нет инженеров	Assembly stopped - no engineers
+Ставятся дома в мирное время, в зелёной зоне (кнопка «Ловушки» [T]). Военное дело переделывает их в боевые в Кузне мастера — продайте на рынке	Placed at home in peacetime, in the green zone («Traps» button [T]). Military Affairs converts them into battle traps at the Master's Smithy - sell them on the market
+С двором Ур.2 — до {0} добавок	With yard Lv.2 - up to {0} additives
+С двором Ур.2 — до	With yard Lv.2 - up to
+шипы: {0}% удара вплотную — обратно, {1}/с прижатым	spikes: {0}% of a close hit comes back, {1}/s to the pinned
+удара вплотную — обратно	of a close hit comes back
+Выбрать место на карте (ЛКМ — поставить	Choose a place on the map (LMB - place
+R — повернуть	R - rotate
+Shift — ещё, ПКМ / Esc — отмена	Shift - more, RMB / Esc - cancel
+Убрать — вещь вернётся в запас	Remove - the item returns to stock
+Разобрать — вернётся {0} дерева	Dismantle - {0} wood will return
+Разобрать — вернётся	Dismantle - will return
+Нельзя ставить на бойцов, в тумане, рядом с врагами; в набеге — только рядом со своими бойцами	Can't be placed on soldiers, in fog, near enemies; in a raid - only near your own soldiers
+Быстрый заслон (Военный строитель) — сразу за дерево. B — открыть / закрыть	Quick barricade (War builder) - right away for wood. B - open / close
+Авария: котлы остывают — {0} с	Accident: the boilers are cooling - {0} s
+Плавка стоит — нет литейщиков ({0}	Smelting stopped - no founders ({0}
+Плавка стоит — нет литейщиков	Smelting stopped - no founders
+На 100% жара — перегрев: котлы сбрасываются на «Обычный», литейная стоит {0} с (авария	At 100% heat - overheating: the boilers reset to «Normal», the foundry stops for {0} s (accident
+На 100% жара — перегрев: котлы сбрасываются на «Обычный», литейная стоит	At 100% heat - overheating: the boilers reset to «Normal», the foundry stops for
+Детали и резина — в Цитадели. Руда и смола берутся из казны, сталь — со склада Цитадели или Хранилища	Parts and rubber are in the Citadel. Ore and resin are taken from the treasury, steel - from the Citadel storage or a Vault
+Оранжевая метка — опасно ({0}%), голубая — предохранитель ({1}	Orange mark - dangerous ({0}%), blue - safety valve ({1}
+Оранжевая метка — опасно	Orange mark - dangerous
+голубая — предохранитель	blue - safety valve
+На 100% — авария на {0} с или пожар (шанс {1}	At 100% - an accident for {0} s or a fire (chance {1}
+На 100% — авария на	At 100% - an accident for
+При {0}% жара котлы сами переключаются на «Обычный». Выключите — и жгите до упора на свой риск	At {0}% heat the boilers switch to "Normal" by themselves. Turn it off and burn to the limit at your own risk
+жара котлы сами переключаются на «Обычный». Выключите — и жгите до упора на свой риск	heat the boilers switch to "Normal" by themselves. Turn it off and burn to the limit at your own risk
+Выгнать из клана, уволить бойцов, выйти из аккаунта, отменить поход — сначала появится вопрос «Точно	Kick from the clan, dismiss soldiers, log out, cancel a march - a "Are you sure
+В Оружейной нет ядер — их делает Инженерный двор	No balls in the Armory - the Engineer Yard makes them
+Ядро кончилось — сразу взять следующее из Оружейной	Ball used up - take the next one from the Armory right away
+Ядро — обратно в Оружейную	Ball - back to the Armory
+Вне зелёной зоны — не стреляет	Outside the green zone - won't fire
+Враг за стеной — не достать	Enemy behind a wall - out of reach
+Дальность: {0} кл. (вплотную — не ближе {1}). Перезарядка: {2} с. Выстрелов: {3}	Range: {0} cells (point-blank - no closer than {1}). Reload: {2} s. Shots: {3}
+кл. (вплотную — не ближе	cells (point-blank - no closer than
+Ровно: 1 дерево / 3 с. Производства на площадке +20%. Жар спадает — так можно хоть вечно	Steady: 1 wood / 3 s. Production on the site +20%. Heat drops - you can keep this forever
+Предел: 1 дерево / с. Производства +75%, жар растёт быстро — до взрыва меньше минуты	Limit: 1 wood / s. Production +75%, heat rises fast - less than a minute to an explosion
+Завод: в казне кончилось дерево — печи гаснут, площадка работает без бонуса	Plant: the treasury ran out of wood - the furnaces go out, the site works without a bonus
+Завод раскалился ({0}%)! Сбавьте печи — иначе взрыв и поломка всей площадки	The plant is red-hot ({0}%)! Lower the furnaces - or an explosion will break the whole site
+Сбавьте печи — иначе взрыв и поломка всей площадки	Lower the furnaces - or an explosion will break the whole site
+ВЗРЫВ НА ЗАВОДЕ! Задето построек: {0}. Сломано производств: {1} — стоят {2} с	EXPLOSION AT THE PLANT! Buildings hit: {0}. Productions broken: {1} - stopped for {2} s
+Ремонт после взрыва — {0} с	Repair after the explosion - {0} s
+Печи погашены — бонуса нет	Furnaces out - no bonus
+На площадке нет производств — печи не топят	No productions on the site - the furnaces aren't fired
+Нет дерева в казне — печи гаснут	No wood in the treasury - the furnaces go out
+Площадка — квадрат {0} клеток вокруг завода (Ур.1-3: 6/7/8). Производства в ней работают быстрее, пока завод топят деревом из казны	Site - a {0}-cell square around the plant (Lv.1-3: 6/7/8). Productions in it work faster while the plant is fired with wood from the treasury
+Площадка — квадрат	Site - a square of
+На 100% — взрыв: завод и все постройки площадки теряют {0}% прочности, производства стоят {1} с	At 100% - explosion: the plant and all site buildings lose {0}% durability, productions stop for {1} s
+На 100% — взрыв: завод и все постройки площадки теряют	At 100% - explosion: the plant and all site buildings lose
+завод — {0} с. Предохранитель сбрасывает печи на «Ровно» при {1}	plant - {0} s. The safety valve resets the furnaces to "Steady" at {1}
+Завод берёт дерево прямо из казны. Кончится дерево — печи гаснут и площадка теряет бонус	The plant takes wood straight from the treasury. If wood runs out, the furnaces go out and the site loses its bonus
+На 100% — взрыв: вся площадка ломается на {0} с	At 100% - explosion: the whole site breaks for {0} s
+На 100% — взрыв: вся площадка ломается на	At 100% - explosion: the whole site breaks for
+При {0}% жара печи сами переходят на «Ровно» и остывают. Выключите — и жгите до упора на свой риск	At {0}% heat the furnaces switch to "Steady" by themselves and cool down. Turn it off and burn to the limit at your own risk
+жара печи сами переходят на «Ровно» и остывают. Выключите — и жгите до упора на свой риск	heat the furnaces switch to "Steady" by themselves and cool down. Turn it off and burn to the limit at your own risk
+Сломано взрывом: {0} — починят через {1} с	Broken by the explosion: {0} - repaired in {1} s
+Варка идёт {0} с и даёт {1} порц. Ягоды — со Станции собирателей, овёс — с фермы Ур.3	Cooking takes {0} s and gives {1} portions. Berries - from the Gatherers' Station, oats - from a Lv.3 farm
+порц. Ягоды — со Станции собирателей, овёс — с фермы Ур.3	portions. Berries - from the Gatherers' Station, oats - from a Lv.3 farm
+Рядом казарм: {0} — похлёбка идёт туда сама	Barracks nearby: {0} - stew goes there by itself
+Рядом нет казарм — носят курьеры	No barracks nearby - couriers carry it
+Кухня варит сама, пока есть продукты и место. Последние {0} еды не трогает — их едят жители	The kitchen cooks by itself while there is food and room. It doesn't touch the last {0} food - the citizens eat it
+еды не трогает — их едят жители	food - the citizens eat it
+Зачаровка стоит — мало маны ({0}	Enchanting stopped - not enough mana ({0}
+Зачаровка стоит — мало маны	Enchanting stopped - not enough mana
+Стоит — нет чародеев ({0}	Stopped - no enchanters ({0}
+Стоит — нет чародеев	Stopped - no enchanters
+{0} Мк.{1} — {2}	{0} Mk.{1} - {2}
+Авто: город сам ставит сюда людей, сколько нужно. Кнопки — / + переключают на ручной выбор	Auto: the town assigns as many people here as needed. The - / + buttons switch to manual choice
+Варка стоит — мало маны ({0}	Brewing stopped - not enough mana ({0}
+Варка стоит — мало маны	Brewing stopped - not enough mana
+Готовые зелья несут в Цитадель или Хранилище, оттуда — в Оружейную (отравленные луки) и в казарму (маг-отравитель	Finished potions are carried to the Citadel or Vault, from there to the Armory (poisoned bows) and the barracks (poisoner mage
+Травы и смола — в казне Цитадели. На станциях ещё ждут трав: {0}	Herbs and resin are in the Citadel treasury. Herbs still waiting at the stations: {0}
+Травы и смола — в казне Цитадели. На станциях ещё ждут трав	Herbs and resin are in the Citadel treasury. Herbs still waiting at the stations
+Какое зелье варить постоянно (галочка — замедление	Which potion to brew continuously (checked - slowing
+Выбрать место на карте (ЛКМ — поставить, Shift — ещё, ПКМ / Esc — отмена	Choose a spot on the map (LMB - place, Shift - more, RMB / Esc - cancel
+Снять ловушку — вернётся в запас	Remove the trap - it returns to stock
+Обычные — дома в мирное время, в своей зелёной зоне. Боевые — в бою: дома во время войны и в набеге	Regular - at home in peacetime, in your green zone. Combat - in battle: at home during war and on a raid
+Нельзя: на занятые клетки, в тумане, рядом с врагами, вплотную к другой ловушке. T — открыть / закрыть	Not allowed: on occupied cells, in the fog, near enemies, right next to another trap. T - open / close
+За кадром обоз едет {0} с (выше уровень — быстрее). Во время войны обоз ждёт за краем карты	Off-screen the caravan travels {0} s (higher level - faster). During war the caravan waits beyond the map edge
+с (выше уровень — быстрее). Во время войны обоз ждёт за краем карты	s (higher level - faster). During war the caravan waits beyond the map edge
+Shift — шаг 100	Shift - step 100
+если снести его самому — всё вернётся в Цитадель	if you demolish it yourself - everything returns to the Citadel
+Не изготавливается — ставится на месте за дерево	Not crafted - placed on site for wood
+Укрепления и ловушки делают разные мастера — параллельно. Нужен мастер (рабочий	Fortifications and traps are made by different masters - in parallel. A master (worker) is needed
+Мини-игра: три удара по наковальне — заточка (урон), закалка (прочность), баланс (скорость удара	Mini-game: three strikes on the anvil - sharpening (damage), tempering (durability), balance (strike speed
+Бейте, когда ползунок в зелёном центре: чем точнее, тем больше прибавка. Итог — звёзды ★ в названии. Оружие доводят один раз	Strike when the slider is in the green center: the more precise, the bigger the bonus. The result - stars ★ in the name. A weapon is finished only once
+Сила кузни ×{0} — прочность и лечебный запас. Изготовлено всего: {1}	Smithy power ×{0} - durability and healing reserve. Crafted in total: {1}
+Обычная ловушка из запаса Цитадели становится БОЕВОЙ: её ставят прямо в бою — дома во время войны и в набеге (не в зелёной зоне врага	A regular trap from the Citadel stock becomes a COMBAT one: it's set right in battle - at home during war and on a raid (not in the enemy's green zone
+Обычные ловушки — с рынка (их собирают инженеры). Переделано всего: {0}	Regular traps - from the market (engineers assemble them). Reworked in total: {0}
+Обычные ловушки — с рынка (их собирают инженеры). Переделано всего	Regular traps - from the market (engineers assemble them). Reworked in total
+Название — от 3 символов	Name - at least 3 characters
+Цена — число больше нуля	Price - a number greater than zero
+Товар сразу уйдёт из казны. Снимете лот — вернётся	The goods leave the treasury at once. Withdraw the lot - they'll return
+Боец сразу уйдёт из казармы. Снимете лот — вернётся наёмником	The fighter leaves the barracks at once. Withdraw the lot - he'll return as a mercenary
+Вещь сразу уйдёт из города. Снимете лот — вернётся	The item leaves town at once. Withdraw the lot - it'll return
+Логин — от {0} символов	Username - at least {0} characters
+Логин — от	Username - at least
+Логин — не длиннее {0} символов	Username - no longer than {0} characters
+Логин — не длиннее	Username - no longer than
+Пароль — от {0} символов	Password - at least {0} characters
+Пароль — от	Password - at least
+Имя — не длиннее {0} символов	Name - no longer than {0} characters
+Имя — не длиннее	Name - no longer than
+На войну: ваш город стоит на большой общей карте, вокруг — союзники, враги и нейтральные земли. Отдалите камеру — увидите всю карту	To war: your town stands on the big shared map, around it - allies, enemies and neutral lands. Zoom out the camera - you'll see the whole map
+Название клана — от 3 до 20 символов	Clan name - from 3 to 20 characters
+Исключать можно только тех, у кого роль ниже вашей (старейшина — участников, заместитель — и старейшин	You can kick only those whose role is below yours (elder - members, co-leader - elders too
+Город копит ресурсы: работают только добытчики (вполсилы), рабочие остальных зданий идут домой, здания на паузе ничего не тратят, новые жители не приходят. Выключите — и рабочие вернутся	The town saves up resources: only producers work (at reduced speed), workers of all other buildings go home, paused buildings spend nothing, no new residents arrive. Turn it off and the workers come back

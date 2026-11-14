@@ -1,0 +1,11 @@
+# final-13-fix-2: мелкие уведомления, окно «В бой», война кланов
+Мелкие уведомления (склад, кухня, производство)	Smulkūs pranešimai (sandėlis, virtuvė, gamyba)
+Будничные вести — маленькой плашкой и без звука. Выключите — они будут только в журнале (⚙ → Журнал). О нападениях и войне игра сообщает всегда.	Kasdienės žinios rodomos maža plokštele be garso. Išjunkite – jos bus tik žurnale (⚙ → Žurnalas). Apie puolimus ir karą žaidimas praneša visada.
+Бойцов:	Karių:
+(в казне {0})	(iždė {0})
+Лагерь у высадки	Išsilaipinimo stovykla
+{0} дерева	{0} medienos
+Взять голема	Pasiimti golemą
+здоровье {0}%	sveikata {0}%
+Голем	Golemas
+Нажмите и проведите пальцем по карте — выберете всех своих бойцов в рамке. Потом палец снова двигает карту	Paspauskite ir veskite pirštu per žemėlapį – pažymėsite visus savo karius rėmelyje. Po to pirštas vėl stumdo žemėlapį

@@ -1,0 +1,4 @@
+# Обновление 14: NPC-деревни на сервере
+NPC · Цитадель ур	NPC · Citadel lv
+NPC-деревня	NPC village
+Набег на NPC	Raid on NPC

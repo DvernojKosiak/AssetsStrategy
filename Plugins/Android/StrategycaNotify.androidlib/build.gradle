@@ -1,0 +1,21 @@
+// Значок push-уведомлений Strategyca: только ресурсы (res/) и две строки в манифесте, кода нет.
+// Версии SDK берём у Unity (unity.* из gradle.properties сборки), чтобы они всегда совпадали с игрой.
+apply plugin: 'com.android.library'
+
+android {
+    namespace "com.cineticagames.strategyca.notify"
+    compileSdk getProperty("unity.compileSdkVersion") as int
+    buildToolsVersion getProperty("unity.buildToolsVersion")
+
+    defaultConfig {
+        minSdk getProperty("unity.minSdkVersion") as int
+    }
+
+    // Файлы лежат прямо в папке .androidlib, а не в src/main
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            res.srcDirs = ['res']
+        }
+    }
+}

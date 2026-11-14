@@ -1,0 +1,3 @@
+StrategycaSans = Liberation Sans 2 (буквы, лицензия SIL Open Font License 1.1)
++ значки из DejaVu Sans (лицензия Bitstream Vera / DejaVu, свободная).
+Шрифт переименован, как требуют обе лицензии. Можно свободно использовать в игре, в том числе платной.

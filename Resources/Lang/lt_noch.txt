@@ -1,0 +1,28 @@
+# Ночь, выходные и режим накопления (камень): дополнение к lt.txt
+Камень на содержание не тратится, он копится целиком	Akmuo išlaikymui neleidžiamas, jis kaupiamas visas
+ночь · работа {0}%	naktis · darbas {0}%
+выходной · работа {0}%	poilsio diena · darbas {0}%
+ночь · работа {0}	naktis · darbas {0}
+выходной · работа {0}	poilsio diena · darbas {0}
+Ночь: рабочие спят дома	Naktis: darbininkai miega namuose
+Выходной: рабочие отдыхают дома	Poilsio diena: darbininkai ilsisi namuose
+В зданиях осталась только дежурная смена ({0}–{1} чел.), поэтому ресурсы копятся медленнее: сейчас работает {2}% рабочих	Pastatuose liko tik budinti pamaina ({0}–{1} žm.), todėl ištekliai kaupiasi lėčiau: dabar dirba {2}% darbininkų
+В зданиях осталась только дежурная смена ({0}–{1} чел.), поэтому ресурсы копятся медленнее	Pastatuose liko tik budinti pamaina ({0}–{1} žm.), todėl ištekliai kaupiasi lėčiau
+В зданиях осталась только дежурная смена ({0} чел.), поэтому ресурсы копятся медленнее: сейчас работает {1}% рабочих	Pastatuose liko tik budinti pamaina ({0} žm.), todėl ištekliai kaupiasi lėčiau: dabar dirba {1}% darbininkų
+Все выйдут на работу утром (06:00), через {0} мин	Visi grįš į darbą ryte (06:00), po {0} min
+Все выйдут на работу утром (06:00), через {0} ч {1} мин	Visi grįš į darbą ryte (06:00), po {0} val. {1} min
+Все выйдут на работу в понедельник утром, через {0} мин	Visi grįš į darbą pirmadienio rytą, po {0} min
+Все выйдут на работу в понедельник утром, через {0} ч {1} мин	Visi grįš į darbą pirmadienio rytą, po {0} val. {1} min
+Утро: рабочие вернулись в здания, добыча снова в полную силу	Rytas: darbininkai grįžo į pastatus, gavyba vėl visu pajėgumu
+На месте	Vietoje
+Ночь: на месте только дежурные, {0} из {1}. Здание работает на {2}%	Naktis: vietoje tik budintieji, {0} iš {1}. Pastatas dirba {2}%
+Выходной: на месте только дежурные, {0} из {1}. Здание работает на {2}%	Poilsio diena: vietoje tik budintieji, {0} iš {1}. Pastatas dirba {2}%
+Ночь: на месте только дежурные ({0} из {1}), здание работает на {2}%. Утром все вернутся	Naktis: vietoje tik budintieji ({0} iš {1}), pastatas dirba {2}%. Ryte visi grįš
+Ночь: на месте только дежурные ({0} из {1}), здание работает на {2}%. Все вернутся в понедельник утром	Naktis: vietoje tik budintieji ({0} iš {1}), pastatas dirba {2}%. Visi grįš pirmadienio rytą
+Выходной: на месте только дежурные ({0} из {1}), здание работает на {2}%. Все вернутся в понедельник утром	Poilsio diena: vietoje tik budintieji ({0} iš {1}), pastatas dirba {2}%. Visi grįš pirmadienio rytą
+Утром все вернутся	Ryte visi grįš
+Все вернутся в понедельник утром	Visi grįš pirmadienio rytą
+(ночь: на месте {0}%)	(naktis: vietoje {0}%)
+(выходной: на месте {0}%)	(poilsio diena: vietoje {0}%)
+ночь: на месте {0}	naktis: vietoje {0}%
+выходной: на месте {0}	poilsio diena: vietoje {0}%

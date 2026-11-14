@@ -1,0 +1,52 @@
+# Описания путей развития и окно клана: дополнение к lt.txt
+Жители учатся работать с травами и маной. Магия не ломает стены, зато ослабляет врагов издалека: ядом, замедлением, огнём и водой. Чем больше маны в воздухе, тем она сильнее	Jūsų žmonės mokosi dirbti su žolelėmis ir mana. Magija negriauna sienų, bet silpnina priešus iš toli: nuodais, lėtinimu, ugnimi ir vandeniu. Kuo daugiau manos ore, tuo ji stipresnė
+зелья яда и замедления	nuodų ir lėtinimo eliksyrai
+снаряды для пушек	sviediniai patrankoms
+Ставка на мастерство и сапёрное дело. Оружие доводят вручную до ★★★, ловушки ставят прямо посреди боя, через реки наводят понтоны. Путь для тех, кто любит вести бой сам	Statymas ant meistrystės ir pionierių darbo. Ginklai rankomis tobulinami iki ★★★, spąstai statomi pačiame mūšyje, per upes tiesiami pontonai. Kelias tiems, kurie mėgsta patys vadovauti mūšiui
+заточка оружия до ★★★	ginklų galandimas iki ★★★
+которые ставят в бою	statomi mūšio metu
+через реки	per upes
+Город превращается в мастерскую. Из руды и смолы делают детали и резину, а из них собирают модули, которые усиливают башни, мосты и пушки. Сильный путь, но котлы можно перегреть	Miestas virsta dirbtuvėmis. Iš rūdos ir sakų gaminamos detalės ir guma, o iš jų surenkami moduliai, stiprinantys bokštus, tiltus ir patrankas. Stiprus kelias, bet katilai gali perkaisti
+Маги договариваются с лесом и рекой, и своя земля начинает помогать. У воды бойцы сами лечатся, у рек и лесов постройки работают быстрее, а в лесах иногда видно всё, что прячет туман	Magai susitaria su mišku ir upe, ir sava žemė ima padėti. Prie vandens kariai patys gyja, prie upių ir miškų pastatai dirba greičiau, o miškuose kartais matyti viskas, ką slepia rūkas
+бойцов у рек	kariams prie upių
+к работе построек у рек и лесов	pastatams prie upių ir miškų
+Взгляд сквозь туман	Žvilgsnis pro rūką
+в лесах	miškuose
+Маги вкладывают в алтарь еду, камень и травы и выращивают из них голема. Голем охраняет всё вокруг алтаря и может пойти с армией в набег. Пока стоит алтарь, голем всегда вернётся	Magai deda į aukurą maistą, akmenį ir žoleles ir iš jų užaugina golemą. Golemas saugo viską aplink aukurą ir gali eiti su kariuomene į antpuolį. Kol aukuras stovi, golemas visada sugrįš
+Голем ходит в	Golemas eina į
+Самая непредсказуемая школа. Маг стихий получает ядро хаоса и время от времени бросает чёрную дыру: она почти не ранит, но стягивает врагов в кучу под удар пушек, ловушек и огненного шара	Pati nenuspėjamiausia mokykla. Stichijų magas gauna chaoso šerdį ir kartais meta juodąją skylę: ji beveik nežeidžia, bet sutraukia priešus į krūvą patrankoms, spąstams ir ugnies kamuoliams
+в Магической оружейной	Magijos ginklinėje
+у Мага стихий	Stichijų magui
+Инженеры строят осадные машины. Катапульта бросает камни навесом прямо через стены и накрывает целую площадь с огромного расстояния. Она медленная, поэтому держите её за спинами бойцов	Inžinieriai stato apgulties mašinas. Katapulta svaido akmenis per sienas ir dengia visą plotą iš didžiulio atstumo. Ji lėta, todėl laikykite ją už karių nugarų
+Инженеры увлекаются порохом. Башни часто стреляют огненными стрелами, и искры от них ранят соседних врагов. А на земле ждут салюты, которые подбрасывают врага в воздух и поджигают	Inžinieriai susižavi paraku. Bokštai dažnai šaudo ugninėmis strėlėmis, o jų kibirkštys žeidžia šalia esančius priešus. Ant žemės laukia fejerverkai, kurie išmeta priešą į orą ir padega
+Ставка на производство. Завод создаёт вокруг себя площадку, и все производства на ней работают быстрее, пока есть топливо. Можно разогнать ещё сильнее, но перегрев кончается взрывом	Statymas ant gamybos. Gamykla aplink save sukuria aikštelę, ir visos dirbtuvės joje dirba greičiau, kol yra kuro. Galima įsukti dar labiau, bet perkaitimas baigiasi sprogimu
+и заводская площадка	ir gamyklos aikštelė
+Ускорение	Pagreitinimas
+производств на топливе	dirbtuvėms su kuru
+Бойцы идут в бой стеной. Доспехи снижают урон, шипованный заслон ранит тех, кто его бьёт, а заслон на колёсах боец катит перед собой прямо под стрелами	Kariai eina į mūšį kaip siena. Šarvai mažina žalą, dygliuota užtvara žeidžia ją puolančius, o užtvarą su ratais karys stumia priešais save tiesiai po strėlėmis
+Пока идёт война, город держится на строителях. Они бегут к отмеченным постройкам и чинят их прямо под ударами, а в поле быстро ставят лёгкие заслоны	Kol vyksta karas, miestas laikosi ant statybininkų. Jie bėga prie pažymėtų pastatų ir taiso juos tiesiai po smūgiais, o lauke greitai stato lengvas užtvaras
+под огнём	po ugnimi
+Война невидимок. Бойцы в накидках из листвы подбираются к врагу незамеченными, а разведчики сидят в дозоре, видят всю округу и сами остаются скрытыми	Nematomųjų karas. Kariai lapų apsiaustais nepastebėti prisėlina prie priešo, o žvalgai budi sargyboje, mato visą apylinkę ir patys lieka paslėpti
+Разведчики	Žvalgai
+Открывает	Atrakina
+В клане есть общий чат, клановые войны и рейтинг клана. Вступите в готовый клан или создайте свой	Klane yra bendras pokalbis, klanų karai ir klano reitingas. Prisijunkite prie esamo klano arba sukurkite savo
+Чат	Pokalbis
+Выйти из клана. Главой станет заместитель (или другой участник	Išeiti iš klano. Vadu taps pavaduotojas (arba kitas narys
+Лига клана. Рейтинг клан получает за клановые войны	Klano lyga. Reitingą klanas gauna už klanų karus
+в сети {0} из {1}	prisijungę {0} iš {1}
+Игрок · в сети {0}/{1}, мест {2}	Žaidėjas · prisijungę {0}/{1}, vietų {2}
+Роль	Vaidmuo
+Лига	Lyga
+Роли в клане	Klano vaidmenys
+Щёлкните игрока в списке, чтобы повысить, понизить или исключить его	Spustelėkite žaidėją sąraše, kad jį paaukštintumėte, pažemintumėte ar pašalintumėte
+Щёлкните игрока в списке, чтобы посмотреть его роль	Spustelėkite žaidėją sąraše, kad pamatytumėte jo vaidmenį
+Действия	Veiksmai
+Участник не может менять роли. Повысить вас может старейшина или выше	Narys negali keisti vaidmenų. Jus paaukštinti gali seniūnas ar aukštesnis
+Менять роль можно только тем, у кого роль ниже вашей	Keisti vaidmenį galima tik tiems, kurių vaidmuo žemesnis už jūsų
+Исключить из клана	Pašalinti iš klano
+Может всё: начинает войну, назначает и снимает любые роли, передаёт главенство	Gali viską: pradeda karą, skiria ir atima bet kokius vaidmenis, perduoda vadovavimą
+Начинает войну, расставляет города, исключает старейшин и участников	Pradeda karą, išdėsto miestus, šalina seniūnus ir narius
+Может исключать участников	Gali šalinti narius
+Общается в чате и воюет вместе с кланом	Bendrauja pokalbyje ir kariauja kartu su klanu
+Повысить: {0}	Paaukštinti: {0}
+Понизить: {0}	Pažeminti: {0}

@@ -1,0 +1,11 @@
+# final-13-fix-2: мелкие уведомления, окно «В бой», война кланов
+Мелкие уведомления (склад, кухня, производство)	Minor notifications (storage, kitchen, production)
+Будничные вести — маленькой плашкой и без звука. Выключите — они будут только в журнале (⚙ → Журнал). О нападениях и войне игра сообщает всегда.	Everyday news appears as a small silent note. Turn it off and it goes only to the log (⚙ → Log). Attacks and war are always announced.
+Бойцов:	Fighters:
+(в казне {0})	(in treasury {0})
+Лагерь у высадки	Landing camp
+{0} дерева	{0} wood
+Взять голема	Take the golem
+здоровье {0}%	health {0}%
+Голем	Golem
+Нажмите и проведите пальцем по карте — выберете всех своих бойцов в рамке. Потом палец снова двигает карту	Tap, then drag your finger across the map to select all your fighters in the box. After that your finger moves the map again

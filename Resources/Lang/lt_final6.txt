@@ -1,0 +1,5 @@
+# Обновление final-6: мелочи интерфейса
+У края карты строить нельзя — здесь появляются войска	Prie žemėlapio krašto statyti negalima — čia atvyksta kariai
+Пока вы не нажали «Атаковать», вашу армию не трогают.	Kol nepaspaudėte „Pulti!“, jūsų armijos niekas neliečia.
+Сосед вспыльчивый: если простоять у ворот ещё {0} и попасться, он может ударить первым.	Kaimynas karštakošis: jei prie vartų pastovėsite dar {0} ir būsite pastebėti, jis gali smogti pirmas.
+Вы стоите у ворот слишком долго — заметивший вас сосед может ударить первым.	Per ilgai stovite prie vartų — jus pastebėjęs kaimynas gali smogti pirmas.

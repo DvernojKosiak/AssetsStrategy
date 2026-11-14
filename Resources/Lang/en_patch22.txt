@@ -1,0 +1,487 @@
+# Обновление 22: всё, что ещё оставалось по-русски, и новый режим накопления - дополнение к en.txt
+Связь с сервером восстановлена, игра продолжается	Connection to the server restored, the game continues
+рейтинг {0}{1}	rating {0}{1}
+Новая лига: {0}	New league: {0}
+Рейтинг {0}: {1}{2} (теперь {3}){4}	Rating {0}: {1}{2} (now {3}){4}
+Связь с сервером потеряна	Connection to the server lost
+Игра на паузе: без сервера играть нельзя. Как только сервер ответит, игра продолжится сама	The game is paused: you can't play without the server. As soon as the server answers, the game will continue by itself
+Если сервер не вернётся, игра закроется через {0} с	If the server doesn't come back, the game will close in {0} s
+Он запущен? Проверьте окно StrategycaServer (или Unity с сервером). Пробуем снова	Is it running? Check the StrategycaServer window (or Unity with the server). Trying again
+Подключиться	Connect
+Проверить связь с этим адресом	Check the connection to this address
+Выйти из игры	Quit the game
+Если сервер не вернётся, игра закроется через 90 с	If the server doesn't come back, the game will close in 90 s
+Режим накопления: работают только добытчики, остальные рабочие идут домой. Расходов нет, жители не едят	Accumulation mode: only producers work, the other workers go home. No spending, villagers don't eat
+Кончилось: {0}. Включить режим накопления	Out of {0}. Turn on accumulation mode
+Пока режим включён, здания ничего не тратят, жители не едят, а добытчики продолжают работать (вполсилы). Ресурсы только копятся. Выключить можно в меню «Город	While the mode is on, buildings spend nothing, villagers don't eat, and producers keep working (at half strength). Resources only pile up. You can turn it off in the «Town» menu
+Спрятать на 10 минут	Hide for 10 minutes
+Работают только Лесопилка, Шахта, Ферма и сборщики ягод (на {0}%), курьеры носят добычу. Остальные рабочие сидят дома, здания на паузе. Новые жители не приходят	Only the Sawmill, Mine, Farm and berry gatherers work (at {0}%), couriers carry the goods. The other workers stay at home, buildings are paused. No new villagers arrive
+Ни одно здание ничего не тратит, жители не едят и сами не лечатся: всё только копится	No building spends anything, villagers don't eat and don't heal by themselves: everything only piles up
+Ночью все рабочие тоже на местах	At night all workers stay at work too
+Город копит ресурсы: работают только добытчики (вполсилы), рабочие остальных зданий идут домой, новые жители не приходят. Выключите — и рабочие вернутся	The town saves up resources: only producers work (at half strength), workers of other buildings go home, no new villagers arrive. Turn it off and the workers will return
+Помогает, если кончилась еда или другой ресурс	Helps when you run out of food or another resource
+идёт {0} мин · добыча {1}% · расходов нет · прироста жителей нет	running {0} min · output {1}% · no spending · no population growth
+Нажмите ещё раз — предмет исчезнет, в Цитадель вернётся	Press again — the item will disappear, the Citadel gets back
+Переплавить, чтобы освободить место. Вернётся совсем немного	Melt down to free up space. Very little comes back
+1 зелье отравления = {0} выстрелов ядом. Житель принесёт его из Цитадели или Хранилища	1 poison potion = {0} poison shots. A villager will bring it from the Citadel or a Vault
+1 зелье замедления = {0} выстрелов: стрелы замедляют врагов	1 slowing potion = {0} shots: the arrows slow enemies down
+Тратит 1 Фейерверочный лук (модуль башни) из Цитадели: Мк.{0} даёт {1} выстрелов. Стрела-ракета рвётся у цели, как у башни: взрыв бьёт врагов рядом, искры жгут встречных. Урон самой стрелы не меняется	Uses 1 Firework bow (tower module) from the Citadel: Mk.{0} gives {1} shots. The rocket arrow bursts at the target like a tower's: the blast hits nearby enemies, sparks burn those in the way. The arrow's own damage doesn't change
+Щит с небольшим шансом отражает снаряды обратно — в стрелка или в башню. Тратится лучшее ядро хаоса из Цитадели	The shield has a small chance to reflect projectiles back — at the shooter or the tower. Uses the best chaos core from the Citadel
+Золото чинит и усиливает предметы, кнопка «Эффект» у лука или щита накладывает яд, замедление, салют или ядро хаоса. Выдаёт предметы казарма (вкладка «Снаряжение»). Лишнее (например, трофеи из набегов) можно переплавить на вкладке «Склад», чтобы освободить место: вернётся 1 сталь или 1 доска. Вместимость склада растёт с уровнем: 12 / 24 / 40. Выковано всего: {0}	Gold repairs and upgrades items; the «Effect» button on a bow or shield applies poison, slowing, fireworks or a chaos core. The barracks hands out items («Equipment» tab). Surplus (for example, raid trophies) can be melted down on the «Storage» tab to free up space: you get back 1 steel or 1 plank. Storage capacity grows with level: 12 / 24 / 40. Forged in total: {0}
+Тяжёлый Рыцарь	Heavy Knight
+Таран	Ram
+{0}: готов {1} — два носильщика	{0}: {1} is ready — two carriers
+{0}: собран новый таран ({1} досок	{0}: a new ram has been built ({1} planks
+{0} {1}: принесли {2}	{0} {1}: brought {2}
+{0}: нужно {1} свободных жителя	{0}: {1} free villagers needed
+{0}: нужен второй носильщик — нет свободных жителей	{0}: a second carrier is needed — no free villagers
+Марш: отряд идёт к точке, не ввязываясь в бой	March: the squad goes to the point without getting into fights
+{0}: ядро несут в казарму — пусть пушка вернётся к казарме	{0}: the cannonball is being carried to the barracks — let the cannon return to the barracks
+{0}: из Оружейной несут {1}	{0}: {1} is being carried from the Armory
+{0} {1}: заряжено {2}	{0} {1}: loaded {2}
+В Оружейных нет места: {0} потеряно	No room in the Armories: {0} lost
+клик — с боем по пути, двойной клик — марш	click — fight along the way, double click — march
+Башни и пушки врага бьют его первым, пока он у них в радиусе. Пусть принимает огонь на себя, а остальные в это время атакуют	Enemy towers and cannons hit it first while it's in their range. Let it draw the fire while the others attack
+Камни навесом через стены, удар по площади (радиус {0}). Дальность {1}–{2}: вблизи урон {3}, на пределе — {4}. По зданиям в набеге ×{5}	Lobs stones over walls, area damage (radius {0}). Range {1}–{2}: damage {3} up close, {4} at the limit. Against buildings in a raid ×{5}
+Одна боевая единица: двое жителей и таран (второй сидит «в таране»). Удар {0} раз в {1} с — по стенам, воротам и заслонам ×{2}, по зданиям ×{3}. По людям не бьёт. Хлипкий (прочность {4}), сам идёт к стенам, если не дать другой приказ	One combat unit: two villagers and a ram (the second one sits «inside the ram»). Strikes {0} times every {1} s — against walls, gates and barricades ×{2}, against buildings ×{3}. Doesn't hit people. Flimsy (durability {4}), goes for the walls by itself unless given another order
+Сломан — носильщики выпадают и дерутся ножами (здоровье {5}, урон {6}). Новый таран собирают в казарме: {7} досок	When broken, the carriers jump out and fight with knives (health {5}, damage {6}). A new ram is built in the barracks: {7} planks
+И в набеге, и дома: в обороне ломает заслоны нападающего и лагерь войска соседа. Побитый таран чинят в казарме	Both in raids and at home: in defence it breaks the attacker's barricades and the neighbour army's camp. A damaged ram is repaired in the barracks
+Носильщикам можно выдать меч и броню (не щит); их броня прибавляется к броне тарана	The carriers can be given a sword and armour (not a shield); their armour adds to the ram's armour
+Нужно {0} свободных жителя	{0} free villagers needed
+{0} жит	{0} vil
+Любые бойцы ★ выходят усиленными: +35% здоровья, +25% урона (у лекаря — лечения), +10% скорости	Any ★ soldiers come out stronger: +35% health, +25% damage (healing for healers), +10% speed
+Мелким бойцам — 1 порция, крупным (от 3 мест) и коннице — 2	Small soldiers — 1 serving, large ones (3+ slots) and cavalry — 2
+таран {0}	ram {0}
+Один таран на двоих: {0}. Здоровье {1}: {2}/{3}	One ram for two: {0}. Health {1}: {2}/{3}
+Пока таран цел, бьют по нему. Разобьют — оба выпадут и будут драться ножами	While the ram is intact, they hit it. Once it's smashed, both fall out and fight with knives
+Бойцы остаются в казарме: их можно продать союзникам на рынке клана или вывести вручную («Послать...» и щелчок за краем города	Soldiers stay in the barracks: you can sell them to allies on the clan market or lead them out by hand («Send...» and a click beyond the edge of town
+Собиратели ходят к ягодным кустам, чаще всего за городом, и приносят ягоды сюда. В Цитадель их уносят кнопкой «Собрать» или курьеры Курьерской. Ягоды нужны Кухне	Gatherers go to berry bushes, usually outside town, and bring the berries here. They are taken to the Citadel with the «Collect» button or by couriers of the Courier House. The Kitchen needs berries
+{0}: улучшено до Ур. {1}	{0}: upgraded to Lv. {1}
+Стройка {0}% · ещё {1}	Construction {0}% · {1} left
+Не больше {0} при Цитадели Ур.{1}{2}	No more than {0} with Citadel Lv.{1}{2}
+вся цена (стройка ещё не закончена	full price (construction isn't finished yet
+Как управлять пальцами	How to control with your fingers
+{0}: на месте только дежурные ({1} из {2}), здание работает на {3}	{0}: only the skeleton crew is on site ({1} of {2}), the building works at {3}
+Доски и плиты до {0}, сталь до {1} · Хранилищ: {2}	Planks and slabs up to {0}, steel up to {1} · Vaults: {2}
+Сколько всего может лежать в городе. Сверх лимита ничего не копится: курьеры оставляют добычу в зданиях	How much can be stored in town in total. Nothing piles up above the limit: couriers leave the goods in the buildings
+мастерская не берёт заказ, рынок не продаёт. Лимит растёт с уровнем Цитадели, каждое Хранилище добавляет ещё	the workshop won't take an order, the market won't sell. The limit grows with the Citadel level, each Vault adds more
+{0} (Хранилища	{0} (Vaults
+Материалы в Цитадели (все качества вместе), сверх них — в Хранилищах	Materials in the Citadel (all qualities together), above that — in the Vaults
+Стройка	Construction
+Пока здание строится, оно не работает. Снести стройку (X) — вернётся вся цена	While the building is under construction it doesn't work. Demolish the construction (X) — you get the full price back
+Вместимость	Capacity
+Склад полон: готовое некуда положить. Улучшите Цитадель или постройте Хранилище	Storage is full: nowhere to put finished goods. Upgrade the Citadel or build a Vault
+Взять здание в руки и поставить в другом месте: ведите пальцем, потом «✓ Поставить». Бесплатно	Pick up the building and place it elsewhere: drag with your finger, then «✓ Place». Free
+Перенести здание в другое место (M). Бесплатно	Move the building to another place (M). Free
+Сидя в дозоре, он невидим для врагов и лазутчиков, видит на {0} клеток и предупреждает о войсках соседей: войско с его стороны карты (до {1} кл. от края) замечает на {2}+ с раньше	While on lookout he is invisible to enemies and spies, sees {0} cells around and warns about neighbours' armies: notices an army from his side of the map (up to {1} cells from the edge) {2}+ s earlier
+Паёк: {3} еды на ~{4} дн. Кончился — голодным идёт в казарму. Между дозорами не меньше {5} клеток, только вне своей зоны	Ration: {3} food for ~{4} days. When it runs out, he goes hungry to the barracks. At least {5} cells between lookouts, only outside your own zone
+{0}: кликните по карте, куда идти дальше (двойной клик — маршем, Esc — отмена	{0}: click on the map where to go next (double click — march, Esc — cancel
+Отряд	Squad
+{0}: из лагеря можно идти только в пределах города	{0}: from the camp you can only go within the town
+Дальше	Onward
+Не посылать отряд дальше	Don't send the squad further
+Послать этот отряд в новую точку прямо отсюда, не ища его в казарме	Send this squad to a new point right from here, without looking for it in the barracks
+Один клик по карте — идёт и бьёт всех по дороге, двойной — маршем. Лагерь переедет туда	One click on the map — goes and hits everyone along the way, double — march. The camp moves there
+Обычная	Common
+Хорошая	Good
+Превосходная	Excellent
+таран сломан — соберут в казарме	the ram is broken — it will be rebuilt in the barracks
+таран цел	the ram is intact
+Каждый цикл рабочие здания берут ресурсы из казны — от Цитадели к краю. Ползунок задаёт, какую долю зданий (ближних к центру) снабжать. Если ресурса не хватает, закрываются самые дальние здания — над ними красный	Each cycle the working buildings take resources from the treasury — from the Citadel outwards. The slider sets what share of buildings (closest to the centre) to supply. If a resource runs short, the farthest buildings shut down — a red
+Экономика	Economy
+кончилось	ran out
+полон через	full in
+Не хватает {0}: {1} зд. на {2}	Short of {0}: {1} bldg. for {2}
+Нет рабочих: {0} зд. — нужны дома	No workers: {0} bldg. — houses needed
+Полный склад: {0} зд. — «Собрать всё	Full storage: {0} bldg. — «Collect all
+Вне зелёной зоны: {0} зд	Outside the green zone: {0} bldg
+Нет мест в домах — город не растёт	No room in houses — the town isn't growing
+{0} кончится через {1}	{0} runs out in {1}
+Строится: {0} · улучшается: {1}	Under construction: {0} · upgrading: {1}
+Всё в порядке	All good
+не добывают и не тратят	don't produce or spend
+Добывают здания: +{1}	Buildings produce: +{1}
+Содержание зданий: −{2}	Building upkeep: −{2}
+Прочее (жители едят, мастерские, обучение): {0}	Other (villagers eat, workshops, training): {0}
+Прочее: замер ещё идёт	Other: still measuring
+Итого: {0}	Total: {0}
+Зелёное на полоске — приход, красное — расход. Итог — как на самом деле меняется запас за последние 2 минуты (без ваших покупок и строек	Green on the bar is income, red is spending. The total is how the stock really changes over the last 2 minutes (without your purchases and construction
+Сколько жителей и сколько мест в Жилых домах. Места кончились — город не растёт	How many villagers and how many places in Houses. Out of places — the town doesn't grow
+Жители едят еду из Цитадели: больше жителей — больше еды	Villagers eat food from the Citadel: more villagers — more food
+☺ свободны {0}	☺ {0} free
+Что не так	What's wrong
+Даёт в минуту	Gives per minute
+Сейчас не добывает: склад здания полон — нужны курьеры	Not producing now: the building's storage is full — couriers needed
+Сейчас не добывает: нет рабочих или здание не работает	Not producing now: no workers or the building isn't working
+Содержание в минуту	Upkeep per minute
+Городу не хватает {0} — здание работает на {1}	The town is short of {0} — the building works at {1}
+{0} в городе кончится через {1} ({2}/мин	{0} in town runs out in {1} ({2}/min
+В городе нет еды — жители голодают и работают хуже	There is no food in town — villagers are starving and work worse
+Еда в городе кончится через {0} — нужны фермы	Food in town runs out in {0} — farms needed
+Экономика здания	Building economy
+Что здание даёт и тратит. Весь город — меню «Город» → вкладка «Экономика	What the building gives and spends. The whole town — «Town» menu → «Economy» tab
+Закрепите курьеров за зданиями — они носят накопленное в Цитадель. За аванпостами — возят туда еду из Цитадели. За рейс курьер берёт до {0} каждого ресурса, до Цитадели доезжает {1}%. В войну курьеры не выходят	Assign couriers to buildings — they carry what has piled up to the Citadel. Assigned to outposts — they deliver food there from the Citadel. Per trip a courier takes up to {0} of each resource, {1}% reaches the Citadel. Couriers don't go out during war
+Дальние рейсы: дальше {2} клеток от Курьерской курьер устаёт быстрее и больше ест (+{3}% голода за клетку, до ×{4}). Ставьте Курьерскую ближе к зданиям	Long trips: farther than {2} cells from the Courier House a courier tires faster and eats more (+{3}% hunger per cell, up to ×{4}). Place the Courier House closer to the buildings
+Еда в пути» — сколько еды курьеры съели сверх обычного из-за дальних рейсов (с начала игры	Food on the road» — how much extra food couriers ate because of long trips (since the start of the game
+Далеко от Курьерской: у здания курьер голодает в {0} раза быстрее	Far from the Courier House: at this building a courier gets hungry {0} times faster
+Секций нужно столько, сколько клеток воды поперёк реки. Готовая переправа — только для солдат (и врагов!), мирным нужен мост	You need as many sections as there are water cells across the river. A finished crossing is only for soldiers (and enemies!), civilians need a bridge
+Кузня, вкладка «Ловушки»: обычную ловушку (купить у инженеров на рынке) переделать в	Smithy, «Traps» tab: turn a common trap (bought from engineers on the market) into a
+капканы, шипы, сети, пружины; добавки меняют свойства. Ставятся у себя в городе, продаются на рынке	snares, spikes, nets, springs; additives change their properties. Placed in your own town, sold on the market
+Ячейку направления можно купить, когда Цитадель дорастёт до Ур. {0}. Путь выбирается один раз: здания и войска других путей станут недоступны	A path slot can be bought when the Citadel reaches Lv. {0}. The path is chosen once: buildings and troops of other paths will become unavailable
+в одну точку — удобно под огненный шар, пушку или ловушки	into one spot — handy for a fireball, a cannon or traps
+наступивший взлетает в случайную сторону, в воздухе гремит салют, а упав, враг	whoever steps on it flies off in a random direction, fireworks boom in the air, and after landing the enemy
+стоящего на месте не видит никто, а он видит округу. Сидит долго, пока не кончится паёк	nobody sees him while he stands still, and he sees the surroundings. Stays long, until the ration runs out
+Таран игрока {0} разбит — носильщики бросились в бой	Player {0}'s ram is smashed — the carriers rushed into battle
+Пиротехник. Наступившего уносит ракетой на 3–5 клеток в случайную сторону (тяжёлых — ближе), на вершине полёта рвётся салют — урон всем рядом, после приземления жертва оглушена и горит. Нужна смола (горючая смесь	Pyrotechnician. Whoever steps on it is carried off by a rocket 3–5 cells in a random direction (heavy ones — less far), fireworks burst at the top of the flight — damage to everyone nearby, after landing the victim is stunned and burning. Needs resin (incendiary mix
+Заказ: золото, детали, сталь и доски списываются, инженер несёт их из Цитадели во двор. Готовый модуль лежит на складе двора. Ставит модуль инженер: несёт его со двора к постройке. Механизм моста и подъёмник пушки ставятся из их панелей, там же «Заменить» и «Снять». Марка модуля равна уровню двора. Детали льёт Литейная. Собрано всего: {0}	Order: gold, parts, steel and planks are deducted, an engineer carries them from the Citadel to the yard. The finished module lies in the yard's storage. The engineer installs the module: he carries it from the yard to the structure. The bridge mechanism and cannon lift are installed from their panels, where you also find «Replace» and «Remove». The module's mark equals the yard's level. Parts are cast by the Foundry. Assembled in total: {0}
+Рецепт = основа + добавки. Каждой основе нужна резина (её варит Литейная). Готовые ловушки кладут в запас Цитадели. Ставятся дома в мирное время, в зелёной зоне (кнопка «Ловушки» [T]). Военное дело переделывает их в боевые в Кузне мастера — продайте на рынке. Инженеры одни: пока собирают ловушку, модуль ждёт, и наоборот. Собрано ловушек: {0}	Recipe = base + additives. Every base needs rubber (the Foundry makes it). Finished traps go to the Citadel's stock. They are placed at home in peacetime, in the green zone («Traps» button [T]). Military Affairs turns them into combat traps in the Master's Smithy — sell them on the market. There is only one team of engineers: while they assemble a trap, the module waits, and vice versa. Traps assembled: {0}
+Стенка + палатка: раненые отдыхают до 70% здоровья, пока есть лечебный запас	Wall + tent: the wounded rest up to 70% health while there is a healing supply
+Боец катит его, куда прикажете. На ходу изнашивается. Войска на пути толкают его, снаряды откатывают	A soldier rolls it wherever you order. It wears out on the move. Troops in the way push it, projectiles knock it back
+упёрся — пока не сдвинуть	stuck — can't be moved for now
+его толкают	being pushed
+войска на пути толкают его, снаряды откатывают	troops in the way push it, projectiles knock it back
+Враг достроил: {0}	The enemy finished building: {0}
+Разрушено укрепление врага: {0}	Enemy fortification destroyed: {0}
+Разнесли стройку врага: {0}	Smashed the enemy's construction: {0}
+{0} развалился — его затолкали	{0} fell apart — it was pushed around too much
+перед вверх	front up
+перед вверх-влево	front up-left
+перед влево	front left
+перед вниз-влево	front down-left
+перед вниз	front down
+перед вниз-вправо	front down-right
+перед вправо	front right
+перед вверх-вправо	front up-right
+Урон {1}+, дальность {2} кл., раз в {3} с, прочность {4}+. Не ближе {5} кл. к зелёной зоне врага; не больше {6} на карте	Damage {1}+, range {2} cells, every {3} s, durability {4}+. No closer than {5} cells to the enemy's green zone; no more than {6} on the map
+Живой бой: укрепление стоит у защитника, убрать его нельзя	Live battle: the fortification belongs to the defender, it can't be removed
+Стенка непроходима и режет урон, только если враг по ту сторону. Недостроенную легко разнести. Нельзя ставить на бойцов, в тумане, рядом с врагами; в набеге — только рядом со своими бойцами. Изготавливает Кузня мастера (Военное дело); в набег берут в окне «В бой!». Полевая башня стреляет сама, но не ближе 6 кл. к зелёной зоне врага. Заслон на колёсах катит боец («Катить»), его сдвигают отбойник, чёрная дыра, пружины и тяжёлые враги. Быстрый заслон (Военный строитель) — сразу за дерево. B — открыть / закрыть	A wall can't be passed and cuts damage, but only if the enemy is on the other side. An unfinished one is easy to smash. It can't be placed on soldiers, in fog, next to enemies; in a raid — only next to your own soldiers. Made by the Master's Smithy (Military Affairs); taken on a raid in the «To battle!» window. A field tower shoots by itself, but no closer than 6 cells to the enemy's green zone. A barricade on wheels is rolled by a soldier («Roll»), it is shifted by the bumper, the black hole, springs and heavy enemies. Quick barricade (War Builder) — instantly, for wood. B — open / close
+R — повернуть ({0}), ПКМ / Esc — отмена	R — rotate ({0}), RMB / Esc — cancel
+Наши бойцы срубили башню врага: {0}	Our soldiers cut down an enemy tower: {0}
+Жар растёт, только пока идёт плавка; без работы котлы остывают. На 100% жара — перегрев: котлы сбрасываются на «Обычный», литейная стоит {0} с (авария), а с шансом {1}% сгорает вместе с плавкой (пожар). Предохранитель сам сбрасывает режим при {2}%. Улучшение: котлы греются медленнее и реже горят. Отлито всего: {3}, перегревов: {4}	Heat rises only while smelting is going on; without work the boilers cool down. At 100% heat — overheating: the boilers reset to «Normal», the foundry stops for {0} s (breakdown), and with a {1}% chance burns down together with the melt (fire). The fuse resets the mode by itself at {2}%. Upgrade: boilers heat up slower and catch fire less often. Cast in total: {3}, overheats: {4}
+Оранжевая метка — опасно ({0}%), голубая — предохранитель ({1}%). На 100% — авария на {2} с или пожар (шанс {3}	Orange mark — dangerous ({0}%), blue — fuse ({1}%). At 100% — breakdown for {2} s or fire (chance {3}
+В зданиях осталась только дежурная смена ({0} чел.), поэтому ресурсы копятся медленнее	Only the skeleton crew stayed in the buildings ({0} people), so resources pile up slower
+сейчас работает {0}% рабочих	{0}% of workers are working now
+Все выйдут на работу в понедельник утром, через	Everyone will go back to work on Monday morning, in
+Все выйдут на работу утром (06:00), через	Everyone will go back to work in the morning (06:00), in
+Режим накопления: все рабочие на местах и ночью	Accumulation mode: all workers stay at work at night too
+День {0}, сейчас {1}. Сутки: день {2} мин + ночь {3} мин	Day {0}, now {1}. A day: daytime {2} min + night {3} min
+Выходных нет: рабочие трудятся каждый день. Ночью на производстве остаётся дежурная смена	No days off: workers work every day. At night a skeleton crew stays at work
+✦ Мана в воздухе {0}% — новая каждый день. Маги и целители работают на x{1}	✦ Mana in the air {0}% — renews every day. Mages and healers work at x{1}
+Пушка: из Оружейной несут {0}	Cannon: {0} is being carried from the Armory
+Пушка: принесли и зарядили {0}	Cannon: {0} brought and loaded
+Бронебойное ядро (Инженерный двор, хранится в Оружейной). Урон сильнее, +1 осколок, щит и укрытие не спасают, осколки летят сквозь стены. Каждый выстрел изнашивает ядро	Armour-piercing cannonball (Engineer Yard, kept in the Armory). Stronger damage, +1 shrapnel, shields and cover don't help, shrapnel flies through walls. Every shot wears the cannonball out
+Ядро уже несут из Оружейной	The cannonball is already being carried from the Armory
+Житель принесёт лучшее из Оружейной (там: {0}	A villager will bring the best one from the Armory (there: {0}
+Житель унесёт ядро в Оружейную	A villager will take the cannonball to the Armory
+Площадка — квадрат {0} клеток вокруг завода (Ур.1-3: 6/7/8). Производства в ней работают быстрее, пока завод топят деревом из казны. Бонус зависит от режима и рабочих завода. Жар растёт на «Форсаже» и «Пределе», на «Ровно» и «Тихо» спадает. На 100% — взрыв: завод и все постройки площадки теряют {1}% прочности, производства стоят {2} с, завод — {3} с. Предохранитель сбрасывает печи на «Ровно» при {4}%. Улучшение: площадка шире, печи греются медленнее. Сожжено дерева: {5}, взрывов: {6}	The site is a square of {0} cells around the plant (Lv.1-3: 6/7/8). Production buildings on it work faster while the plant is fired with wood from the treasury. The bonus depends on the mode and the plant's workers. Heat rises on «Boost» and «Limit», drops on «Steady» and «Quiet». At 100% — explosion: the plant and all buildings on the site lose {1}% durability, production stops for {2} s, the plant — {3} s. The fuse resets the furnaces to «Steady» at {4}%. Upgrade: the site is wider, the furnaces heat up slower. Wood burned: {5}, explosions: {6}
+Завод берёт дерево прямо из казны. Кончится дерево — печи гаснут и площадка теряет бонус. Пока на площадке нет производств или нет рабочих, дерево не тратится	The plant takes wood right from the treasury. When the wood runs out, the furnaces go out and the site loses its bonus. While there are no production buildings or workers on the site, no wood is spent
+Оранжевая метка — опасно ({0}%), голубая — предохранитель ({1}%). На 100% — взрыв: вся площадка ломается на {2} с	Orange mark — dangerous ({0}%), blue — fuse ({1}%). At 100% — explosion: the whole site breaks down for {2} s
+Варка идёт {0} с и даёт {1} порц. Ягоды — со Станции собирателей, овёс — с фермы Ур.3. Похлёбка усиливает всадников (галочка «С похлёбкой» в казарме). Кухня вплотную к казарме (или группе казарм) отдаёт похлёбку туда сама, иначе её носят курьеры. Сварено всего: {2}	Cooking takes {0} s and gives {1} servings. Berries come from the Gatherers' Station, oats from a Lv.3 farm. Stew strengthens riders (the «With stew» checkbox in the barracks). A kitchen right next to a barracks (or a group of barracks) delivers the stew there by itself, otherwise couriers carry it. Cooked in total: {2}
+Подношения копятся в запасе алтаря, он превращает их в рост голема (быстрее при высокой мане). На 100% рождается голем: стоит у алтаря и бьёт врагов в {0} клетках от него, приказов не слушает. У алтаря сам лечится ({1}/с вне боя), подношения лечат быстрее. Его можно взять в набег (окно набега). Алтарь разрушен — голем рассыпается; погиб — алтарь остывает {2} с. Уровень алтаря: +12% к силе голема. Рождено големов: {3}	Offerings pile up in the altar's stock, it turns them into the golem's growth (faster with high mana). At 100% a golem is born: it stands by the altar and hits enemies within {0} cells of it, it doesn't obey orders. By the altar it heals by itself ({1}/s out of combat), offerings heal it faster. It can be taken on a raid (raid window). If the altar is destroyed, the golem crumbles; if it dies, the altar cools down for {2} s. Altar level: +12% to the golem's strength. Golems born: {3}
+Нет ядра хаоса в Цитадели — зачаруйте его здесь	No chaos core in the Citadel — enchant one here
+Нет щита без ядра: ни в Оружейных, ни у бойцов у казармы	No shield without a core: neither in the Armories nor with soldiers at the barracks
+Ядро хаоса Мк.{0} несут к щиту{1}	Chaos core Mk.{0} is being carried to the shield{1}
+Ядро хаоса Мк.{0} наложено на щит{1}: отражает {2}% снарядов, {3} раз	Chaos core Mk.{0} applied to the shield{1}: reflects {2}% of projectiles, {3} times
+Щита нет	No shield
+Ядро хаоса Мк.{0} наложено на щит: отражает {1}% снарядов, {2} раз	Chaos core Mk.{0} applied to the shield: reflects {1}% of projectiles, {2} times
+Заказ: золото, травы (и смола / зелье) списываются из Цитадели, житель несёт их сюда, чародеи зачаровывают. Готовую пачку несут в Цитадель. Пачку ставят на пушку из её панели; полевые пушки заряжаются сами в казарме. Марка пачки (Мк.) равна уровню оружейной. Ниже {0}% маны работа стоит. Сделано всего: {1}	Order: gold, herbs (and resin / potion) are deducted from the Citadel, a villager carries them here, the enchanters enchant. A finished pack is carried to the Citadel. The pack is put on a cannon from its panel; field cannons load themselves in the barracks. The pack's mark (Mk.) equals the armory's level. Below {0}% mana work stops. Made in total: {1}
+Ядро хаоса Маг стихий берёт сам в своей казарме; погиб маг — ядро потеряно. Ещё ядро можно наложить на щит: щит иногда отражает снаряды издалека обратно — в стрелка или в башню	The Elemental mage takes a chaos core himself in his barracks; if the mage dies, the core is lost. A core can also be applied to a shield: the shield sometimes reflects projectiles from afar back — at the shooter or the tower
+Щиты с ядром хаоса	Shields with a chaos core
+Ядро на щите: с небольшим шансом щит отражает снаряд, прилетевший издалека (стрелу, заряд, ядро), обратно — в стрелка или в башню, пушку	Core on a shield: with a small chance the shield reflects a projectile that came from afar (an arrow, a charge, a cannonball) back — at the shooter or the tower, the cannon
+Мк.I: {0}%, {1} раз · Мк.II: {2}%, {3} раз · Мк.III: {4}%, {5} раз	Mk.I: {0}%, {1} times · Mk.II: {2}%, {3} times · Mk.III: {4}%, {5} times
+Ядро накладывают на выбранный щит в Оружейной: вкладка «Склад», кнопка «Эффект» у щита. Щит бойца сначала снимите в казарме. Ядро остаётся на щите и при продаже	The core is applied to the chosen shield in the Armory: «Storage» tab, the «Effect» button next to the shield. Take the shield off the soldier in the barracks first. The core stays on the shield even when sold
+таран сломан	ram broken
+с тараном	with a ram
+бойца	soldiers
+таран	ram
+Отряд недоступен	Squad unavailable
+Отряд в походе	The squad is on a march
+В отряде никого нет	There is nobody in the squad
+Кто-то из отряда в походе	Someone from the squad is on a march
+Отряд в бою	The squad is in battle
+Нет казармы, где поместится весь отряд ({0} мест	There is no barracks that fits the whole squad ({0} slots
+Отряд прибыл, но ни в одной казарме нет {0} мест — бойцы расходятся по свободным	The squad has arrived, but no barracks has {0} slots — the soldiers spread out to free ones
+Отряд прибыл: {0} {1} — идут в казарму ({2}	The squad has arrived: {0} {1} — heading to the barracks ({2}
+Купили — марки списываются сразу, купец везёт товар в Торговый дом. Сырьё несут в Цитадель, оружие — в Оружейную, модули и ловушки — в Цитадель (их может поставить любой город), наёмник идёт в казарму	Bought — the marks are deducted at once, the merchant brings the goods to the Trading House. Raw materials go to the Citadel, weapons — to the Armory, modules and traps — to the Citadel (any town can install them), a mercenary goes to the barracks
+Выставьте товар в лавку: сырьё несут из Цитадели, оружие — из Оружейной, модули — со склада, а боец сам уходит в лагерь наёмников. Чем ниже цена относительно рынка, тем быстрее купят. Марки приходят, когда купец заберёт товар ({0}). Во время войны купцы не покупают. Shift + −/+ — шаг цены 5	Put goods up in the shop: raw materials are carried from the Citadel, weapons — from the Armory, modules — from storage, and a soldier goes to the mercenary camp by himself. The lower the price compared to the market, the faster it sells. Marks arrive when the merchant picks up the goods ({0}). Merchants don't buy during war. Shift + −/+ — price step 5
+отряд сразу уйдёт в лагерь наёмников	the squad will go to the mercenary camp at once
+Отряд уйдёт в лагерь наёмников целиком: каждый боец со своим оружием, щитом, бронёй, конём, похлёбкой и тараном. Покупатель получит его одним отрядом	The squad goes to the mercenary camp as a whole: each soldier with their weapon, shield, armour, horse, stew and ram. The buyer gets it as one squad
+Гильдии нужны партии товара к сроку — платит заметно выше рынка. Взялись — товар несут в Торговый дом, обоз гильдии его забирает и платит. Каждые 3 заказа — ранг репутации: −1% комиссии и +10% к наградам	The guild needs batches of goods by a deadline — it pays noticeably above market. Take one — the goods are carried to the Trading House, the guild's wagon train picks them up and pays. Every 3 orders — a reputation rank: −1% commission and +10% to rewards
+дос	pl
+Перенести или снести здание: нажмите на него — кнопки «Перенести» и «Снести» под его окном. Или удерживайте палец на здании	Move or demolish a building: tap it — the «Move» and «Demolish» buttons are under its window. Or hold your finger on the building
+вас не было	you were away
+Щит не снят	Shield not removed
+Клан, война и лиги: участники, чат, карта войны, мировой рейтинг	Clan, war and leagues: members, chat, war map, world rating
+Идёт война: карта войны — во вкладке «Война	War is on: the war map is in the «War» tab
+Лиги	Leagues
+Игрок {0} ставит {1} — пока строится, бойцы могут растоптать стройку	Player {0} is placing {1} — while it's being built, soldiers can trample the construction
+Вступите в клан, чтобы он тоже попал в мировую таблицу	Join a clan so that it also gets into the world table
+Мои очки	My points
+Очки клана	Clan points
+Последние изменения	Recent changes
+Клан получает рейтинг за клановые войны	The clan gets rating for clan wars
+Рейтинг дают за набеги на игроков и клановые войны	Rating is given for raids on players and clan wars
+до лиги «{0}»: {1}	to the «{0}» league: {1}
+Награда за первый выход в эту лигу	Reward for reaching this league for the first time
+Каждому участнику, когда клан первый раз дойдёт до этой лиги	To every member, when the clan reaches this league for the first time
+Высшая лига	Top league
+Место в мире	World rank
+Игроки	Players
+Лига ниже	League below
+Все лиги	All leagues
+Лига выше	League above
+Лучшие кланы мира (всего {0}	Best clans in the world ({0} in total
+Лучшие игроки мира (всего {0}	Best players in the world ({0} in total
+Рейтинг	Rating
+В этой лиге пока никого нет	Nobody in this league yet
+Пока никого нет	Nobody yet
+Бронза III	Bronze III
+Бронза II	Bronze II
+Бронза I	Bronze I
+Серебро III	Silver III
+Серебро II	Silver II
+Серебро I	Silver I
+Кристалл III	Crystal III
+Кристалл II	Crystal II
+Кристалл I	Crystal I
+Мастер	Master
+Чемпион	Champion
+Легенда	Legend
+Все места под лоты заняты ({0}) — откройте новое во вкладке «Мои лоты	All lot slots are taken ({0}) — open a new one in the «My lots» tab
+Склад полон — столько не влезет. Улучшите Цитадель или постройте Хранилище	Storage is full — that much won't fit. Upgrade the Citadel or build a Vault
+доставка {0}	delivery {0}
+Покупатель заплатит {0} ◈: {1} — вам, {2} — доставка (сгорает	The buyer will pay {0} ◈: {1} — to you, {2} — delivery (burned
+Места под лоты	Lot slots
+Снимете лот — товар вернётся в казну	Withdraw the lot — the goods go back to the treasury
+Открыты все {0} мест	All {0} slots are open
+Открыть место №{0}	Open slot #{0}
+При Торговом доме Ур.{0} мест не больше {1}. Улучшите Торговый дом	With a Trading House Lv.{0} there are no more than {1} slots. Upgrade the Trading House
+Ещё один лот на рынке одновременно. Место остаётся навсегда	One more lot on the market at the same time. The slot stays forever
+Открыто место под лот №{0}	Lot slot #{0} opened
+{0} {1} — продавцу, {2} {3} — доставка (сгорает	{0} {1} — to the seller, {2} {3} — delivery (burned
+Отряд сразу уйдёт из казармы целиком, со всем снаряжением. Снимете лот — вернётся отрядом наёмников	The squad leaves the barracks at once as a whole, with all its equipment. Withdraw the lot — it comes back as a mercenary squad
+Все места под лоты заняты ({0}) — снимите лот или откройте новое место	All lot slots are taken ({0}) — withdraw a lot or open a new slot
+Чат для вас закрыт до	Chat is closed for you until
+на ваши сообщения пожаловались игроки	players reported your messages
+Новая лига: {0}! Награда на базу	New league: {0}! Reward sent to your base
+Клан поднялся в лигу «{0}	The clan rose to the «{0}» league
+Клан опустился в лигу «{0}	The clan dropped to the «{0}» league
+Клан «{0}» дошёл до лиги «{1}»! Награда на базу	Clan «{0}» reached the «{1}» league! Reward sent to your base
+Набег на {0}: победа	Raid on {0}: victory
+Набег на {0}: не удался	Raid on {0}: failed
+{0} разорил(а) вашу деревню	{0} plundered your village
+Отбили набег {0}	Repelled {0}'s raid
+Места уже обновились — откройте рынок ещё раз	The slots have already been refreshed — open the market again
+Нет чека покупки	No purchase receipt
+Чек покупки не читается	The purchase receipt can't be read
+Чек Google Play не читается	The Google Play receipt can't be read
+подпись не сошлась	signature mismatch
+Покупка ещё не оплачена — марки придут, когда Google Play подтвердит оплату	The purchase isn't paid yet — the marks will arrive when Google Play confirms the payment
+магазин «{0}» (принимаются только покупки Google Play	store «{0}» (only Google Play purchases are accepted
+Такого набора марок нет	There is no such mark pack
+В чеке нет номера покупки	The receipt has no purchase number
+Эта покупка уже засчитана другому аккаунту	This purchase has already been credited to another account
+Покупка «{0}	Purchase «{0}
+Покупка не прошла проверку. Если деньги списались, напишите в поддержку — Google Play вернёт их сам, если покупка не будет подтверждена за 3 дня	The purchase failed verification. If money was charged, contact support — Google Play will refund it by itself if the purchase isn't confirmed within 3 days
+Война окончена. {0}. Рейтинг клана: {1}	The war is over. {0}. Clan rating: {1}
+Война с «{0}»: победа	War with «{0}»: victory
+Война с «{0}»: поражение	War with «{0}»: defeat
+Горсть марок	Handful of marks
+Кошель марок	Purse of marks
+Мешок марок	Sack of marks
+Сундук марок	Chest of marks
+Казна гильдии	Guild treasury
+Сокровищница	Treasure vault
+Сервер старой версии. Замените StrategycaServer.exe на новый из пакета marki-1 и перезапустите его	Old server version. Replace StrategycaServer.exe with the new one from the marki-1 package and restart it
+Войдите в аккаунт — марки хранятся на сервере	Log in — marks are stored on the server
+На войне магазин закрыт — вернитесь домой	The shop is closed during war — go back home
+Магазин Google Play ещё загружается	The Google Play store is still loading
+Этот набор сейчас недоступен в Google Play	This pack is currently unavailable in Google Play
+Открываем оплату Google Play	Opening Google Play payment
+Покупки пока не подключены	Purchases aren't connected yet
+Засчитываем покупку	Crediting the purchase
+Эта покупка уже засчитана	This purchase has already been credited
+Покупки отключены на этом устройстве	Purchases are disabled on this device
+Google Play не нашёл наборы марок (проверьте id товаров в Play Console	Google Play didn't find the mark packs (check the product ids in Play Console
+Google Play недоступен	Google Play is unavailable
+Покупка отменена	Purchase cancelled
+Покупка не прошла	Purchase failed
+Марки ◈ — деньги рынка игроков: на них покупают товары и бойцов у других игроков и открывают новые места под лоты	Marks ◈ are the player market's money: with them you buy goods and soldiers from other players and open new lot slots
+выгодно	good deal
+{0} в подарок	{0} as a gift
+Оплата через Google Play	Payment via Google Play
+Покупку засчитывает сервер. Если связь пропала, марки придут сами, когда она вернётся	The server credits the purchase. If the connection drops, the marks will arrive by themselves when it comes back
+Марки за реальные деньги: покупки на рынке игроков и места под лоты	Marks for real money: purchases on the player market and lot slots
+ваш: {0}	yours: {0}
+К моему городу	To my town
+Показать свой город на карте войны (Пробел	Show your town on the war map (Space
+День 2 — появляется общая карта. На ней стоят города обоих кланов: постройки как дома, но армия и ресурсы — с нуля. Вы играете в своём городе на этой карте: жители добывают, казармы учат бойцов. Строить и улучшать нельзя	Day 2 — a shared map appears. Towns of both clans stand on it: buildings as at home, but the army and resources start from zero. You play in your town on this map: villagers gather, barracks train soldiers. You can't build or upgrade
+нет смотрителей	no wardens
+нет подвоза из Цитадели	no supply from the Citadel
+раньше всего прервётся связь с Цитаделью	the link to the Citadel will break first
+раньше всего кончится еда	food will run out first
+еды уже нет	no food left
+Аванпост {0} снова работает — зона восстановлена	Outpost {0} works again — the zone is restored
+Аванпост {0} заброшен: нет смотрителей	Outpost {0} abandoned: no wardens
+Заброшен	Abandoned
+Зона не расширяется, пока на аванпост не придёт хоть один смотритель (рабочий). Дайте ему рабочих кнопкой «+» или «Авто	The zone doesn't expand until at least one warden (worker) comes to the outpost. Give it workers with the «+» or «Auto» button
+Ур. 3: смотрители ещё и носят еду с фермы в радиусе аванпоста	Lv. 3: wardens also carry food from a farm within the outpost's radius
+Аванпост сейчас не расширяет зелёную зону. Подвоз из Цитадели был {0} назад	The outpost isn't expanding the green zone now. The last supply from the Citadel was {0} ago
+Столько зона продержится, если еду больше не принесут ({0}). Связь с Цитаделью: подвоз был {1} назад, без него — не больше {2}. Еды хватит на {3}, потом ещё {4} без еды	This is how long the zone holds if no more food is brought ({0}). Link to the Citadel: the last supply was {1} ago, without it — no more than {2}. Food lasts {3}, then another {4} without food
+нет! продержится {0}	none! holds out {0}
+Смотрители	Wardens
+Без смотрителей аванпост держится {0}, потом заброшен — как без еды. Нужен хотя бы один	Without wardens the outpost holds {0}, then it's abandoned — like without food. At least one is needed
+На Ур.3 смотрители ещё носят еду с фермы рядом	At Lv.3 wardens also carry food from a nearby farm
+стреляет · {0} кл	shoots · {0} cells
+заброшен — не стреляет	abandoned — doesn't shoot
+Ур. {0}: смотрители отстреливаются от врагов в радиусе {1} кл., как башня, только намного слабее ({2} урона раз в {3} с). Заброшенный или разрушенный аванпост не стреляет. В набеге на вашу деревню — тоже стреляет	Lv. {0}: wardens shoot back at enemies within {1} cells, like a tower, only much weaker ({2} damage every {3} s). An abandoned or destroyed outpost doesn't shoot. During a raid on your village it shoots too
+на месте только дежурные, {0} из {1}. Здание работает на {2}	only the skeleton crew is on site, {0} of {1}. The building works at {2}
+Ночью остаётся только дежурная смена	At night only a skeleton crew stays
+Склад полон: зелья некуда положить	Storage is full: nowhere to put the potions
+Травы со станций уносят в Цитадель («Собрать», курьеры). Повар несёт их из Цитадели в Зельеварню и варит. Готовые зелья несут в Цитадель или Хранилище, оттуда — в Оружейную (отравленные луки) и в казарму (маг-отравитель). Смолу даёт Лесопилка Ур.3. Ниже {0}% маны варка стоит. Сварено всего: {1}	Herbs from the stations are taken to the Citadel («Collect», couriers). The cook carries them from the Citadel to the Potion House and brews. Finished potions go to the Citadel or a Vault, and from there — to the Armory (poisoned bows) and to the barracks (poisoner mage). Resin comes from a Lv.3 Sawmill. Below {0}% mana brewing stops. Brewed in total: {1}
+сторожевой аванпост: отстреливается (слабее башни	watch outpost: shoots back (weaker than a tower
+{0}: приказ отправлен — бойцы закладывают его в деревне {1}, ~{2} с (пока рядом нет защитников	{0}: order sent — the soldiers are laying it in the village {1}, ~{2} s (while no defenders are nearby
+{0}: не удалось поставить (место заняли) — вернулось в запас похода	{0}: couldn't be placed (the spot was taken) — returned to the march stock
+{0}: приказ отправлен — ставят, ~{1} с (пока рядом нет защитников). Пока ставят — хрупкая	{0}: order sent — being placed, ~{1} s (while no defenders are nearby). Fragile while being placed
+Защитники растоптали ловушку: {0}	The defenders trampled a trap: {0}
+{0}: не удалось поставить — вернулась в набор похода	{0}: couldn't be placed — returned to the march kit
+{0} ставит: {1}	{0} is placing: {1}
+Разрушено укрепление защитника: {0}	Defender's fortification destroyed: {0}
+Защитники разрушили: {0}	The defenders destroyed: {0}
+унесут домой, если кто-то вернётся	will be carried home if someone comes back
+Награда за победу (уже в казне	Victory reward (already in the treasury
+Не хватит места в Цитадели и Хранилищах: пропадёт ~{0}. Постройте или улучшите Хранилище	Not enough room in the Citadel and Vaults: ~{0} will be lost. Build or upgrade a Vault
+Марш: идут к точке, не ввязываясь в бой	March: going to the point without getting into fights
+Награда за Цитадель (сразу в казну): ~{0}	Reward for the Citadel (straight to the treasury): ~{0}
+Награда за победу: {0} — уже в казне	Victory reward: {0} — already in the treasury
+За Цитадель: {0}	For the Citadel: {0}
+Уже в казне (башни): {0}	Already in the treasury (towers): {0}
+Премия за победу идёт сразу в казну, а не в мешки: даже если все бойцы погибнут, она останется	The victory bonus goes straight to the treasury, not into the sacks: even if all soldiers die, it stays
+Чем сильнее оборона деревни (башни, пушки, стены, войско), тем больше премия	The stronger the village's defence (towers, cannons, walls, army), the bigger the bonus
+За каждую разрушенную башню или пушку — тоже немного. У хозяина деревни премию не отнимают	For each destroyed tower or cannon — a little too. The bonus isn't taken from the village's owner
+ЛКМ по земле — идти, по дороге бить всех	LMB on the ground — walk, hitting everyone along the way
+Двойной клик — марш, ни на что не отвлекаясь	Double click — march, without getting distracted
+Награда за Цитадель {0} — сразу в казну: {1}	Reward for the Citadel {0} — straight to the treasury: {1}
+{0} разрушена — награда в казну: {1}	{0} destroyed — reward to the treasury: {1}
+бойцов в казармах нет	no soldiers in the barracks
+ошибка загрузки	loading error
+Набег из прошлой игры не продолжить	The raid from the previous game can't be continued
+армия дома, снаряжение в запасе	the army is home, the equipment is in stock
+запись повреждена	the record is damaged
+нет города противника	no enemy town
+бойцы не вернулись в казармы	the soldiers didn't return to the barracks
+вас не было {0}	you were away for {0}
+Поход на {0} сорван: вас не было слишком долго. Армия вернулась, припасы в казне	The march on {0} was called off: you were away too long. The army has returned, the supplies are in the treasury
+Набег на {0} продолжается: армия снова выходит к краю карты	The raid on {0} continues: the army heads to the edge of the map again
+Набег на {0} продолжается: армия в пути, до деревни {1} с{2}	The raid on {0} continues: the army is on the way, {1} s to the village{2}
+Армия дошла до {0}, пока вас не было, ждала приказа всё время набега и ушла домой без боя	The army reached {0} while you were away, waited for orders the whole raid and went home without a fight
+Армия дошла до {0}, пока вас не было, и ждёт приказа у деревни. До конца набега {1} мин	The army reached {0} while you were away and is waiting for orders at the village. {1} min until the raid ends
+Бой в деревне {0} шёл без вас — армия ушла оттуда с тем, что несла	The battle in the village {0} went on without you — the army left with what it was carrying
+Время набега на {0} вышло, пока вас не было — армия ушла с тем, что несла	The raid time on {0} ran out while you were away — the army left with what it was carrying
+Пока вас не было, армия держала позиции у {0}{1}	While you were away, the army held its positions at {0}{1}
+Армия возвращается из набега на {0}: в пути {1} с	The army is returning from the raid on {0}: {1} s on the way
+Набег на {0} продолжается: армия у деревни, до конца боя {1} мин	The raid on {0} continues: the army is at the village, {1} min until the battle ends
+таран бьёт	ram striking
+идёт маршем	marching
+идёт с боем	advancing with a fight
+не больше лимитов склада	no more than the storage limits
+Через дробь — лимит: его даёт Цитадель (Ур. {0}), каждое Хранилище добавляет ещё. Сверх лимита ничего не копится	After the slash is the limit: the Citadel gives it (Lv. {0}), each Vault adds more. Nothing piles up above the limit
+Лес: лесопилка даёт больше дерева, ягоды отрастают быстрее. Но все ходят медленнее (кроме дорожек), а обзор короче — удобно для засад	Forest: the sawmill gives more wood, berries grow back faster. But everyone walks slower (except on paths), and the view is shorter — good for ambushes
+с ядром хаоса	with a chaos core
+Ядро хаоса на щите иссякло ({0} щит	The chaos core on the shield is exhausted ({0} shield
+ядро хаоса Мк.{0}: отражает {1}% снарядов, ещё {2}	chaos core Mk.{0}: reflects {1}% of projectiles, {2} more
+хаос {0}% ×{1}	chaos {0}% ×{1}
+хаос ×{0}	chaos ×{0}
+охраняет казарму	guarding the barracks
+патруль	patrol
+Лошадь растёт {0} с. Овёс даёт ферма Ур.3. Лошади нужны конным войскам (казарма Ур.4) и обозам; гибнут вместе со всадником, уволенный всадник возвращает лошадь. Вырастили всего: {1}	A horse grows for {0} s. Oats come from a Lv.3 farm. Horses are needed by mounted troops (barracks Lv.4) and wagon trains; they die together with the rider, a dismissed rider returns the horse. Raised in total: {1}
+Склад полон, лишнее пропало	Storage is full, the surplus is lost
+Улучшите Цитадель или постройте Хранилище	Upgrade the Citadel or build a Vault
+в Цитадели {0} из {1}, остальное — в Хранилищах	{0} of {1} in the Citadel, the rest — in the Vaults
+лимит {0}	limit {0}
+привезти отряд из лагеря наёмников	bring a squad from the mercenary camp
+Склад полон — некуда положить	Storage is full — nowhere to put it
+На складе место только под {0} шт	Storage has room for only {0} pcs
+некому ставить	nobody to place it
+Наши бойцы растоптали ловушку врага: {0}	Our soldiers trampled an enemy trap: {0}
+Живой бой: ловушка стоит у защитника, снять её нельзя	Live battle: the trap belongs to the defender, it can't be removed
+Обычные — дома в мирное время, в своей зелёной зоне. Боевые — в бою: дома во время войны и в набеге (не в зелёной зоне врага); ставятся долго и, пока ставятся, хрупкие. Нельзя: на занятые клетки, в тумане, рядом с врагами, вплотную к другой ловушке. T — открыть / закрыть	Common ones — at home in peacetime, in your green zone. Combat ones — in battle: at home during war and in a raid (not in the enemy's green zone); they take long to place and are fragile while being placed. Not allowed: on occupied cells, in fog, next to enemies, right next to another trap. T — open / close
+Наверху справа — часы и мана (✦). День сменяется ночью: ночью на производстве остаётся только дежурная смена, остальные спят дома. Выходных нет: работают каждый день	Top right — the clock and mana (✦). Day turns into night: at night only a skeleton crew stays at work, the rest sleep at home. No days off: they work every day
+Идёт набег — улучшать нельзя	A raid is on — upgrading isn't allowed
+Ур. {0} — только с Цитадели Ур. {1}	Lv. {0} — only with Citadel Lv. {1}
+Участок	Section
+на этом участке стены (соединены стенами, воротами и башнями	on this wall section (connected by walls, gates and towers
+во всём городе	in the whole town
+Ресурсов не хватает даже на одно улучшение	Not enough resources even for one upgrade
+Цена одного: {0}	Price of one: {0}
+Ресурсов хватит на {0} (ближние к выбранной — первыми	Resources are enough for {0} (those nearest to the selected one — first
+Цена списывается сразу; уровень вырастет, когда жители донесут материалы	The price is deducted at once; the level will rise when villagers deliver the materials
+Заказано улучшение до Ур. {0}: {1}, {2} шт	Upgrade to Lv. {0} ordered: {1}, {2} pcs
+Цена списывается сразу. Житель донесёт материалы, потом улучшение идёт {0}	The price is deducted at once. A villager will deliver the materials, then the upgrade takes {0}
+Ур. {0} — с Цитадели Ур. {1}	Lv. {0} — with Citadel Lv. {1}
+Стройка · ещё {0}	Construction · {0} left
+Здание строится и пока не работает	The building is under construction and doesn't work yet
+Здание работает на старом уровне, пока идёт улучшение	The building works at the old level while the upgrade is in progress
+Дальний склад стоит вне карты: товары там недоступны врагам и не входят в казну (набеги их не трогают). Ячейка вмещает {0} ед. любых ресурсов, каждая следующая дороже. Обоз берёт до {1} ед. ({2} на лошадь); чем больше ячеек, тем больше лошадей нужно. За кадром обоз едет {3} с (выше уровень — быстрее). Во время войны обоз ждёт за краем карты	The Far Depot is off the map: goods there are out of the enemies' reach and aren't part of the treasury (raids don't touch them). A cell holds {0} units of any resources, each next one costs more. The wagon train takes up to {1} units ({2} per horse); the more cells, the more horses are needed. Off-screen the wagon train travels {3} s (higher level — faster). During war the wagon train waits beyond the edge of the map
+Не влезло (склад полон), осталось в Дальнем складе	Didn't fit (storage is full), left in the Far Depot
+В войну выходят из укрытия и чинят здания прямо под ударами: {1} прочности/с на строителя (Ур.1-3: 5/6.5/8), не больше {2} на здание. Встают с той стороны, где нет врагов; враг вплотную — бегут прятаться	During war they come out of cover and repair buildings right under attack: {1} durability/s per builder (Lv.1-3: 5/6.5/8), no more than {2} per building. They stand on the side where there are no enemies; when an enemy is right next to them — they run to hide
+Цитадель Ур.{0} — враги крепче	Citadel Lv.{0} — enemies are tougher
+Пока на карте враги (и ещё немного после) — война: новые жители не прибывают, мирные прячутся в здания, строить нельзя, купцы не заходят	While there are enemies on the map (and a little after) — it's war: no new villagers arrive, civilians hide in buildings, building isn't allowed, merchants don't come
+Набег не закончился: на город снова идут враги ({0}	The raid isn't over: enemies are marching on the town again ({0}
+Их добыча вернулась в казну: {0}	Their loot returned to the treasury: {0}
+Пока вас не было, набег №{0} ({1} врагов) отбит{2}{3}	While you were away, raid #{0} ({1} enemies) was repelled{2}{3}
+в казне было пусто	the treasury was empty
+Пока вас не было, набег №{0} ({1} врагов) прорвался: {2}{3}{4}	While you were away, raid #{0} ({1} enemies) broke through: {2}{3}{4}
+Хранилище поднимает лимиты казны Цитадели	A Vault raises the Citadel's treasury limits
+Материалы (доски, плиты, сталь...) лежат в самом Хранилище: когда в Цитадели нет места, лишнее несут сюда	Materials (planks, slabs, steel...) are kept in the Vault itself: when there is no room in the Citadel, the surplus is carried here
+Хранилище держит доски, плиты, сталь, смоляной брус и монолит. На постройки и улучшения они списываются сами (сначала из Цитадели, потом отсюда). Если Хранилище разрушат враги, они унесут 20% содержимого; если снести его самому — всё вернётся в Цитадель	The Vault holds planks, slabs, steel, resin beams and monoliths. They are deducted for construction and upgrades by themselves (first from the Citadel, then from here). If enemies destroy the Vault, they take 20% of its contents; if you demolish it yourself — everything returns to the Citadel
+Лимит казны: +{0} зол., +{1} дер./кам. и др	Treasury limit: +{0} gold, +{1} wood/stone, etc
+Цитадель: нет места под этот материал или некому нести	Citadel: no room for this material or nobody to carry it
+салют Мк.{0} ещё на {1} выстр	fireworks Mk.{0} for {1} more shots
+Три работы: доводка оружия (мини-игра), полевые укрепления и боевая переделка ловушек. Укрепления и ловушки делают разные мастера — параллельно. Нужен мастер (рабочий	Three jobs: weapon finishing (mini-game), field fortifications and combat conversion of traps. Fortifications and traps are made by different masters — in parallel. A master (worker) is needed
+Мини-игра: три удара по наковальне — заточка (урон), закалка (прочность), баланс (скорость удара). Бейте, когда ползунок в зелёном центре: чем точнее, тем больше прибавка. Итог — звёзды ★ в названии. Оружие доводят один раз	Mini-game: three strikes on the anvil — sharpening (damage), hardening (durability), balance (attack speed). Strike when the slider is in the green centre: the more precise, the bigger the bonus. The result is ★ stars in the name. A weapon is finished only once
+Нужны еда и золото	Food and gold needed
+Для обороны и набегов. Готовое лежит в запасе Цитадели: дома ставят во время войны (кнопка «Заслоны» [B]), в набег берут в окне «В бой!». Сила кузни ×{0} — прочность и лечебный запас. Изготовлено всего: {1}	For defence and raids. Finished items lie in the Citadel's stock: at home they are placed during war («Barricades» button [B]), on a raid they are taken in the «To battle!» window. Smithy strength ×{0} — durability and healing supply. Made in total: {1}
+не хватает лечения: {0} ({1} шт	not enough healing: {0} ({1} pcs
+хватит на часть	enough for some
+Лечебный запас пункта сам не восстанавливается: что раздал раненым, то потрачено. Пополнение: 1 еда — {0} здоровья, 1 золото — {1}. Сначала пополняются самые пустые. Не хватает казны — пополнится сколько хватит	A post's healing supply doesn't restore by itself: what's given to the wounded is spent. Refill: 1 food — {0} health, 1 gold — {1}. The emptiest ones are refilled first. If the treasury is short — it refills as much as it can
+Пополнить аптечки	Refill first-aid kits
+Пополнить	Refill
+Кузня: аптечки пунктов пополнены на {0} здоровья	Smithy: posts' first-aid kits refilled by {0} health
+Обычная ловушка из запаса Цитадели становится БОЕВОЙ: её ставят прямо в бою — дома во время войны и в набеге (не в зелёной зоне врага). Урон ×{0}. Ставится долго и, пока ставится, её легко растоптать. Обычные ловушки — с рынка (их собирают инженеры). Переделано всего: {1}	A common trap from the Citadel's stock becomes a COMBAT one: it is placed right in battle — at home during war and in a raid (not in the enemy's green zone). Damage ×{0}. It takes long to place and while being placed it's easy to trample. Common traps come from the market (engineers assemble them). Converted in total: {1}
+Обработка дерева	Woodworking
+укр	reinf
+проп	coat
+Выплавить сталь	Smelt steel
+Сварить пропитку	Brew coating
+Несут сырьё из Цитадели	Raw materials are being carried from the Citadel
+Крафт	Crafting
+Свободна. Готовое несут: {0}	Free. Finished goods being carried: {0}
+Город на войне не сохранён: {0}	The town at war wasn't saved: {0}
+Город не сохранён: {0}	The town wasn't saved: {0}
+Дефицит: не хватает {0}	Shortage: not enough {0}
+Сколько зданий снабжать (от центра	How many buildings to supply (from the centre
+✦ Мана в воздухе {0}% — новая каждый день	✦ Mana in the air {0}% — renews every day
+несут обратно: {0}	being carried back: {0}
+рейтинг клана {0}	clan rating {0}
+{0}: на месте только дежурные, {1} из {2}. Здание работает на {3}	{0}: only the skeleton crew is on site, {1} of {2}. The building works at {3}
+таран бьёт: {0}	ram striking: {0}
+не разобрать	can't make out
+Здоровье — среднее самочувствие мирных (голод и раны); слабые — ниже {0}	Health — the average condition of civilians (hunger and wounds); weak — below {0}
+Нет связи с сервером. Он запущен? ({0}	No connection to the server. Is it running? ({0}
+Переплавить, чтобы освободить место. Вернётся совсем немного: {0}	Melt down to free up space. Very little comes back: {0}
+Нажмите ещё раз — предмет исчезнет, в Цитадель вернётся: {0}	Press again — the item will disappear, the Citadel gets back: {0}
+И всё, что лежит в здании: {0} ед	And everything stored in the building: {0} units
+ПОЖАР! Литейная перегрелась и сгорела.{0} Руины отстроят, как после набега	FIRE! The Foundry overheated and burned down.{0} The ruins will be rebuilt, as after a raid
+ПОЖАР! Литейная перегрелась и сгорела. Руины отстроят, как после набега	FIRE! The Foundry overheated and burned down. The ruins will be rebuilt, as after a raid
+Набег из прошлой игры не продолжить ({0}) — армия дома, снаряжение в запасе	The raid from the previous game can't be continued ({0}) — the army is home, the equipment is in stock
+вдали от города, ещё {0} с	far from town, {0} s more
+на месте {0}	on site {0}
+ПОЖАР	FIRE
+Литейная перегрелась и сгорела	The Foundry overheated and burned down
+Плавка «{0}» пропала	The melt «{0}» is lost
+Руины отстроят, как после набега	The ruins will be rebuilt, as after a raid
+Все выйдут на работу утром (06:00), через {0}	Everyone will go back to work in the morning (06:00), in {0}
+Все выйдут на работу в понедельник утром, через {0}	Everyone will go back to work on Monday morning, in {0}
+полон через {0}	full in {0}
+Режим накопления: через {0} с	Accumulation mode: in {0} s

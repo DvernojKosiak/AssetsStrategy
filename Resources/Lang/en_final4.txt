@@ -1,0 +1,49 @@
+# Обновление final-4: сторона похода, ядра пушки одним списком, дозоры (дополнение к en.txt)
+Армия подойдёт к деревне с запада и войдёт на карту у западного края. Из нашего города уйдёт через восточный край.	The army will approach the village from the west and enter the map at the western edge. It will leave our town through the eastern edge.
+Армия подойдёт к деревне с востока и войдёт на карту у восточного края. Из нашего города уйдёт через западный край.	The army will approach the village from the east and enter the map at the eastern edge. It will leave our town through the western edge.
+Армия подойдёт к деревне с юга и войдёт на карту у южного края. Из нашего города уйдёт через северный край.	The army will approach the village from the south and enter the map at the southern edge. It will leave our town through the northern edge.
+Армия подойдёт к деревне с севера и войдёт на карту у северного края. Из нашего города уйдёт через южный край.	The army will approach the village from the north and enter the map at the northern edge. It will leave our town through the southern edge.
+Армия подойдёт к деревне с запада и войдёт на карту у западного края.	The army will approach the village from the west and enter the map at the western edge.
+Армия подойдёт к деревне с востока и войдёт на карту у восточного края.	The army will approach the village from the east and enter the map at the eastern edge.
+Армия подойдёт к деревне с юга и войдёт на карту у южного края.	The army will approach the village from the south and enter the map at the southern edge.
+Армия подойдёт к деревне с севера и войдёт на карту у северного края.	The army will approach the village from the north and enter the map at the northern edge.
+Из нашего города уйдёт через восточный край.	It will leave our town through the eastern edge.
+Из нашего города уйдёт через западный край.	It will leave our town through the western edge.
+Из нашего города уйдёт через северный край.	It will leave our town through the northern edge.
+Из нашего города уйдёт через южный край.	It will leave our town through the southern edge.
+Дома её не будет до возвращения.	It will be away from home until it returns.
+Подойдём с запада, из города выйдем на востоке	We approach from the west, leaving town in the east
+Подойдём с востока, из города выйдем на западе	We approach from the east, leaving town in the west
+Подойдём с юга, из города выйдем на севере	We approach from the south, leaving town in the north
+Подойдём с севера, из города выйдем на юге	We approach from the north, leaving town in the south
+высадка	landing
+Карта повёрнута так, как деревня будет видна, когда армия подойдёт; С — север	The map is turned the way the village will look when the army arrives; С is north
+Ядра	Cannonballs
+обычные	regular
+Без особых ядер пушка стреляет обычными (бесплатно, всегда).	Without special balls the cannon fires regular ones (free, always).
+Бронебойное ядро делает Инженерный двор (хранится в Оружейной): урон сильнее, +1 осколок, щит и укрытие не спасают, осколки летят сквозь стены. Каждый выстрел изнашивает ядро.	Armor-piercing balls are made by the Engineer Yard (stored in the Armory): stronger damage, +1 shard, shields and cover don't help, shards fly through walls. Every shot wears the ball down.
+Магические снаряды (огонь, лёд, чары) делает Магическая оружейная или продаёт рынок: пачка на несколько выстрелов.	Magic shells (fire, ice, arcane) are made by the Magic Armory or sold at the market: a pack lasts several shots.
+Бронебойное и магическое можно зарядить вместе — тогда выстрел и то, и другое.	Armor-piercing and magic can be loaded together — then each shot is both.
+Бронебойное	Armor-piercing
+Огненные	Fire
+Ледяные	Ice
+Чародейские	Arcane
+Бронебойное ядро уже несут из Оружейной	The armor-piercing ball is already being brought from the Armory
+Зарядить бронебойное: житель принесёт лучшее из Оружейной (там: {0})	Load armor-piercing: a villager will bring the best one from the Armory (there: {0})
+Бронебойных ядер нет — их делает Инженерный двор (путь Инженерии), они хранятся в Оружейной	No armor-piercing balls — the Engineer Yard makes them (Engineering path), they are kept in the Armory
+Зарядить: {0} (пачек в городе: {1})	Load: {0} (packs in town: {1})
+{0}: пачек нет — их делает Магическая оружейная (путь Магии) или продаёт рынок	{0}: no packs — the Magic Armory makes them (Magic path) or the market sells them
+Бронебойное: ждёт со склада	Armor-piercing: waiting for stock
+Бронебойное: не заряжено	Armor-piercing: not loaded
+Бронебойное ядро кончилось — сразу взять следующее из Оружейной	When the armor-piercing ball runs out, take the next one from the Armory right away
+Бронебойное ядро не заряжено	No armor-piercing ball loaded
+Снаряды уносят на склад	The shells are being carried to storage
+Пачку снарядов несут	A pack of shells is on its way
+несут новую	bringing a new one
+уносят	carrying away
+осталось	left
+Нажмите на ядро, чтобы зарядить. Бронебойное и магическое можно вместе.	Tap a ball to load it. Armor-piercing and magic can go together.
+Ядра: магические снаряды	Cannonballs: magic shells
+бронебойные ядра	armor-piercing balls
+Дозоры: разведчики возвращаются на свои места ({0})	Lookouts: scouts are returning to their posts ({0})
+Не переставлять этого игрока	Don't move this player

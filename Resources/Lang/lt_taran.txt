@@ -1,0 +1,8 @@
+# Таран - одна боевая единица дома и в обороне: дополнение к lt.txt
+Таран разбит — {0} дерутся ножами	Taranas sudaužytas — {0} kaunasi peiliais
+Таран разбит — {0} дерётся ножом	Taranas sudaužytas — {0} kaunasi peiliu
+Таран разнёс лагерь войска {0}	Taranas sugriovė kariuomenės stovyklą: {0}
+{0}: таран починен ({1} досок)	{0}: taranas sutaisytas ({1} lent.)
+в таране ({0} несёт)	tarane ({0} neša)
+Уволить расчёт тарана ({0})?	Atleisti tarano įgulą ({0})?
+Оба носильщика уйдут со службы и снова станут жителями. Оружие вернётся в Оружейную, таран разберут.	Abu nešikai paliks tarnybą ir vėl taps gyventojais. Ginklai grįš į Ginklinę, taranas bus išardytas.

@@ -1,0 +1,12 @@
+# Обновление final-2: понятный вид, обучение для телефона, стройка (дополнение к en.txt)
+Торговый дом ещё строится — рынок откроется, когда стройка закончится	The Trading House is still being built — the market opens when construction is finished
+Ведите пальцем по карте — она двигается	Drag a finger across the map to move it
+Два пальца: развести — приблизить, свести — отдалить	Two fingers: spread to zoom in, pinch to zoom out
+Слева сверху — казна: золото, дерево, камень и еда, под ними жители. Подержите палец на строке — появится подсказка с остальными запасами	Top left is the treasury: gold, wood, stone and food, with your people below. Hold your finger on the line to see the rest of your stock
+Нажмите «Постройки» и выберите Жилой дом. Ведите пальцем — дом едет следом, потом нажмите «Поставить»	Tap «Buildings» and pick a House. Drag your finger and the house follows, then tap «Place»
+Иногда на город нападают. Постройте Казарму и обучите бойцов, ставьте стены и башни. Когда бойцы готовы, кнопка «В бой!» справа снизу отправит их в набег за добычей	Sometimes the town is attacked. Build Barracks and train fighters, put up walls and towers. When your fighters are ready, the «To battle!» button at the bottom right sends them on a raid for loot
+Справа сверху: «Город» — сводка по городу и сбор готовых ресурсов, «Путь» — выбор направления развития, когда Цитадель подрастёт. «Клан» — общий чат и войны вместе с другими игроками	Top right: «Town» shows a town summary and collects ready resources, «Path» lets you pick a development direction once the Citadel grows. «Clan» is a shared chat and wars together with other players
+Проверьте интернет на телефоне. Пробуем снова…	Check the phone's internet connection. Retrying…
+Проверьте интернет на телефоне. Пробуем снова	Check the phone's internet connection. Retrying
+Проверьте интернет на телефоне	Check the phone's internet connection
+{0}: готово сразу за {1} ◈	{0}: finished right away for {1} ◈

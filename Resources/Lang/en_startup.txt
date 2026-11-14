@@ -1,0 +1,22 @@
+# Заставка и экран загрузки (zastavka-1)
+Подключение к серверу	Connecting to the server
+Сервер не отвечает. Пробуем снова	The server is not responding. Retrying
+Сервер не отвечает	The server is not responding
+Пробуем снова	Retrying
+Строим город	Building the city
+Совет	Tip
+Стройте город	Build a city
+собирайте клан	gather a clan
+воюйте за лигу	fight for your league
+Город сохраняется на сервере сам: раз в полминуты и после каждой постройки	Your city saves to the server by itself: every half minute and after every building
+Хранилища поднимают предел ресурсов. Казна упёрлась в потолок - пора строить ещё одно	Vaults raise the resource limit. Treasury hit the cap? Time to build another one
+Руины после набега отстраиваются сами, но на восстановление уходят дерево и камень	Ruins rebuild themselves after a raid, but repairs cost wood and stone
+Пока идёт набег, улучшать здания нельзя. Готовьте оборону заранее	Buildings can't be upgraded during a raid. Prepare your defense in advance
+Курьеры в дальних рейсах едят больше. Ставьте Курьерскую ближе к работе	Couriers eat more on long trips. Build the Courier House close to the work
+Аванпост Ур.4 сам отстреливается от врагов, хоть и слабее башни	An Outpost Lv.4 shoots back at enemies, though weaker than a tower
+Дороги и брусчатка соединяются сами: просто стройте их рядом	Roads and cobblestone join up by themselves: just build them next to each other
+В окне клана есть вкладка «Лиги»: там ваш рейтинг и рейтинг клана	The clan window has a «Leagues» tab with your rating and your clan's rating
+Пока идёт клановая война, на кнопке «Клан» горит ⚔	While a clan war is on, the «Clan» button shows ⚔
+Ловушки собирают в Инженерном дворе: основа и добавки меняют, как они работают	Traps are assembled in the Engineer Yard: the base and add-ons change how they work
+Отряд из лагеря можно отправить дальше кнопкой «Дальше...». Двойной клик - марш без остановок	A squad can leave its camp with the «Further...» button. Double-click to march without stopping
+Пропала связь с сервером - игра встанет на паузу и продолжится сама, когда он вернётся	If the server connection drops, the game pauses and resumes by itself when it's back

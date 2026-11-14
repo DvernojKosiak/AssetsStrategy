@@ -1,0 +1,52 @@
+# Описания путей развития и окно клана: дополнение к en.txt
+Жители учатся работать с травами и маной. Магия не ломает стены, зато ослабляет врагов издалека: ядом, замедлением, огнём и водой. Чем больше маны в воздухе, тем она сильнее	Your people learn to work with herbs and mana. Magic does not break walls, but it weakens enemies from afar with poison, slowness, fire and water. The more mana in the air, the stronger it gets
+зелья яда и замедления	poison and slowness potions
+снаряды для пушек	shells for cannons
+Ставка на мастерство и сапёрное дело. Оружие доводят вручную до ★★★, ловушки ставят прямо посреди боя, через реки наводят понтоны. Путь для тех, кто любит вести бой сам	A bet on craftsmanship and field engineering. Weapons are honed by hand up to ★★★, traps are set right in the middle of battle, pontoons span the rivers. The path for those who like to lead the fight themselves
+заточка оружия до ★★★	weapon honing up to ★★★
+которые ставят в бою	placed during battle
+через реки	across rivers
+Город превращается в мастерскую. Из руды и смолы делают детали и резину, а из них собирают модули, которые усиливают башни, мосты и пушки. Сильный путь, но котлы можно перегреть	The town becomes a workshop. Ore and resin are turned into parts and rubber, and those into modules that strengthen towers, bridges and cannons. A strong path, but the boilers can overheat
+Маги договариваются с лесом и рекой, и своя земля начинает помогать. У воды бойцы сами лечатся, у рек и лесов постройки работают быстрее, а в лесах иногда видно всё, что прячет туман	Mages make a pact with forest and river, and your own land starts to help. Near water soldiers heal on their own, buildings by rivers and forests work faster, and sometimes you can see everything the fog hides in the woods
+бойцов у рек	for soldiers near rivers
+к работе построек у рек и лесов	to buildings by rivers and forests
+Взгляд сквозь туман	Sight through fog
+в лесах	in forests
+Маги вкладывают в алтарь еду, камень и травы и выращивают из них голема. Голем охраняет всё вокруг алтаря и может пойти с армией в набег. Пока стоит алтарь, голем всегда вернётся	Mages put food, stone and herbs into the altar and grow a golem from them. The golem guards everything around the altar and can join the army on a raid. As long as the altar stands, the golem always comes back
+Голем ходит в	Golem joins the
+Самая непредсказуемая школа. Маг стихий получает ядро хаоса и время от времени бросает чёрную дыру: она почти не ранит, но стягивает врагов в кучу под удар пушек, ловушек и огненного шара	The most unpredictable school. The Elementalist gets a chaos core and now and then throws a black hole: it barely hurts, but pulls enemies into a pile for cannons, traps and fireballs
+в Магической оружейной	in the Magic Armory
+у Мага стихий	for the Elementalist
+Инженеры строят осадные машины. Катапульта бросает камни навесом прямо через стены и накрывает целую площадь с огромного расстояния. Она медленная, поэтому держите её за спинами бойцов	Engineers build siege engines. The catapult lobs stones right over walls and covers a whole area from a huge distance. It is slow, so keep it behind your soldiers
+Инженеры увлекаются порохом. Башни часто стреляют огненными стрелами, и искры от них ранят соседних врагов. А на земле ждут салюты, которые подбрасывают врага в воздух и поджигают	Engineers fall for gunpowder. Towers shoot fiery arrows often, and their sparks hurt nearby enemies. On the ground, fireworks wait to toss enemies into the air and set them on fire
+Ставка на производство. Завод создаёт вокруг себя площадку, и все производства на ней работают быстрее, пока есть топливо. Можно разогнать ещё сильнее, но перегрев кончается взрывом	A bet on production. The Factory creates a yard around itself, and every workshop on it works faster while there is fuel. You can push it even harder, but overheating ends in an explosion
+и заводская площадка	and the factory yard
+Ускорение	Speed-up
+производств на топливе	of workshops on fuel
+Бойцы идут в бой стеной. Доспехи снижают урон, шипованный заслон ранит тех, кто его бьёт, а заслон на колёсах боец катит перед собой прямо под стрелами	Soldiers march into battle like a wall. Armor reduces damage, the spiked barricade hurts whoever hits it, and the wheeled barricade is pushed by a soldier right under the arrows
+Пока идёт война, город держится на строителях. Они бегут к отмеченным постройкам и чинят их прямо под ударами, а в поле быстро ставят лёгкие заслоны	During war the town relies on its builders. They run to marked buildings and repair them under fire, and quickly put up light barricades in the field
+под огнём	under fire
+Война невидимок. Бойцы в накидках из листвы подбираются к врагу незамеченными, а разведчики сидят в дозоре, видят всю округу и сами остаются скрытыми	A war of the unseen. Soldiers in leaf cloaks sneak up on the enemy unnoticed, and scouts keep watch, see the whole area and stay hidden themselves
+Разведчики	Scouts
+Открывает	Unlocks
+В клане есть общий чат, клановые войны и рейтинг клана. Вступите в готовый клан или создайте свой	A clan gives you a shared chat, clan wars and a clan rating. Join an existing clan or create your own
+Чат	Chat
+Выйти из клана. Главой станет заместитель (или другой участник	Leave the clan. The co-leader becomes leader (or another member
+Лига клана. Рейтинг клан получает за клановые войны	Clan league. The clan earns rating in clan wars
+в сети {0} из {1}	{0} of {1} online
+Игрок · в сети {0}/{1}, мест {2}	Player · online {0}/{1}, slots {2}
+Роль	Role
+Лига	League
+Роли в клане	Clan roles
+Щёлкните игрока в списке, чтобы повысить, понизить или исключить его	Click a player in the list to promote, demote or kick them
+Щёлкните игрока в списке, чтобы посмотреть его роль	Click a player in the list to see their role
+Действия	Actions
+Участник не может менять роли. Повысить вас может старейшина или выше	A member cannot change roles. An elder or higher can promote you
+Менять роль можно только тем, у кого роль ниже вашей	You can only change the role of players ranked below you
+Исключить из клана	Kick from clan
+Может всё: начинает войну, назначает и снимает любые роли, передаёт главенство	Can do everything: starts wars, assigns and removes any role, hands over leadership
+Начинает войну, расставляет города, исключает старейшин и участников	Starts wars, places towns, kicks elders and members
+Может исключать участников	Can kick members
+Общается в чате и воюет вместе с кланом	Chats and fights alongside the clan
+Повысить: {0}	Promote: {0}
+Понизить: {0}	Demote: {0}

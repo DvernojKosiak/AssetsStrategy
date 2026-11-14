@@ -1,0 +1,24 @@
+# Mobilioji versija telefon-3: priedas prie lt.txt
+Управление пальцами и жесты	Valdymas pirštais ir gestai
+Насколько крупно рисуются окна, кнопки и надписи. На телефоне обычный размер уже рассчитан под палец; если что-то не влезает в экран — уменьшите. Нажмите на число — вернётся 100%.	Kokio dydžio piešiami langai, mygtukai ir užrašai. Telefone įprastas dydis jau pritaikytas pirštui; jei kas nors netelpa ekrane – sumažinkite. Paspauskite skaičių – grįš 100%.
+Удерживать палец на кнопке — подсказка к ней (кнопка не нажмётся)	Palaikykite pirštą ant mygtuko – pamatysite patarimą (mygtukas nebus paspaustas)
+Кнопка «Назад» телефона закрывает окно или отменяет стройку	Telefono mygtukas „Atgal“ uždaro langą arba atšaukia statybą
+Окна мелкие или крупные — ⚙ → «Размер интерфейса»	Langai per maži ar per dideli? ⚙ → „Sąsajos dydis“
+Только в зелёной зоне  ·  список листается пальцем  ·  «Назад» — закрыть	Tik žaliojoje zonoje  ·  sąrašą slinkite pirštu  ·  „Atgal“ – uždaryti
+«✓ Поставить» внизу · «✕ Отмена» — убрать из рук	„✓ Pastatyti“ apačioje · „✕ Atšaukti“ – padėti atgal
+Проверьте интернет на телефоне и адрес сервера ниже. Пробуем снова…	Patikrinkite telefono internetą ir serverio adresą žemiau. Bandome vėl…
+Подряд: да	Iš eilės: taip
+Подряд: нет	Iš eilės: ne
+Линией: да	Linija: taip
+Линией: нет	Linija: ne
+«Линией» — вести пальцем, ставится по пути	„Linija“ – vedžiokite pirštą, statoma pakeliui
+«Подряд» — поставить несколько таких	„Iš eilės“ – pastatyti kelis tokius
+Здание в руках: ведите пальцем — здание едет следом. «Поставить» или двойное нажатие — поставить. «Подряд» — после постройки взять такое же. «Линией» (дороги, стены, мосты) — вести пальцем, и они ставятся по пути.	Pastatas rankoje: vedžiokite pirštą – pastatas seka paskui. „Statyti“ arba dvigubas bakstelėjimas – pastatyti. „Iš eilės“ – pastačius paimti tokį patį. „Linija“ (keliai, sienos, tiltai) – vedžiokite pirštą, ir jie statomi pakeliui.
+Жители едят намного меньше	Gyventojai valgo daug mažiau
+идёт {0} мин · добыча {1}% · едят меньше · прироста жителей нет	veikia {0} min · gavyba {1}% · valgo mažiau · gyventojų prieaugio nėra
+◈ Магазин марок	◈ Markių parduotuvė
+Магазин марок	Markių parduotuvė
+Пока вас не было	Kol jūsų nebuvo
+Понятно	Supratau
+Идёт само, даже когда вы не в игре	Vyksta savaime, net kai nežaidžiate
+Время работы: {0}	Darbo laikas: {0}

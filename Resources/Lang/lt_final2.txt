@@ -1,0 +1,12 @@
+# Обновление final-2: понятный вид, обучение для телефона, стройка (дополнение к lt.txt)
+Торговый дом ещё строится — рынок откроется, когда стройка закончится	Prekybos namai dar statomi – turgus atsidarys, kai statyba baigsis
+Ведите пальцем по карте — она двигается	Veskite pirštu žemėlapiu – jis juda
+Два пальца: развести — приблизить, свести — отдалить	Du pirštai: išskėsti – priartinti, suglausti – nutolinti
+Слева сверху — казна: золото, дерево, камень и еда, под ними жители. Подержите палец на строке — появится подсказка с остальными запасами	Viršuje kairėje – iždas: auksas, mediena, akmuo ir maistas, po jais gyventojai. Palaikykite pirštą ant eilutės – pamatysite kitas atsargas
+Нажмите «Постройки» и выберите Жилой дом. Ведите пальцем — дом едет следом, потом нажмите «Поставить»	Paspauskite „Pastatai“ ir pasirinkite Gyvenamąjį namą. Veskite pirštu – namas seka paskui, tada paspauskite „Uždėti“
+Иногда на город нападают. Постройте Казарму и обучите бойцов, ставьте стены и башни. Когда бойцы готовы, кнопка «В бой!» справа снизу отправит их в набег за добычей	Kartais miestą užpuola. Pastatykite Kareivines ir apmokykite karius, statykite sienas ir bokštus. Kai kariai pasiruošę, mygtukas „Į mūšį!“ apačioje dešinėje išsiųs juos į žygį grobio
+Справа сверху: «Город» — сводка по городу и сбор готовых ресурсов, «Путь» — выбор направления развития, когда Цитадель подрастёт. «Клан» — общий чат и войны вместе с другими игроками	Viršuje dešinėje: „Miestas“ – miesto suvestinė ir paruoštų išteklių surinkimas, „Kelias“ – vystymosi krypties pasirinkimas, kai Citadelė paaugs. „Klanas“ – bendras pokalbis ir karai kartu su kitais žaidėjais
+Проверьте интернет на телефоне. Пробуем снова…	Patikrinkite telefono internetą. Bandome vėl…
+Проверьте интернет на телефоне. Пробуем снова	Patikrinkite telefono internetą. Bandome vėl
+Проверьте интернет на телефоне	Patikrinkite telefono internetą
+{0}: готово сразу за {1} ◈	{0}: baigta iš karto už {1} ◈
